@@ -1,0 +1,29 @@
+{
+  "name": "onslaught_bot",
+  "version": "1.0.0",
+  "description": "A Discord bot that does a lot of testing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Woofmagic/onslaught_bot.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "Woofmagic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Woofmagic/onslaught_bot/issues"
+  },
+  "homepage": "https://github.com/Woofmagic/onslaught_bot#readme",
+  "dependencies": {
+    "discord.js": "^14.18.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.24.0",
+    "eslint": "^9.24.0"
+  }
+}

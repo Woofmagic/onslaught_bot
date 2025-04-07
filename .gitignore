@@ -1,0 +1,9 @@
+
+# (1): Ignore all the modules Node needs:
+node_modules
+
+# (2): Ignore environmental variables:
+.env
+
+# (3): Ignore fancy config stuff:
+config.json
