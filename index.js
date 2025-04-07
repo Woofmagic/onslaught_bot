@@ -35,10 +35,10 @@ const path = require('path');
 const fs = require('node:fs');
 
 // (3): Require the important classes from discord.js:
-const { Client, Collection, GatewayIntentBits, Partials } = require('discord.js');
+const { Client, Collection, GatewayIntentBits, Partials, REST, Routes } = require('discord.js');
 
 // (4): Obtain both the bot ID and the bot token from the configuration file:
-const { token } = require('./config.json');
+const { clientId, developmentServerId, token } = require('./config.json');
 
 // (5): Declare the relevant Partials required to run the bot:
 const discordBotPartials = [
@@ -93,7 +93,7 @@ client.commands = new Collection();
 // (9): Initialize cooldowns (for each command) using Collection() too:
 client.cooldowns = new Collection();
 
-
+const commands = [];
 const pathToCommandsFolders = path.join(__dirname, 'commands');
 const foldersOfCommands = fs.readdirSync(pathToCommandsFolders);
 
@@ -131,10 +131,29 @@ for (const commandFolder of foldersOfCommands) {
 	}
 }
 
+const rest = new REST().setToken(token);
+
+(async () => {
+	try {
+		console.log(`> Started refreshing ${commands.length} application (/) commands.`);
+
+		// The put method is used to fully refresh all commands in the guild with the current set
+		const data = await rest.put(
+			Routes.applicationGuildCommands(clientId, developmentServerId),
+			{ body: commands },
+		);
+
+		console.log(`> Successfully reloaded ${data.length} application (/) commands.`);
+	}
+	catch (error) {
+		console.log(`> Error encountered when deploying commands via REST:\n> ${error}`);
+	}
+})();
+
 try {
 	client.login(token);
-	console.log(`> [${filePath}]: Discord bot logged in!`);
+	console.log('> Discord bot logged in!');
 }
 catch (error) {
-	console.log(`> [${filePath}]: Error occurred during the client login:\n> ${error.message}`);
+	console.log(`> Error occurred during the client login:\n> ${error.message}`);
 }
