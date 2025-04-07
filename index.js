@@ -3,43 +3,138 @@
  * File: index.js
  * Author: Woofmagic
  * Created: 2025-04-06
- * Last Modified: 2025-04-06
- * 
+ * Last Modified: 2025-04-07
+ *
  * Description:
- *   The entry point for the Discord bot.
- * 
+ * The entry point for the Discord bot. This file *is* the
+ * life of the bot, and technically everything happens here.
+ *
  * Notes:
  * - This is the entry point of the application.
- * 
+ *
  * Changelog:
  * - 2025-04-06: Creation of the file.
- * 
+ * - 2025-04-07: Includes registration of slash commands and events.
  */
 
 
-// (1): Require relevant modules:
-
-// (1.1): Require the native module 'path' for finding events and commands in relevant folders:
+// (1): Require the native module 'path' for finding events and commands in relevant commandFolders:
+/**
+ * To Know:
+ * The `path` module is a native node module that helps with reading and working with
+ * paths as they relate to directories or files.
+ */
 const path = require('path');
 
-// (1.2): Require the native module 'fs' for reading the files *in* those folders:
+// (2): Require the native module 'fs' for reading the files *in* those commandFolders:
+/**
+ * To know:
+ * `fs` is node's native file system module. So, it can read files
+ * and work with them as data.
+ */
 const fs = require('node:fs');
 
-// (1.3): Require the important classes from discord.js:
-const { Client, GatewayIntentBits, Partials, } = require('discord.js');
+// (3): Require the important classes from discord.js:
+const { Client, Collection, GatewayIntentBits, Partials } = require('discord.js');
 
-// (2): Obtain both the bot ID and the bot token from the configuration file:
-const { clientId, token } = require('./config.json');
+// (4): Obtain both the bot ID and the bot token from the configuration file:
+const { token } = require('./config.json');
 
-// (6): Use the aforementioned partials and intents to instantiate a new Discord client:
+// (5): Declare the relevant Partials required to run the bot:
+const discordBotPartials = [
+	Partials.Message,
+	Partials.Channel,
+	Partials.Reaction,
+	Partials.GuildMessages,
+	Partials.GuildMember,
+	Partials.GuildPresences,
+	Partials.User,
+];
+
+// (6): Delcare the relevant Intents required for the bot:
+const discordBotIntents = [
+
+	// (6.1): We are listening for Direct Messages to the bot:
+	GatewayIntentBits.DirectMessages,
+
+	// (6.2): Integrations...
+	GatewayIntentBits.GuildIntegrations,
+
+	// (6.3): We are listening for guild invitations
+	GatewayIntentBits.GuildInvites,
+
+	// (6.4): We are of course listening to guilds themselves
+	GatewayIntentBits.Guilds,
+
+	// (6.5): A major thing to listen to: members in servers
+	GatewayIntentBits.GuildMembers,
+
+	// (6.5): Perhaps the most important thing to listen to: messages in servers
+	GatewayIntentBits.GuildMessages,
+
+	GatewayIntentBits.GuildMessageReactions,
+
+	GatewayIntentBits.GuildPresences,
+
+	GatewayIntentBits.GuildIntegrations,
+
+	GatewayIntentBits.MessageContent,
+];
+
+// (7): Use the aforementioned partials and intents to instantiate a new Discord client:
 const client = new Client({
-    partials: discordBotPartials,
-    intents: discordBotIntents
+	partials: discordBotPartials,
+	intents: discordBotIntents,
 });
 
+// (8): Initiate a collection to hold all the commands, and linked to client object:
+client.commands = new Collection();
+
+// (9): Initialize cooldowns (for each command) using Collection() too:
+client.cooldowns = new Collection();
+
+
+const pathToCommandsFolders = path.join(__dirname, 'commands');
+const foldersOfCommands = fs.readdirSync(pathToCommandsFolders);
+
+for (const commandFolder of foldersOfCommands) {
+
+	// (X): Print out what subfolder in commands/ we're iterating through:
+	console.log(`> Now registering commands in the subfolder ${commandFolder}`);
+
+	// (): Construct the path to each subfolder via commands/subcommands/
+	const commandsPath = path.join(pathToCommandsFolders, commandFolder);
+
+	// (): Now, (synchronously!) read the (JavaScript) files in the provided path to prepare for iteration:
+	const commandFiles = fs.readdirSync(commandsPath).filter(file => file.endsWith('.js'));
+
+	// (): Begin iterating over individual subcommands in a *fixed* subcommand folder:
+	for (const commandFile of commandFiles) {
+
+		// (): Log that we are registering a given subcommand:
+		console.log(`> Now registering command ${commandFile} in the subfolder ${commandFolder}`);
+
+		// (): Construct the path to the given subcommand:
+		const filePath = path.join(commandsPath, commandFile);
+
+		// ():
+		const commandModule = require(filePath);
+
+		// (): Provided the module has `.data` and `.execute` methods, we can register it in a Collection():
+		if ('data' in commandModule && 'execute' in commandModule) {
+
+			client.commands.set(commandModule.data.name, commandModule);
+		}
+		else {
+			console.log(`[WARNING] The command at ${filePath} is missing a required "data" or "execute" property.`);
+		}
+	}
+}
+
 try {
-    client.login(token);
-    logInfo(filePath, '> Discord bot logged in!');
-} catch (error) {
-    logError(filePath, `Error occurred: ${error.message}`);
+	client.login(token);
+	console.log(`> [${filePath}]: Discord bot logged in!`);
+}
+catch (error) {
+	console.log(`> [${filePath}]: Error occurred during the client login:\n> ${error.message}`);
 }
