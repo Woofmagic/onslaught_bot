@@ -1,12 +1,65 @@
+#
+# Project: Onslaught Discord Bot
+# File: index.js
+# Author: Woofmagic
+# Created: 2025-04-06
+# Last Modified: 2025-04-07
+# 
+# Description:
+# The .gitignore file.
+# 
+# Notes:
+# 
+# Changelog:
+# - 2025-04-06: Creation of the file.
+# - 2025-04-07: Added a more general list of things to ignore.
 
-# (1): Ignore all the modules Node needs:
-node_modules
 
-# (2): Ignore environmental variables:
+# (1): Standard log names:
+
+# (1.1): logs:
+logs
+
+# (1.2): Files named *.log:
+*.log
+
+# (1.3): npm debugging logs:
+npm-debug.log*
+
+# (1.4): yarn debugging logs:
+yarn-debug.log*
+
+# (1.5): yarn error logs:
+yarn-error.log*
+
+# (1.6): Whatever this is:
+lerna-debug.log*
+
+# (1.7): Another random thing:
+.pnpm-debug.log*
+
+# (2): Something called "diagnostic reports"
+# To know:
+# (a): to read more, please visit the following link (https://nodejs.org/api/report.html)
+# (b): files are report.*.json generally
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# (3): Ignore node module information; this file is huge:
+node_modules/
+
+# (4): Whatever this is, too...
+jspm_packages/
+
+# (5): Ignore dotenv environmental variables file:
 .env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
 
-# (3): Ignore fancy config stuff:
+# (6): Ignore fancy config stuff:
 config.json
 
-# (4): I should probably ignore this thing, too:
+# (7): I should probably ignore this thing, too:
 .vscode
+.vscode-test
