@@ -16,9 +16,9 @@
  * - 2025-04-08: Creation of the file.
  */
 
-const { SlashCommandBuilder } = require('discord.js');
+const { SlashCommandBuilder, ActionRowBuilder, ButtonBuilder, ButtonStyle, EmbedBuilder } = require('discord.js');
 
-const questions = require('../statics/quizContents/philosophy/test.json').multipleChoice;
+const questions = require('./../../statics/quizContents/philosophy/test.json').multipleChoice;
 
 module.exports = {
 	data: new SlashCommandBuilder()
