@@ -138,6 +138,9 @@ const eventFiles = fs.readdirSync(eventsPath).filter(file => file.endsWith('.js'
 // (): Begin iterating over each event to register it:
 for (const file of eventFiles) {
 
+	// (): Log that we are registering a given subcommand:
+	console.log(`> Now registering event ${file} in the events folder ${eventsPath}`);
+
 	// (): Obtain the given file corresponding to a single event:
 	const filePath = path.join(eventsPath, file);
 

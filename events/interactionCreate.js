@@ -17,26 +17,25 @@
  */
 
 // (1): Require relevant modules:
-const { Events } = require('discord.js');
+const { Events, MessageFlags } = require('discord.js');
 
 module.exports = {
 	name: Events.InteractionCreate,
-	once: true,
-	async execute(client, interaction) {
+	once: false,
+	async execute(interaction) {
 
-		if (!client) return;
 		if (!interaction) return;
 		if (!interaction.isChatInputCommand()) return;
 
-		const commandName = interaction.client.commands.get(interaction.commandName);
+		const commandReference = interaction.client.commands.get(interaction.commandName);
 
-		if (!commandName || commandName === null) {
-			console.log(`> No command matching ${interaction.commandName} was found.`);
+		if (!commandReference || commandReference === null) {
+			console.log(`> No command matching ${interaction.commandReference} was found.`);
 			return;
 		}
 
 		try {
-			await command.execute(interaction);
+			await commandReference.execute(interaction);
 		}
 		catch (error) {
 			console.log(`> Error in running the command:\n> ${error}`);
