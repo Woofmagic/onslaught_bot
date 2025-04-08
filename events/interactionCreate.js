@@ -1,14 +1,15 @@
 /**
  * Project: Onslaught Discord Bot
- * File: events/ready.js
+ * File: events/interactionCreate.js
  * Author: Woofmagic
- * Created: 2025-04-06
- * Last Modified: 2025-04-06
+ * Created: 2025-04-07
+ * Last Modified: 2025-04-07
  *
  * Description:
- * `ready` is an event listener that runs *once*, and it runs
- * when the Discord bot has registered all of its commands and
- * events to the REST API without error.
+ * `interactionCreate` is an event listener that listens to user
+ * interactions with the client. This is a complicated listener
+ * that is used to listen to commands but *also* other things, like
+ * messages.
  *
  * Notes:
  *
