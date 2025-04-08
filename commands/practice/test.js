@@ -20,7 +20,7 @@
 
 const { SlashCommandBuilder, ActionRowBuilder, ButtonBuilder, ButtonStyle, EmbedBuilder } = require('discord.js');
 
-const questions = require('../../statics/quizContents/philosophy/test.json');
+const questions = require('./../statics/quizContents/philosophy/test.json');
 
 const DISTRACTOR_BANK = [
 	'Aristotle', 'Plato', 'Immanuel Kant', 'Georg Hegel', 'Friedrich Nietzsche',
