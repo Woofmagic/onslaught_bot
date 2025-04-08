@@ -1,10 +1,23 @@
-{
-    "multipleChoice": [
-      {
-        "quote": "Act only according to that maxim whereby you can at the same time will that it should become a universal law.",
-        "correct": "Immanuel Kant",
-        "options": ["Immanuel Kant", "Hegel", "Nietzsche", "Plato"]
-      }
-    ]
-  }
-  
+[
+	{
+        "id": 1,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["Philosophy"],
+            "topics": ["introductory", "rene descartes", "rene", "descartes"],
+            "questionText": "Reason now leads me to think that I should hold back my assent from opinions which are not completely certain and indubitable just as carefully as I do from those which are patently false.",
+            "examples": [],
+            "possibleAnswers": [
+                "René Descartes",
+                "Rene Descartes",
+                "Descartes"
+            ],
+            "difficulty": "",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://rintintin.colorado.edu/~vancecd/phil201/Meditations.pdf",
+                "https://youtu.be/3GaE0GmZ2OQ?t=385"
+            ]
+        }
+    }
+]
