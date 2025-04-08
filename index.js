@@ -15,6 +15,7 @@
  * Changelog:
  * - 2025-04-06: Creation of the file.
  * - 2025-04-07: Includes registration of slash commands and events.
+ * - 2025-04-07: Integrates API deployment of slash commands.
  */
 
 
@@ -57,27 +58,16 @@ const discordBotIntents = [
 	// (6.1): We are listening for Direct Messages to the bot:
 	GatewayIntentBits.DirectMessages,
 
-	// (6.2): Integrations...
-	GatewayIntentBits.GuildIntegrations,
-
-	// (6.3): We are listening for guild invitations
-	GatewayIntentBits.GuildInvites,
-
-	// (6.4): We are of course listening to guilds themselves
+	// (6.2): We are of course listening to guilds themselves
 	GatewayIntentBits.Guilds,
 
-	// (6.5): A major thing to listen to: members in servers
+	// (6.3): A major thing to listen to: members in servers
 	GatewayIntentBits.GuildMembers,
 
-	// (6.5): Perhaps the most important thing to listen to: messages in servers
+	// (6.4): Perhaps the most important thing to listen to: messages in servers
 	GatewayIntentBits.GuildMessages,
 
-	GatewayIntentBits.GuildMessageReactions,
-
-	GatewayIntentBits.GuildPresences,
-
-	GatewayIntentBits.GuildIntegrations,
-
+	// (6.5): And we also need to be able to parse message content:
 	GatewayIntentBits.MessageContent,
 ];
 
@@ -115,18 +105,23 @@ for (const commandFolder of foldersOfCommands) {
 		console.log(`> Now registering command ${commandFile} in the subfolder ${commandFolder}`);
 
 		// (): Construct the path to the given subcommand:
-		const filePath = path.join(commandsPath, commandFile);
+		const filePathToCommand = path.join(commandsPath, commandFile);
 
-		// ():
-		const commandModule = require(filePath);
+		// (): Extract the command module from the file:
+		const commandModule = require(filePathToCommand);
 
 		// (): Provided the module has `.data` and `.execute` methods, we can register it in a Collection():
 		if ('data' in commandModule && 'execute' in commandModule) {
 
+			// (): Use Discord collections to bind command name to its code:
 			client.commands.set(commandModule.data.name, commandModule);
 		}
+
+		// (): If the module does NOT have EITHER `.data` or `.execute`...
 		else {
-			console.log(`[WARNING] The command at ${filePath} is missing a required "data" or "execute" property.`);
+
+			// (): ... we log a warning about that:
+			console.log(`[WARNING] The command at ${filePathToCommand} is missing a required "data" or "execute" property.`);
 		}
 	}
 }
