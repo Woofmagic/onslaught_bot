@@ -115,6 +115,9 @@ for (const commandFolder of foldersOfCommands) {
 
 			// (): Use Discord collections to bind command name to its code:
 			client.commands.set(commandModule.data.name, commandModule);
+
+			// (): We also push to the array a JSON representation of the module to use in REST API later:
+			commands.push(commandModule.data.toJSON());
 		}
 
 		// (): If the module does NOT have EITHER `.data` or `.execute`...
@@ -126,21 +129,64 @@ for (const commandFolder of foldersOfCommands) {
 	}
 }
 
-const rest = new REST().setToken(token);
+// (): Find the path that contains the events that drive the bot:
+const eventsPath = path.join(__dirname, 'events');
 
+// (): Find (and read synchronously!) the (JavaScript!) files *in* that directory that we found above:
+const eventFiles = fs.readdirSync(eventsPath).filter(file => file.endsWith('.js'));
+
+// (): Begin iterating over each event to register it:
+for (const file of eventFiles) {
+
+	// (): Obtain the given file corresponding to a single event:
+	const filePath = path.join(eventsPath, file);
+
+	// (): Unpack the module by reading its path and requiring it:
+	const event = require(filePath);
+
+	// (): read the `.once` property, and if it is true...
+	if (event.once) {
+
+		// (): ... add this event to the client accordingly:
+		client.once(event.name, (...args) => event.execute(...args));
+	}
+
+	// (): If the module's `.once` property is false or not specified...
+	else {
+
+		// (): ... add  this event to the client via `.on`, which binds a listener:
+		client.on(event.name, (...args) => event.execute(...args));
+	}
+}
+
+// (): Instantiate discord.js's REST API to push commands:
+const restAPI = new REST().setToken(token);
+
+// (): Define an API method inside an IIFE:
 (async () => {
+
+	// (): Set up the try part of this block:
 	try {
 		console.log(`> Started refreshing ${commands.length} application (/) commands.`);
 
-		// The put method is used to fully refresh all commands in the guild with the current set
-		const data = await rest.put(
-			Routes.applicationGuildCommands(clientId, developmentServerId),
-			{ body: commands },
+		// (): Asynchronously PUT slash command data to: `/applications/{application.id}/guilds/{guild.id}/commands`:
+		const data = await restAPI.put(
+			Routes.applicationGuildCommands(
+				applicationId = clientId,
+				guildId = developmentServerId),
+			{
+				body: commands,
+			},
 		);
 
+		// (): Log if it was successful:
 		console.log(`> Successfully reloaded ${data.length} application (/) commands.`);
 	}
+
+	// (): If there's an error in the request...
 	catch (error) {
+
+		// (): ...log the issue, but we will handle this with something better later:
 		console.log(`> Error encountered when deploying commands via REST:\n> ${error}`);
 	}
 })();
