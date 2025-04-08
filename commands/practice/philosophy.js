@@ -18,7 +18,7 @@
 
 const { SlashCommandBuilder } = require('discord.js');
 
-const questions = require('../questions/kant.json').multipleChoice;
+const questions = require('../statics/quizContents/philosophy/test.json').multipleChoice;
 
 module.exports = {
 	data: new SlashCommandBuilder()
