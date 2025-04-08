@@ -15,13 +15,18 @@
  * - 2025-04-07: Creation of the file.
  */
 
-const { SlashCommandBuilder } = require('discord.js');
+const { SlashCommandBuilder, bold } = require('discord.js');
 
 module.exports = {
 	data: new SlashCommandBuilder()
 		.setName('user')
 		.setDescription('Who are you to me.'),
 	async execute(interaction) {
-		await interaction.reply(`You are: ${interaction.user.username}.`);
+
+		/**
+		 * To Know:
+		 * (1): discord.js formatter information is here: https://discordjs.guide/popular-topics/formatters.html#basic-markdown
+		 */
+		await interaction.reply(`You are: ${bold(interaction.user.username)}.`);
 	},
 };
