@@ -1,25 +1,26 @@
 /**
  * Project: Onslaught Discord Bot
- * File: commands/practice/philosophy.js
+ * File: commands/practice/test.js
  * Author: Woofmagic
  * Created: 2025-04-08
  * Last Modified: 2025-04-08
  *
  * Description:
- * `philosophy` is a practice command that is designed to test a
- * user's knowledge of various pieces of philosophy. This will
- * include knowledge of quotations.
+ * `test` is a command that serves as "central testing hub."
+ * Here, we allow the user to choose what type of test they
+ * want to generate and and practice.
  *
  * Notes:
  *
  * Changelog:
  * - 2025-04-08: Creation of the file.
- * - 2025-04-08: Adapted code to new quiz data structure
+ * - 2025-04-08: Adapted code to new quiz data structure.
+ * - 2025-04-08: We decided to generalize the file for *all* test types.
  */
 
 const { SlashCommandBuilder, ActionRowBuilder, ButtonBuilder, ButtonStyle, EmbedBuilder } = require('discord.js');
 
-const questions = require('./../../statics/quizContents/philosophy/test.json');
+const questions = require('../../statics/quizContents/philosophy/test.json');
 
 const DISTRACTOR_BANK = [
 	'Aristotle', 'Plato', 'Immanuel Kant', 'Georg Hegel', 'Friedrich Nietzsche',
@@ -33,9 +34,23 @@ function shuffle(array) {
 
 module.exports = {
 	data: new SlashCommandBuilder()
-		.setName('philosophy')
-		.setDescription('Test your knowledge of philosophy.'),
+		.setName('test')
+		.setDescription('Test your knowledge.')
+		.addStringOption(opt =>
+			opt.setName('topic')
+			  .setDescription('Choose a topic.')
+			  .setRequired(true)
+			  .addChoices(
+					{ name: 'Philosophy', value: 'philosophy' },
+					{ name: 'Physics', value: 'physics' },
+					{ name: 'Chemistry', value: 'chemistry' },
+			  ),
+		),
 	async execute(interaction) {
+
+		const userSelectedTopic = interaction.options.getString('topic');
+
+		const question = getRandomQuestion(topic);
 
 		// (1): We randomly select a philosophy question from the array `questions`:
 		const randomlySelectedQuestion = questions[Math.floor(Math.random() * questions.length)];
