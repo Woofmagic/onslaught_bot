@@ -19,5 +19,552 @@
                 "https://youtu.be/3GaE0GmZ2OQ?t=385"
             ]
         }
+    },
+    {
+        "id": 2,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["Philosophy"],
+            "topics": ["introductory", "rene descartes", "rene", "descartes"],
+            "questionText": "Once the foundations of a building are undermined, anything built on them collapses of its own accord; so I will go straight for the basic principles on which all my former beliefs rested.",
+            "examples": [],
+            "possibleAnswers": [
+                "René Descartes",
+                "Rene Descartes",
+                "Descartes"
+            ],
+            "difficulty": "",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://rintintin.colorado.edu/~vancecd/phil201/Meditations.pdf",
+                "https://youtu.be/3GaE0GmZ2OQ?t=572"
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["Philosophy"],
+            "topics": ["introductory", "rene descartes", "rene", "descartes"],
+            "questionText": "Whatever I have up till now accepted as most true I have acquired either from the senses or through the senses. But from time to time I have found that the senses deceive, and it is prudent never to trust completely those who have deceived us even once.",
+            "examples": [],
+            "possibleAnswers": [
+                "René Descartes",
+                "Rene Descartes",
+                "Descartes"
+            ],
+            "difficulty": "",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://rintintin.colorado.edu/~vancecd/phil201/Meditations.pdf",
+                "https://youtu.be/3GaE0GmZ2OQ?t=868"
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["Philosophy"],
+            "topics": ["introductory", "rene descartes", "rene", "descartes"],
+            "questionText": "How often, asleep at night, am I convinced of just such familiar events—that I am here in my dressing-gown, sitting by the fire—when in fact I am lying undressed in bed!",
+            "examples": [],
+            "possibleAnswers": [
+                "René Descartes",
+                "Rene Descartes",
+                "Descartes"
+            ],
+            "difficulty": "",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://rintintin.colorado.edu/~vancecd/phil201/Meditations.pdf",
+                "https://youtu.be/3GaE0GmZ2OQ?t=1198"
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["Philosophy"],
+            "topics": ["introductory", "rene descartes", "rene", "descartes"],
+            "questionText": "As I think about this more carefully, I see plainly that there are never any sure signs by means of which being awake can be distinguished from being asleep.",
+            "examples": [],
+            "possibleAnswers": [
+                "René Descartes",
+                "Rene Descartes",
+                "Descartes"
+            ],
+            "difficulty": "",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://rintintin.colorado.edu/~vancecd/phil201/Meditations.pdf",
+                "https://youtu.be/3GaE0GmZ2OQ?t=1280"
+            ]
+        }
+    },
+    {
+        "id": 6,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["Philosophy"],
+            "topics": ["introductory", "rene descartes", "rene", "descartes"],
+            "questionText": "And yet firmly rooted in my mind is the long-standing opinion that there is an omnipotent God who made me the kind of creature that I am. How do I know that he has not brought it about that there is no earth, no sky, no extended thing, no shape, no size, no place, while at the same time ensuring that all these things appear to me to exist just as they do now?",
+            "examples": [],
+            "possibleAnswers": [
+                "René Descartes",
+                "Rene Descartes",
+                "Descartes"
+            ],
+            "difficulty": "",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://rintintin.colorado.edu/~vancecd/phil201/Meditations.pdf",
+                "https://youtu.be/3GaE0GmZ2OQ?t=2045"
+            ]
+        }
+    },
+    {
+        "id": 8,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["Philosophy"],
+            "topics": ["introductory", "rene descartes", "rene", "descartes"],
+            "questionText": "I will suppose therefore that not God, who is supremely good and the source of truth, but rather some malicious demon of the utmost power and cunning has employed all his energies in order to deceive me. I shall think that the sky, the air, the earth, colors, shapes, sounds and all external things are merely the delusions of dreams which he has devised to ensnare my judgment. I shall consider myself as not having hands or eyes, or flesh, or blood or senses, but as falsely believing that I have all these things. I shall stubbornly and firmly persist in this meditation; and, even if it is not in my power to know any truth, I shall at least do what is in my power, that is, resolutely guard against assenting to any falsehoods, so that the deceiver, however powerful and cunning he may be, will be unable to impose on me in the slightest degree.",
+            "examples": [],
+            "possibleAnswers": [
+                "René Descartes",
+                "Rene Descartes",
+                "Descartes"
+            ],
+            "difficulty": "",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://rintintin.colorado.edu/~vancecd/phil201/Meditations.pdf",
+                "https://youtu.be/beFeHuC_ERY?t=117"
+            ]
+        }
+    },
+    {
+        "id": 9,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["Philosophy"],
+            "topics": ["introductory", "rene descartes", "rene", "descartes", "princess elizabeth", "elizabeth", "princess"],
+            "questionText": "I beg you to tell me how the human soul can determine the movement of the animal spirits in the body so as to perform voluntary acts—being as it is merely a conscious substance. For the determination of the movement seems always to come about from the moving body’s being propelled—to depend on the kind of impulse it gets from what it sets in motion, or again, on the nature and shape of this latter thing’s surface. Now the first two conditions involve contact, and the third involves that the impelling [thing] has extension; but you utterly exclude extension from your notion of soul, and contact seems to me incompatible with a thing’s being immaterial.",
+            "examples": [],
+            "possibleAnswers": [
+                "Princess Elisabeth",
+                "Elisabeth, Princess of Bohemia",
+                "Princess Elisabeth of Bohemia",
+                "Elisabeth of the Palatinate",
+                "Elisabeth Simmern van Pallandt"
+            ],
+            "difficulty": "",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://www.laphamsquarterly.org/states-mind/ghost-and-princess",
+                "https://youtu.be/kJIZzmUpfmk?t=262"
+            ]
+        }
+    },
+    {
+        "id": 10,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["Philosophy"],
+            "topics": ["introductory", "gilbert ryle", "gilbert", "ryle"],
+            "questionText": "...the actual transactions between the episodes of the private history and those of the public history remain mysterious, since by definition they can belong to neither series.",
+            "examples": [],
+            "possibleAnswers": [
+                "Gilbert Ryle",
+                "Ryle"
+            ],
+            "difficulty": "",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://www3.nd.edu/~jspeaks/courses/2006-7/20208/ryle-behaviorism.html",
+                "https://youtu.be/gA-2Gc3PztI?t=113"
+            ]
+        }
+    },
+    {
+        "id": 11,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["Philosophy"],
+            "topics": ["introductory", "gilbert ryle", "gilbert", "ryle"],
+            "questionText": "Such in outline is the official theory. I shall often speak of it, with deliberate abusiveness, as \"the dogma of the Ghost in the Machine\".",
+            "examples": [],
+            "possibleAnswers": [
+                "Gilbert Ryle",
+                "Ryle"
+            ],
+            "difficulty": "",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://www3.nd.edu/~jspeaks/courses/2006-7/20208/ryle-behaviorism.html",
+                "https://youtu.be/gA-2Gc3PztI?t=301",
+                "https://en.wikipedia.org/wiki/Ghost_in_the_machine"
+            ]
+        }
+    },
+    {
+        "id": 12,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["Philosophy"],
+            "topics": ["introductory", "gilbert ryle", "gilbert", "ryle"],
+            "questionText": "A foreigner visiting Oxford or Cambridge for the first time is shown a number of dcolleges, libraries, playing fields, museums, scientific departments and administrative offices. He then asks \"But where is the University? I have seen where the members of the Colleges live, where the Registrar works, where the scientists experiment and the rest. But I have not yet seen the University in which reside and work the members of your University.\"",
+            "examples": [],
+            "possibleAnswers": [
+                "Gilbert Ryle",
+                "Ryle"
+            ],
+            "difficulty": "",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/gA-2Gc3PztI?t=468",
+                "https://www.rug.nl/staff/f.a.hindriks/butwhereistheuniversity_final.pdf"
+            ]
+        }
+    },
+    {
+        "id": 13,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["Philosophy"],
+            "topics": ["introductory", "gilbert ryle", "gilbert", "ryle"],
+            "questionText": "His mistake lay in his innocent assumption that it was correct to speak of Christ Church, the Bodleian Library, the Ashmolean Museum and the University, to speak, that is, as if \"the University\" stood for an extra member of the class of which these other units are members. He was mistakenly allocating the University to the same category as that to which the other institutions belong",
+            "examples": [],
+            "possibleAnswers": [
+                "Gilbert Ryle",
+                "Ryle"
+            ],
+            "difficulty": "",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/gA-2Gc3PztI?t=468",
+                "https://kwanj.files.wordpress.com/2016/02/ryle-the-ghost-in-the-machine.pdf"
+            ]
+        }
+    },
+    {
+        "id": 14,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["Philosophy"],
+            "topics": ["introductory", "gilbert ryle", "gilbert", "ryle"],
+            "questionText": "Minds are things, but different sorts of things from bodies; mental processes are causes and effects, but different sorts of causes and effects from body movements. And so on. Somewhat as the foreigner expected the University to be an extra ediface, rather like a college but also considerably different, so the repudiators of mechanism represented minds as extra centres of causal processes, rather like machines but also considerably different from them. Their theory was a paramechanical hypothesis.",
+            "examples": [],
+            "possibleAnswers": [
+                "Gilbert Ryle",
+                "Ryle"
+            ],
+            "difficulty": "",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/gA-2Gc3PztI?t=782",
+                "https://laurenralpert.files.wordpress.com/2014/08/phi-1500-lecture-15.pdf"
+            ]
+        }
+    },
+    {
+        "id": 15,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["Philosophy"],
+            "topics": ["introductory", "hilary putnam", "hilary", "putnam"],
+            "questionText": "Imagine a community of ‘super-spartans’ or ‘super-stoics’ — a community in which the adults have the ability to successfully suppress all voluntary painmbehavior. They may, on occasion, admit that they feel pain, but always in pleasant well-modulated voices . . . They do not wince, scream, flinch, sob, grit their teeth, clench their fists, exhibit beads of sweat, or otherwise act like people in pain . . . However, they do feel pain, and they dislike it (just as we do)., They even admit that it takes a great effort of will to behave as they do.",
+            "examples": [],
+            "possibleAnswers": [
+                "Putnam",
+                "Hilary Putnam"
+            ],
+            "difficulty": "",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/lRI95Vdc5CU?t=540",
+                "https://www3.nd.edu/~jspeaks/courses/2018-19/30304/handouts/objections-behaviorism.pdf"
+            ]
+        }
+    },
+    {
+        "id": 16,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["Philosophy"],
+            "topics": ["introductory", "hilary putnam", "hilary", "putnam"],
+            "questionText": "He may think to himself: ‘This pain is intolerable. If it goes on one minute longer I shall scream. Oh No! I mustn’t do that! That would disgrace my whole family . . . ’ But X-worlders do not even admit to having pains. They pretend not to know either the world or the phenomenon to which it refers. In short, if pains are ‘logical constructions out of behavior’, then our X-worlders behave so as not to have pains!",
+            "examples": [],
+            "possibleAnswers": [
+                "Putnam",
+                "Hilary Putnam"
+            ],
+            "difficulty": "",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/lRI95Vdc5CU?t=540",
+                "https://www3.nd.edu/~jspeaks/courses/2018-19/30304/handouts/objections-behaviorism.pdf"
+            ]
+        }
+    },
+    {
+        "id": 17,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["Philosophy"],
+            "topics": ["introductory", "hilary putnam", "hilary", "putnam"],
+            "questionText": "In short, if pains are ‘logical constructions out of behavior’, then our X-worlders behave so as not to have pains! — Only, of course, they do have pains, and they know perfectly well that they have pains. If this last fantasy is not, in some disguised way, self-contradictory, then logical behaviorism is simply a mistake.",
+            "examples": [],
+            "possibleAnswers": [
+                "Putnam",
+                "Hilary Putnam"
+            ],
+            "difficulty": "",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/lRI95Vdc5CU?t=902",
+                "https://www3.nd.edu/~jspeaks/courses/2018-19/30304/handouts/objections-behaviorism.pdf"
+            ]
+        }
+    },
+    {
+        "id": 18,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["Philosophy"],
+            "topics": ["introductory", "david chalmers", "david", "chalmers"],
+            "questionText": "When you look at the page, you are conscious of it, directly experiencing the images and words as part of your private, mental life. You have vivid impressions of colored flowers and vibrant sky. At the same time, you may be feeling some emotions and forming some thoughts. Together such experiences make up consciousness: the subjective, inner life of the mind.",
+            "examples": [],
+            "possibleAnswers": [
+                "David Chalmers",
+                "Chalmers"
+            ],
+            "difficulty": "",
+            "extraInfo": "Published 1995",
+            "referencesSources": [
+                "https://consc.net/papers/puzzle.html"
+            ]
+        }
+    },
+    {
+        "id": 19,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["Philosophy"],
+            "topics": ["introductory", "david chalmers", "david", "chalmers"],
+            "questionText": "The easy problems of consciousness include the following: How can a human subject discriminate sensory stimuli and react to them appropriately? How does the brain integrate information from many different sources and use this information to control behavior? How is it that subjects can verbalize their internal states? Although all these questions are associated with consciousness, they all concern the objective mechanisms of the cognitive system. Consequently, we have every reason to expect that continued work in cognitive psychology and neuroscience will answer them. ",
+            "examples": [],
+            "possibleAnswers": [
+                "David Chalmers",
+                "Chalmers"
+            ],
+            "difficulty": "",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://consc.net/papers/puzzle.html",
+                "https://youtu.be/7KWFhW0klf4?t=373"
+            ]
+        }
+    },
+    {
+        "id": 20,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["Philosophy"],
+            "topics": ["introductory", "david chalmers", "david", "chalmers"],
+            "questionText": "The hard problem, in contrast, is the question of how physical processes in the brain give rise to subjective experience. This puzzle involves the inner aspect of thought and perception: the way things feel for the subject. When we see, for example, we experience visual sensations, such as that of vivid blue. Or think of the ineffable sound of a distant oboe, the agony of an intense pain, the sparkle of happiness or the meditative quality of a moment lost in thought. All are part of what I am calling consciousness. It is these phenomena that pose the real mystery of the mind.",
+            "examples": [],
+            "possibleAnswers": [
+                "David Chalmers",
+                "Chalmers"
+            ],
+            "difficulty": "",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://consc.net/papers/puzzle.html",
+                "https://youtu.be/7KWFhW0klf4"
+            ]
+        }
+    },
+    {
+        "id": 21,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["Philosophy"],
+            "topics": ["introductory", "david chalmers", "david", "chalmers"],
+            "questionText": "Against reductionism I will argue that the tools of neuroscience cannot provide a full account of conscious experience, although they have much to offer. Against mysterianism I will hold that consciousness might be explained by a new kind of theory. The full details of such a theory are still out of reach, but careful reasoning and some educated inferences can reveal something of its general nature.",
+            "examples": [],
+            "possibleAnswers": [
+                "David Chalmers",
+                "Chalmers"
+            ],
+            "difficulty": "",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://consc.net/papers/puzzle.html"
+            ]
+        }
+    },
+    {
+        "id": 22,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["Philosophy"],
+            "topics": ["introductory", "david chalmers", "david", "chalmers"],
+            "questionText": "Some have suggested that to solve the hard problem, we need to bring in new tools of physical explanation: nonlinear dynamics, say, or new discoveries in neuroscience, or quantum mechanics. But these ideas suffer from exactly the same difficulty... the theory is silent about how these processes might give rise to conscious experience. Indeed, the same problem arises with any theory of consciousness based only on physical processing.",
+            "examples": [],
+            "possibleAnswers": [
+                "David Chalmers",
+                "Chalmers"
+            ],
+            "difficulty": "",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://consc.net/papers/puzzle.html"
+            ]
+        }
+    },
+    {
+        "id": 23,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["Philosophy"],
+            "topics": ["introductory", "david chalmers", "david", "chalmers"],
+            "questionText": "If the existence of consciousness cannot be derived from physical laws, a theory of physics is not a true theory of everything. So a final theory must contain an additional fundamental component. SToward this end, I propose that conscious experience be considered a fundamental feature, irreducible to anything more basic.",
+            "examples": [],
+            "possibleAnswers": [
+                "David Chalmers",
+                "Chalmers"
+            ],
+            "difficulty": "",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://consc.net/papers/puzzle.html",
+                "https://youtu.be/7KWFhW0klf4?t=1130"
+            ]
+        }
+    },
+    {
+        "id": 24,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["Philosophy"],
+            "topics": ["introductory", "david chalmers", "david", "chalmers"],
+            "questionText": "Where there is a fundamental property, there are fundamental laws. In this case, the laws must relate experience to elements of physical theory. These laws will almost certainly not interfere with those of the physical world; it seems that the latter form a closed system in their own right.",
+            "examples": [],
+            "possibleAnswers": [
+                "David Chalmers",
+                "Chalmers"
+            ],
+            "difficulty": "",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://consc.net/papers/puzzle.html",
+                "https://youtu.be/7KWFhW0klf4?t=1269"
+            ]
+        }
+    },
+    {
+        "id": 25,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["Philosophy"],
+            "topics": ["introductory", "david armstrong", "david", "armstrong"],
+            "questionText": "The mind was not something behind the behaviour of the body, it was simply part of that physical behaviour. My anger with you is not some modification of a spiritual substance which somehow brings about aggressive behavior; rather it is the aggressive behaviour itself; my addressing strong words to you, striking you, turning my back on you, and so on. Thought is not an inner process that lies behind, and brings about, the words I speak and write; it is my speaking and writing. The mind is not an inner arena, it is an outward act.",
+            "examples": [],
+            "possibleAnswers": [
+                "David Armstrong",
+                "Armstrong"
+            ],
+            "difficulty": "",
+            "extraInfo": "",
+            "referencesSources": [
+                "http://www.thatmarcusfamily.org/philosophy/Course_Websites/Readings/Armstrong%20Nature%20Mind.pdf",
+                "https://youtu.be/k715B-2t-YU?t=281"
+            ]
+        }
+    },
+    {
+        "id": 26,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["Philosophy"],
+            "topics": ["introductory", "david armstrong", "david", "armstrong"],
+            "questionText": "...One obvious difficulty is that it is our common experience that there can be mental processes going on although there is no behaviour occurring that could possibly be treated as expressions of these processes. A man may be angry, but give no bodily sign; he may think, but say or do nothing at all.",
+            "examples": [],
+            "possibleAnswers": [
+                "David Armstrong",
+                "Armstrong"
+            ],
+            "difficulty": "",
+            "extraInfo": "",
+            "referencesSources": [
+                "http://www.thatmarcusfamily.org/philosophy/Course_Websites/Readings/Armstrong%20Nature%20Mind.pdf",
+                "https://youtu.be/k715B-2t-YU?t=441"
+            ]
+        }
+    },
+    {
+        "id": 27,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["Philosophy"],
+            "topics": ["introductory", "david armstrong", "david", "armstrong"],
+            "questionText": "A piece of glass may never shatter or break throughout its whole history, but it is still the case that it is brittle: it is liable to shatter or break if dropped quite a small way or hit quite lightly. Now a disposition to *behave* is simply a tendency or liability of a person to behave in a certain way under certain circumstances.",
+            "examples": [],
+            "possibleAnswers": [
+                "David Armstrong",
+                "Armstrong"
+            ],
+            "difficulty": "",
+            "extraInfo": "",
+            "referencesSources": [
+                "http://www.thatmarcusfamily.org/philosophy/Course_Websites/Readings/Armstrong%20Nature%20Mind.pdf",
+                "https://youtu.be/k715B-2t-YU?t=673"
+            ]
+        }
+    },
+    {
+        "id": 28,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["Philosophy"],
+            "topics": ["introductory", "david armstrong", "david", "armstrong"],
+            "questionText": "A glass does not shatter, but it is still brittle. The man does not behave, but he does have a disposition to behave. We can say he thinks although he does not speak or act because at that time he was disposed to speak or act in a certain way. *If* he had been asked, perhaps, he would have spoken or acted. We can say he is angry although he does not behave angrily, because he is disposed so to behave. *If* only one more word had been addressed to him, he would have burst out.",
+            "examples": [],
+            "possibleAnswers": [
+                "David Armstrong",
+                "Armstrong"
+            ],
+            "difficulty": "",
+            "extraInfo": "",
+            "referencesSources": [
+                "http://www.thatmarcusfamily.org/philosophy/Course_Websites/Readings/Armstrong%20Nature%20Mind.pdf",
+                "https://youtu.be/k715B-2t-YU?t=840"
+            ]
+        }
+    },
+    {
+        "id": 29,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["Philosophy"],
+            "topics": ["introductory", "bertrand russell", "bertrand", "russell"],
+            "questionText": "There is just one point where I have encountered a difficulty. You state... that a function too, can act as the indeterminate element. This I formerly believed, but now this view seems doubtful to me because of the following contradiction. Let *w* be the predicate: to be a predicate that cannot be predicated of itself. Can *w* be predicated of itself? From each answer its opposite follows. Therefore we must conclude that *w* is not a predicate. Likewise there is no class (as a totality) of those classes which, each taken as a totality, do not belong to themselves. From this I conclude that under certain circumstances a definable collection does not form a totality.",
+            "examples": [],
+            "possibleAnswers": [
+                "Bertrand Russell",
+                "Russell"
+            ],
+            "difficulty": "",
+            "extraInfo": "",
+            "referencesSources": [
+                "http://www.thatmarcusfamily.org/philosophy/Course_Websites/Readings/Armstrong%20Nature%20Mind.pdf",
+                "https://youtu.be/k715B-2t-YU?t=840"
+            ]
+        }
     }
 ]
