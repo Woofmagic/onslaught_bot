@@ -31,17 +31,15 @@ const path = require('path');
  */
 const fs = require('node:fs');
 
+const philosophyTestQuestions = require('./../../statics/quizContents/philosophy.json');
+
 // (3): We define the main function:
 function getRandomQuestion(topic) {
 
-	// (3.1): We need to find the filepath to the actual quiz contents:
-	const filePath = path.join(__dirname, 'statics', 'quizContents', `${topic}.json`);
-
-	// (3.2): We read the JSON file synchronously...
-	const data = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+	console.log(`> User selected topic: ${topic}`);
 
 	// (3.3): Now, we choose a random problem from that data using the standard approach:
-	return data[Math.floor(Math.random() * data.length)];
+	return philosophyTestQuestions[Math.floor(Math.random() * philosophyTestQuestions.length)];
 }
 
 // (4): Export the function now:
