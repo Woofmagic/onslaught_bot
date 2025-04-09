@@ -18,7 +18,7 @@
  * - 2025-04-08: We decided to generalize the file for *all* test types.
  */
 
-const { SlashCommandBuilder, ActionRowBuilder, ButtonBuilder, ButtonStyle, EmbedBuilder } = require('discord.js');
+const { SlashCommandBuilder, EmbedBuilder } = require('discord.js');
 
 const { getRandomQuestion } = require('./../../utilities/tests/questionSelector');
 const { chooseInterface } = require('./../../utilities/tests/interfaceSelector.js');
@@ -68,7 +68,9 @@ module.exports = {
 		if (interfaceType === 'multiple-choice') {
 			const options = getMultipleChoiceOptions(possibleAnswers);
 			const row = buildMultipleChoiceButtons(options);
-			await interaction.editReply({ components: [row] });
+			await interaction.editReply({
+				components: [row],
+			});
 
 			const filter = i => i.user.id === interaction.user.id;
 			const collector = interaction.channel.createMessageComponentCollector({
@@ -105,6 +107,8 @@ module.exports = {
 					: response.response
 						? `❌ Incorrect. Answer: **${possibleAnswers[0]}**`
 						: `⏰ Time's up! Answer: **${possibleAnswers[0]}**`,
+				components: [],
+				embeds: [],
 			});
 		}
 	},
