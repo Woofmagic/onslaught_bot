@@ -35,9 +35,9 @@ const fs = require('node:fs');
 function getRandomQuestion(topic) {
 
 	// (3.1): We need to find the filepath to the actual quiz contents:
-	const filePath = path.join(__dirname, '..', 'statics', 'quizContents', `${topic}.json`);
+	const filePath = path.join(__dirname, 'statics', 'quizContents', `${topic}.json`);
 
-	// (3.2): We read the file synchronously...
+	// (3.2): We read the JSON file synchronously...
 	const data = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
 
 	// (3.3): Now, we choose a random problem from that data using the standard approach:
