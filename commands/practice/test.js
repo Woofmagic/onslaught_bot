@@ -53,7 +53,7 @@ module.exports = {
 		const possibleAnswers = question.content.possibleAnswers;
 
 		const embed = new EmbedBuilder()
-			.setTitle(`Quiz Time: ${topic}`)
+			.setTitle(`Quiz Time: ${userSelectedTopic}`)
 			.setDescription(`"${questionText}"`)
 			.setFooter({ text: interfaceType === 'multiple-choice' ? 'Pick the correct author.' : 'Type your answer within 10 seconds.' });
 
@@ -65,7 +65,10 @@ module.exports = {
 			await interaction.editReply({ components: [row] });
 
 			const filter = i => i.user.id === interaction.user.id;
-			const collector = interaction.channel.createMessageComponentCollector({ filter, time: 10000 });
+			const collector = interaction.channel.createMessageComponentCollector({
+				filter,
+				time: 10000,
+			});
 
 			collector.on('collect', async i => {
 				const selected = i.customId.split('_')[1];
@@ -80,7 +83,11 @@ module.exports = {
 
 			collector.on('end', collected => {
 				if (!collected.size) {
-					interaction.editReply({ content: `⏰ Time's up! Answer: **${possibleAnswers[0]}**`, components: [] });
+					interaction.editReply({
+						content: `⏰ Time's up! Answer: **${possibleAnswers[0]}**`,
+						components: [],
+						embeds: [],
+					});
 				}
 			});
 		}
