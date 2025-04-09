@@ -31,7 +31,7 @@ const path = require('path');
  */
 const fs = require('node:fs');
 
-const philosophyTestQuestions = require('./../../statics/quizContents/philosophy.json');
+const philosophyTestQuestions = require('./../../statics/quizContents/philosophy/philosophy.json');
 
 // (3): We define the main function:
 function getRandomQuestion(topic) {

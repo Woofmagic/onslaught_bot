@@ -1,0 +1,1578 @@
+[
+    {
+        "id": 1,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "What is the type of computer memory that retains its data when it's turned off?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "nonvolatile",
+                "non-volatile",
+                "nonvolatile memory",
+                "non-volatile memory"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Non-volatile_memory"
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "What is the type of computer memory that requires power to store data?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "volatile",
+                "volatile memory"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Volatile_memory"
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "In the context of storage devices, what does the acronym \"HDD\" stand for?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "hard disk drive",
+                "hard-disk drive"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=1982",
+                "https://en.wikipedia.org/wiki/Hard_disk_drive"
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "If the memory in an HDD remains stored after it's disconnected from a power source, what type of computer memory does an HDD use?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "nonvolatile",
+                "nonvolatile memory",
+                "non-volatile memory",
+                "non-volatile"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=1982",
+                "https://en.wikipedia.org/wiki/Hard_disk_drive"
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "A typical desktop hard drive would operate at how many revolutions per second?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "7200",
+                "7,200"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=1982",
+                "https://en.wikipedia.org/wiki/Hard_disk_drive"
+            ]
+        }
+    },
+    {
+        "id": 6,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "What is the storage device that consists of a sealed case containing spinning magnetic disks where the data is stored on?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "magnetic disk drive",
+                "hard disk drive",
+                "HDD"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=1982",
+                "https://en.wikipedia.org/wiki/Hard_disk_drive"
+            ]
+        }
+    },
+    {
+        "id": 7,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "What is the component of an HDD that reads and writes data to the magnetic disks?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "actuator arm"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=1982",
+                "https://en.wikipedia.org/wiki/Hard_disk_drive"
+            ]
+        }
+    },
+    {
+        "id": 8,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "What is the name of the standard computer bus interface that modern-day HDDs use?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "Serial ATA",
+                "SATA"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2023",
+                "https://en.wikipedia.org/wiki/Serial_ATA"
+            ]
+        }
+    },
+    {
+        "id": 9,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "What is the name of the computer bus interface that the SATA interface superceeded?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "Parallel ATA",
+                "PATA"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2023",
+                "https://en.wikipedia.org/wiki/Serial_ATA"
+            ]
+        }
+    },
+    {
+        "id": 10,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "What is the name of the type of data transmission referring to the sending of data one bit at a time?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "serial",
+                "serial communication"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2023",
+                "https://en.wikipedia.org/wiki/Serial_ATA",
+                "https://en.wikipedia.org/wiki/Serial_communication"
+            ]
+        }
+    },
+    {
+        "id": 11,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "What is the name of the type of data transmission referring to the sending of data as multiple bits simultaneously?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "parallel",
+                "parallel communication"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2023",
+                "https://en.wikipedia.org/wiki/Serial_ATA",
+                "https://en.wikipedia.org/wiki/Serial_communication",
+                "https://en.wikipedia.org/wiki/Parallel_communication"
+            ]
+        }
+    },
+    {
+        "id": 12,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "What is the __average__ transfer speed of a SATA cable in gigabits per second?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "6",
+                "six",
+                "6gbs"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2023",
+                "https://en.wikipedia.org/wiki/Serial_ATA"
+            ]
+        }
+    },
+    {
+        "id": 13,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "What is the terminology used to refer to the ability to insert or remove a storage device from a computer system without stopping or shutting down the system?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "hot swapping"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2023",
+                "https://en.wikipedia.org/wiki/Hot_swapping"
+            ]
+        }
+    },
+    {
+        "id": 14,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "In the context of storage devices, what does the acronym \"SSD\" stand for?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "SSD",
+                "solid state drive",
+                "solid-state drive"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2023",
+                "https://en.wikipedia.org/wiki/Solid-state_drive"
+            ]
+        }
+    },
+    {
+        "id": 15,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "What is the storage device that has no moving parts, uses flash memory chips to store data, and has very fast data transfer?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "SSD",
+                "solid state drive",
+                "solid-state drive"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2023",
+                "https://en.wikipedia.org/wiki/Solid-state_drive"
+            ]
+        }
+    },
+    {
+        "id": 16,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "https://res.cloudinary.com/lwgatsby/f_auto/www/uploads/2018/02/image2.jpg \nWhat is the type of hard drive featured in the picture?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "SSD",
+                "solid state drive",
+                "solid-state drive"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "https://res.cloudinary.com/lwgatsby/f_auto/www/uploads/2018/02/image2.jpg",
+            "referencesSources": [
+                "https://www.liquidweb.com/blog/how-do-solid-state-drives-work/",
+                "https://youtu.be/2eLe7uz-7CM?t=2023",
+                "https://en.wikipedia.org/wiki/Solid-state_drive"
+            ]
+        }
+    },
+    {
+        "id": 17,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "https://www.extremetech.com/wp-content/uploads/2013/04/crucial-m500-inside.jpg \nWhat is the type of hard drive featured in the picture?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "SSD",
+                "solid state drive",
+                "solid-state drive"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "https://www.extremetech.com/wp-content/uploads/2013/04/crucial-m500-inside.jpg",
+            "referencesSources": [
+                "https://www.extremetech.com/computing/152969-crucial-m500-the-first-1tb-ssd-priced-at-just-0-60gig",
+                "https://youtu.be/2eLe7uz-7CM?t=2023",
+                "https://en.wikipedia.org/wiki/Solid-state_drive"
+            ]
+        }
+    },
+    {
+        "id": 18,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "https://getprostorage.com/wp-content/uploads/2017/10/20171017_Hard_Drive_Failure_ProStorage-HTA_HDD.jpg \nWhat is the type of hard drive featured in the picture?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "HDD",
+                "hard disk drive",
+                "hard-disk drive"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "https://getprostorage.com/wp-content/uploads/2017/10/20171017_Hard_Drive_Failure_ProStorage-HTA_HDD.jpg",
+            "referencesSources": [
+                "https://getprostorage.com/blog/how-to-choose-between-an-internal-hard-drive-and-an-external-hard-drive/"
+            ]
+        }
+    },
+    {
+        "id": 19,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "https://cdn.geekaygames.com/media/catalog/product/cache/f16f349b720da0a7b8b90d96299b4477/h/d/hddin_1.jpg \nWhat is the type of hard drive featured in the picture?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "HDD",
+                "hard disk drive",
+                "hard-disk drive"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "https://cdn.geekaygames.com/media/catalog/product/cache/f16f349b720da0a7b8b90d96299b4477/h/d/hddin_1.jpg",
+            "referencesSources": [
+                "https://cdn.geekaygames.com/media/catalog/product/cache/f16f349b720da0a7b8b90d96299b4477/h/d/hddin_1.jpg"
+            ]
+        }
+    },
+    {
+        "id": 20,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "What is the storage device that combines the low cost and large capacity of magnetic disks and the speed of an SSD?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "hybrid",
+                "hybrid drive",
+                "SSHD"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Hybrid_drive",
+                ""
+            ]
+        }
+    },
+    {
+        "id": 21,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "What is the storage device that combines the low cost and large capacity of magnetic disks and the speed of an SSD?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "hybrid",
+                "hybrid drive",
+                "SSHD"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Hybrid_drive",
+                ""
+            ]
+        }
+    },
+    {
+        "id": 22,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "What is the storage device that employs magnetic disks for memory storage but uses flash memory for caching of data?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "hybrid",
+                "hybrid drive",
+                "SSHD"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Hybrid_drive",
+                ""
+            ]
+        }
+    },
+    {
+        "id": 23,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "What is the terminology used to refer to storage devices that are attached to a computer from the outside, in contrast to those internal to the computer?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "removable",
+                "removable media",
+                "removable storage"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Removable_media"
+            ]
+        }
+    },
+    {
+        "id": 24,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "What is the name of the storage device that provides an inexpensive way to back up data from a hard drive sequentially to a tape?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "tape drive"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Tape_drive"
+            ]
+        }
+    },
+    {
+        "id": 25,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "What is the name of the storage device that, because the data from a hard drive was backed up to it sequentially, restores data in the same order as it was backed up?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "tape drive"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Tape_drive"
+            ]
+        }
+    },
+    {
+        "id": 26,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "https://upload.wikimedia.org/wikipedia/commons/3/39/Dds_tape_drive_01.jpg \nWhat is the name of storage device in the picture?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "tape drive"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "https://upload.wikimedia.org/wikipedia/commons/3/39/Dds_tape_drive_01.jpg",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Tape_drive"
+            ]
+        }
+    },
+    {
+        "id": 27,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "In the context of storage devices, what does the acronym \"CD\" stand for?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "compact disk"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2145",
+                "https://en.wikipedia.org/wiki/Compact_disc"
+            ]
+        }
+    },
+    {
+        "id": 28,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "Please provide the correct acronym for the storage device known as \"compact disk read only memory\".",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "CD ROM",
+                "CDROM",
+                "CD-ROM"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2145",
+                "https://en.wikipedia.org/wiki/Compact_disc"
+            ]
+        }
+    },
+    {
+        "id": 29,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "What is the terminology used to refer to data that can only be read but not changed or written to?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "read only",
+                "read-only"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2145",
+                "https://en.wikipedia.org/wiki/Compact_disc"
+            ]
+        }
+    },
+    {
+        "id": 30,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "What is the name of the storage device that reads data from a CD-ROM disk?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "CD ROM drive",
+                "CDROM drive",
+                "CD-ROM drive"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2145",
+                "https://en.wikipedia.org/wiki/Compact_disc",
+                "https://en.wikipedia.org/wiki/CD-ROM#CD-ROM_drives"
+            ]
+        }
+    },
+    {
+        "id": 31,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "In the context of storage devices, what does the acronym \"CD-R\" stand for?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "compact disk recordable",
+                "compact disk-recordable"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2145",
+                "https://en.wikipedia.org/wiki/Compact_disc",
+                "https://en.wikipedia.org/wiki/CD-R"
+            ]
+        }
+    },
+    {
+        "id": 32,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "In the context of storage devices, what does the acronym \"CD-RW\" stand for?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "compact disk rewritable",
+                "compact disk-rewritable"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2145",
+                "https://en.wikipedia.org/wiki/Compact_disc",
+                "https://en.wikipedia.org/wiki/CD-RW"
+            ]
+        }
+    },
+    {
+        "id": 33,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "What is the name of the storage device that can read or write data to a CD using a moving laser assembly?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "CDRW drive",
+                "CD-RW drive"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2145",
+                "https://en.wikipedia.org/wiki/Compact_disc",
+                "https://en.wikipedia.org/wiki/CD-RW"
+            ]
+        }
+    },
+    {
+        "id": 34,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "How many times can a CD-RW drive write data to a CD-R disk?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "once",
+                "1",
+                "one"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2190",
+                "https://en.wikipedia.org/wiki/Compact_disc",
+                "https://en.wikipedia.org/wiki/CD-RW"
+            ]
+        }
+    },
+    {
+        "id": 35,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "What is the name of the CD that allows for a CD-RW drive to write data to it multiple times?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "CDRW",
+                "CD-RW",
+                "CD RW"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2145",
+                "https://en.wikipedia.org/wiki/Compact_disc",
+                "https://en.wikipedia.org/wiki/CD-RW"
+            ]
+        }
+    },
+    {
+        "id": 36,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "What is the name of the CD that allows for a CD-RW drive to write data to it only once?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "CDR",
+                "CD-R",
+                "CD R"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2145",
+                "https://en.wikipedia.org/wiki/Compact_disc",
+                "https://en.wikipedia.org/wiki/CD-RW"
+            ]
+        }
+    },
+    {
+        "id": 37,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "How many megabytes of data can a standard CD hold?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "700",
+                "700MB"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "Standard CDs have a diameter of 120 millimetres (4.7 in) and are designed to hold up to 74 minutes of uncompressed stereo digital audio or about 650 MB of data. Capacity is routinely extended to 80 minutes and 700 MB by arranging more data closely on the same sized disc.",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2145",
+                "https://en.wikipedia.org/wiki/Compact_disc",
+                "https://en.wikipedia.org/wiki/CD-RW"
+            ]
+        }
+    },
+    {
+        "id": 38,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "What is the name of the device that largely replaced the ordinary CD-ROM drive because of the larger capacity of DVD disks?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "DVD-ROM drive",
+                "DVD ROM drive"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2218",
+                "https://en.wikipedia.org/wiki/DVD"
+            ]
+        }
+    },
+    {
+        "id": 39,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "Approximately how many gigabytes can a single-sided, single-layer DVD hold?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "4.7",
+                "4.7GB"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2218",
+                "https://en.wikipedia.org/wiki/DVD",
+                "https://en.wikipedia.org/wiki/DVD#Capacity"
+            ]
+        }
+    },
+    {
+        "id": 40,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "What is the name of the device that reads DVD disks?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "DVD-ROM drive",
+                "DVD ROM drive"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2218",
+                "https://en.wikipedia.org/wiki/DVD",
+                "https://www.pcmag.com/encyclopedia/term/dvd-rom"
+            ]
+        }
+    },
+    {
+        "id": 41,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "What is the name of the device that can change or write data to DVD disks?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "DVD-RW drive",
+                "DVD RW drive"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2218",
+                "https://en.wikipedia.org/wiki/DVD",
+                "https://en.wikipedia.org/wiki/DVD_recordable"
+            ]
+        }
+    },
+    {
+        "id": 42,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "In the context of storage devices, what does the acronym \"DVD\" stand for?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "Digital Video Disc",
+                "digital video disc",
+                "Digital Versatile Disc",
+                "digital versatile disc"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2218",
+                "https://en.wikipedia.org/wiki/DVD"
+            ]
+        }
+    },
+    {
+        "id": 43,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "What does the \"DL\" stand for in the acronym \"DVD+R DL\"?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "dual layer"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2218",
+                "https://en.wikipedia.org/wiki/DVD"
+            ]
+        }
+    },
+    {
+        "id": 44,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "Approximately how many gigabytes of data are available on a DVD+R DL disk?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "8.5",
+                "8.5GB"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2218",
+                "https://en.wikipedia.org/wiki/DVD",
+                "https://en.wikipedia.org/wiki/DVD#Capacity"
+            ]
+        }
+    },
+    {
+        "id": 45,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "What does the \"SS\" stand for in the acronym \"DVD SS SL\"?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "single side",
+                "single-side",
+                "single sided",
+                "single-sided"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/DVD",
+                "https://en.wikipedia.org/wiki/DVD#Capacity"
+            ]
+        }
+    },
+    {
+        "id": 46,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "What does the \"SL\" stand for in the acronym \"DVD SS SL\"?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "single layer",
+                "single-layer"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/DVD",
+                "https://en.wikipedia.org/wiki/DVD#Capacity"
+            ]
+        }
+    },
+    {
+        "id": 47,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "What does the \"SL\" stand for in the acronym \"DVD SS SL\"?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "single layer",
+                "single-layer"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2270",
+                "https://en.wikipedia.org/wiki/DVD",
+                "https://en.wikipedia.org/wiki/DVD#Capacity"
+            ]
+        }
+    },
+    {
+        "id": 48,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "Approximately how many gigbytes of data are available in a \"DVD SS SL\"?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "4.7",
+                "4.7GB"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2270",
+                "https://en.wikipedia.org/wiki/DVD",
+                "https://en.wikipedia.org/wiki/DVD#Capacity"
+            ]
+        }
+    },
+    {
+        "id": 49,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "Approximately how many gigbytes of data are available in a \"DVD SS DL\"?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "8.5",
+                "8.5GB"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2270",
+                "https://en.wikipedia.org/wiki/DVD",
+                "https://en.wikipedia.org/wiki/DVD#Capacity"
+            ]
+        }
+    },
+    {
+        "id": 50,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "What is the name of the storage device that reads Blu-Ray disks?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "Blu-Ray drive",
+                "Blu Ray drive"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2270",
+                "https://en.wikipedia.org/wiki/Blu-ray"
+            ]
+        }
+    },
+    {
+        "id": 51,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "What was the year that the Blu-Ray optical drive was released officially?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "2006"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "Afterwards, it continued to be developed until its official worldwide release on June 20, 2006, beginning the high-definition optical disc format war, where Blu-ray Disc competed with the HD DVD format.",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2270",
+                "https://en.wikipedia.org/wiki/Blu-ray"
+            ]
+        }
+    },
+    {
+        "id": 52,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "Approximately how many gigabytes of storage does a Blu-Ray disk offer?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "25",
+                "25GB"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2270",
+                "https://en.wikipedia.org/wiki/Blu-ray"
+            ]
+        }
+    },
+    {
+        "id": 53,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "What is the name of the storage device that allows you to burn data to a Blu-Ray disk one time?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "BD-R drive",
+                "BD R drive"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2349",
+                "https://en.wikipedia.org/wiki/Blu-ray"
+            ]
+        }
+    },
+    {
+        "id": 54,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "What is the name of the storage device that allows you erase and overwrite data on a Blu-Ray disk?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "BD-RE drive",
+                "BD RE drive"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2349",
+                "https://en.wikipedia.org/wiki/Blu-ray"
+            ]
+        }
+    },
+    {
+        "id": 55,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "Approximately how many gigabytes of data would a BD-R DL disk hold?",
+            "examples": [
+                "\"BD-R\" stands for Blu-Ray Disk-Readable, and \"DL\" stands for dual-layer. Since a single-layer Blu-Ray disk holds 25GB of data, a dual-layer Blu-Ray disk holds approximately 50GB of data."
+            ],
+            "possibleAnswers": [
+                "50",
+                "50GB"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2349",
+                "https://en.wikipedia.org/wiki/Blu-ray"
+            ]
+        }
+    },
+    {
+        "id": 56,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "What is the name of the miniature storage device with a USB interface that stores data on memory chips?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "USB drive",
+                "USB flash drive",
+                "flash drive",
+                "thumb drive"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2386",
+                "https://en.wikipedia.org/wiki/USB_flash_drive"
+            ]
+        }
+    },
+    {
+        "id": 56,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "https://media.gannett-cdn.com/29906170001/29906170001_5757027504001_5757015933001-vs.jpg \nWhat is the name of the storage device pictured?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "USB drive",
+                "USB flash drive",
+                "flash drive",
+                "thumb drive"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "https://media.gannett-cdn.com/29906170001/29906170001_5757027504001_5757015933001-vs.jpg",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2386",
+                "https://en.wikipedia.org/wiki/USB_flash_drive",
+                "https://media.gannett-cdn.com/29906170001/29906170001_5757027504001_5757015933001-vs.jpg"
+            ]
+        }
+    },
+    {
+        "id": 56,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "In the context of storage devices, what does the acronym \"SD\" stand for?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "secure digital"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2386",
+                "https://en.wikipedia.org/wiki/SD_card"
+            ]
+        }
+    },
+    {
+        "id": 57,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "What is the name of the small, flash memory storage device that is commonly used with video cameras to store photographs and videos?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "secure digital card",
+                "SD card"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2386",
+                "https://en.wikipedia.org/wiki/SD_card"
+            ]
+        }
+    },
+    {
+        "id": 58,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "What type of SD card is most commonly used in smart phones for adding extra storage?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "microSD",
+                "micro SD"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2440",
+                "https://en.wikipedia.org/wiki/SD_card"
+            ]
+        }
+    },
+    {
+        "id": 59,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "What is another type of flash memory chip that is commonly used in a lot of DSLR cameras that is __not__ an SD card?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "compact flash"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2457",
+                "https://en.wikipedia.org/wiki/SD_card"
+            ]
+        }
+    },
+    {
+        "id": 60,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "What is the name of the obsolete, non-standard SD card that was proprietary in Olympus and Fujifilm cameras?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "XD picture card",
+                "extreme digital picture card",
+                "Extreme Digital Picture Card"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2484",
+                "https://en.wikipedia.org/wiki/XD-Picture_Card",
+                "https://en.wikipedia.org/wiki/SD_card"
+            ]
+        }
+    },
+    {
+        "id": 61,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "What is the name of the kind of flash memory that is typically inside smart phones and tablets?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "eMMC",
+                "embedded multimedia controller",
+                "embedded multimedia card"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2513",
+                "https://en.wikipedia.org/wiki/MultiMediaCard#eMMC"
+            ]
+        }
+    },
+    {
+        "id": 62,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "What is the type of memory that consists of flash memory plus a memory controller and is typically embedded in smart phones and tablets?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "eMMC",
+                "embedded multimedia controller",
+                "embedded multimedia card"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2513",
+                "https://en.wikipedia.org/wiki/MultiMediaCard#eMMC"
+            ]
+        }
+    },
+    {
+        "id": 63,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Samsung_Galaxy_Tab_2_10.1_-_Samsung_KLMAG2GE4A-A002-3955.jpg \nWhat is the type of memory in the picture?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "eMMC",
+                "embedded multimedia controller",
+                "embedded multimedia card"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Samsung_Galaxy_Tab_2_10.1_-_Samsung_KLMAG2GE4A-A002-3955.jpg",
+            "referencesSources": [
+                "https://upload.wikimedia.org/wikipedia/commons/7/7a/Samsung_Galaxy_Tab_2_10.1_-_Samsung_KLMAG2GE4A-A002-3955.jpg",
+                "https://youtu.be/2eLe7uz-7CM?t=2513",
+                "https://en.wikipedia.org/wiki/MultiMediaCard#eMMC"
+            ]
+        }
+    },
+    {
+        "id": 64,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "In the context of storage devices, what does the acronym \"eMMC\" stand for?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "embedded multimedia controller",
+                "embedded multimedia card"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://upload.wikimedia.org/wikipedia/commons/7/7a/Samsung_Galaxy_Tab_2_10.1_-_Samsung_KLMAG2GE4A-A002-3955.jpg",
+                "https://youtu.be/2eLe7uz-7CM?t=2513",
+                "https://en.wikipedia.org/wiki/MultiMediaCard#eMMC"
+            ]
+        }
+    },
+    {
+        "id": 65,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "In the context of storage devices, what does the acronym \"eMMC\" stand for?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "embedded multimedia controller",
+                "embedded multimedia card"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://upload.wikimedia.org/wikipedia/commons/7/7a/Samsung_Galaxy_Tab_2_10.1_-_Samsung_KLMAG2GE4A-A002-3955.jpg",
+                "https://youtu.be/2eLe7uz-7CM?t=2513",
+                "https://en.wikipedia.org/wiki/MultiMediaCard#eMMC"
+            ]
+        }
+    },
+    {
+        "id": 66,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "In the context of storage devices, what does the \"e\" in \"eMMC\" stand for?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "embedded"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://upload.wikimedia.org/wikipedia/commons/7/7a/Samsung_Galaxy_Tab_2_10.1_-_Samsung_KLMAG2GE4A-A002-3955.jpg",
+                "https://youtu.be/2eLe7uz-7CM?t=2513",
+                "https://en.wikipedia.org/wiki/MultiMediaCard#eMMC"
+            ]
+        }
+    },
+    {
+        "id": 67,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "What is the terminology used to refer to equipment that can be swapped out without the need of turning off the power?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "hot spare"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2513"
+            ]
+        }
+    },
+    {
+        "id": 68,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "storage", "storage devices"],
+            "topics": ["storage", "storage devices", "hardware"],
+            "questionText": "What is the terminology used to refer to equipment that requires that the power be turned out before replacing?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "cold spare"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=2550"
+            ]
+        }
+    }
+]

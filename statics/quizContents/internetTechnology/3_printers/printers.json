@@ -1,0 +1,929 @@
+[
+    {
+        "id": 1,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "printers"],
+            "topics": ["printers", "hardware"],
+            "questionText": "This device is used to print documents or pictures onto paper.",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "printer"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Printer_(computing)",
+                "https://youtu.be/2eLe7uz-7CM?t=1239"
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "printers"],
+            "topics": ["printers", "hardware"],
+            "questionText": "What is the name of the type of connection that describes a printer directly connected to a specific computer via USB or parallel cable?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "local",
+                "local connection"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Printer_(computing)",
+                "https://youtu.be/2eLe7uz-7CM?t=1239",
+                "https://www.marconet.com/blog/local-vs-network-printers-and-how-your-business-can-benefit"
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "printers"],
+            "topics": ["printers", "hardware"],
+            "questionText": "What is the name of the type of connection that describes a printer connected through a network via a network interface, such as an ethernet or wireless connection?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "network",
+                "network connection"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Printer_(computing)",
+                "https://youtu.be/2eLe7uz-7CM?t=1239",
+                "https://www.marconet.com/blog/local-vs-network-printers-and-how-your-business-can-benefit"
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "printers"],
+            "topics": ["printers", "hardware"],
+            "questionText": "What is the type of printer that is connected to a network via an ethernet or network connection?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "network",
+                "network printers"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Printer_(computing)",
+                "https://youtu.be/2eLe7uz-7CM?t=1265",
+                "https://www.marconet.com/blog/local-vs-network-printers-and-how-your-business-can-benefit"
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "printers"],
+            "topics": ["printers", "hardware"],
+            "questionText": "What is a the term for allowing other comptuers on your network to connect to and use your local printer?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "network share"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Printer_(computing)",
+                "https://youtu.be/2eLe7uz-7CM?t=1281",
+                "https://www.marconet.com/blog/local-vs-network-printers-and-how-your-business-can-benefit"
+            ]
+        }
+    },
+    {
+        "id": 6,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "printers"],
+            "topics": ["printers", "hardware"],
+            "questionText": "What is the type of printer that prints without striking an ink ribbon onto paper?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "nonimpact",
+                "non-impact",
+                "nonimpact printer",
+                "non-impact printer"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Printer_(computing)",
+                "https://youtu.be/2eLe7uz-7CM?t=1281"
+            ]
+        }
+    },
+    {
+        "id": 7,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "printers"],
+            "topics": ["printers", "hardware"],
+            "questionText": "What is the type of printer that prints by striking an ink ribbon onto paper?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "impact",
+                "impact printer"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Printer_(computing)",
+                "https://youtu.be/2eLe7uz-7CM?t=1281"
+            ]
+        }
+    },
+    {
+        "id": 8,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "printers"],
+            "topics": ["printers", "hardware"],
+            "questionText": "What is most common type of printer used for home use?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "inkjet",
+                "inkjet printers"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Printer_(computing)",
+                "https://youtu.be/2eLe7uz-7CM?t=1281"
+            ]
+        }
+    },
+    {
+        "id": 9,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "printers"],
+            "topics": ["printers", "hardware"],
+            "questionText": "What is the printer that places tiny dots of ink on a piece of paper to reproduce a digital image?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "inkjet",
+                "inkjet printers"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Printer_(computing)#Liquid_inkjet_printers",
+                "https://en.wikipedia.org/wiki/Inkjet_printing",
+                "https://youtu.be/2eLe7uz-7CM?t=1281"
+            ]
+        }
+    },
+    {
+        "id": 10,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "printers"],
+            "topics": ["printers", "hardware"],
+            "questionText": "What is the type of printer that usually comes with a black and a color cartridge?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "inkjet",
+                "inkjet printers"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Printer_(computing)#Liquid_inkjet_printers",
+                "https://en.wikipedia.org/wiki/Inkjet_printing",
+                "https://youtu.be/2eLe7uz-7CM?t=1281"
+            ]
+        }
+    },
+    {
+        "id": 11,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "printers"],
+            "topics": ["printers", "hardware"],
+            "questionText": "What is a primary drawback when using an inkjet printer that is not present in laser printers?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "smudge",
+                "smudging"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Printer_(computing)#Liquid_inkjet_printers",
+                "https://en.wikipedia.org/wiki/Inkjet_printing",
+                "https://youtu.be/2eLe7uz-7CM?t=1391"
+            ]
+        }
+    },
+    {
+        "id": 12,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "printers"],
+            "topics": ["printers", "hardware"],
+            "questionText": "What is the type of printer that produces the highest quality of print available?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "laser",
+                "laser printer"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Printer_(computing)#Liquid_inkjet_printers",
+                "https://en.wikipedia.org/wiki/Laser_printing",
+                "https://youtu.be/2eLe7uz-7CM?t=1414"
+            ]
+        }
+    },
+    {
+        "id": 13,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "printers"],
+            "topics": ["printers", "hardware"],
+            "questionText": "What is the most expensive type of printer these days because it provides the highest quality print available?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "laser",
+                "laser printer"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Printer_(computing)#Liquid_inkjet_printers",
+                "https://en.wikipedia.org/wiki/Laser_printing",
+                "https://youtu.be/2eLe7uz-7CM?t=1414"
+            ]
+        }
+    },
+    {
+        "id": 14,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "printers"],
+            "topics": ["printers", "hardware"],
+            "questionText": "What is the type of printer that uses a laser to produce high quality print?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "laser",
+                "laser printer"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Printer_(computing)#Liquid_inkjet_printers",
+                "https://en.wikipedia.org/wiki/Laser_printing",
+                "https://youtu.be/2eLe7uz-7CM?t=1414"
+            ]
+        }
+    },
+    {
+        "id": 15,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "printers"],
+            "topics": ["printers", "hardware"],
+            "questionText": "What is the name of the fine, black, electrically-charged powder that coats the spinning drum in a laser printer?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "toner"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Printer_(computing)",
+                "https://en.wikipedia.org/wiki/Laser_printing",
+                "https://en.wikipedia.org/wiki/Toner",
+                "https://youtu.be/2eLe7uz-7CM?t=1444"
+            ]
+        }
+    },
+    {
+        "id": 16,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "printers"],
+            "topics": ["printers", "hardware"],
+            "questionText": "What is the name of the negatively-charged, spinning cylinder that ultimately transfers a digital image to paper in a laser printer?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "drum"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Printer_(computing)",
+                "https://en.wikipedia.org/wiki/Laser_printing",
+                "https://youtu.be/2eLe7uz-7CM?t=1444"
+            ]
+        }
+    },
+    {
+        "id": 17,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "printers"],
+            "topics": ["printers", "hardware"],
+            "questionText": "What is the type of the printer that prints by using a special kind of paper and heat?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "thermal",
+                "thermal printer"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Printer_(computing)",
+                "https://en.wikipedia.org/wiki/Thermal_printing",
+                "https://youtu.be/2eLe7uz-7CM?t=1506"
+            ]
+        }
+    },
+    {
+        "id": 18,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "printers"],
+            "topics": ["printers", "hardware"],
+            "questionText": "What is the type of the printer that prints by applying heat to paper with wax-based ink arranged in the desired graphics or text?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "thermal",
+                "thermal printer"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Printer_(computing)",
+                "https://en.wikipedia.org/wiki/Thermal_printing",
+                "https://youtu.be/2eLe7uz-7CM?t=1506"
+            ]
+        }
+    },
+    {
+        "id": 19,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "printers"],
+            "topics": ["printers", "hardware"],
+            "questionText": "What is type of the printer that is known to be the most quiet printer?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "thermal",
+                "thermal printer"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Printer_(computing)",
+                "https://en.wikipedia.org/wiki/Thermal_printing",
+                "https://youtu.be/2eLe7uz-7CM?t=1506"
+            ]
+        }
+    },
+    {
+        "id": 20,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "printers"],
+            "topics": ["printers", "hardware"],
+            "questionText": "What is type of the printer that is often used to print labels and barcodes?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "thermal",
+                "thermal printer"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Printer_(computing)",
+                "https://en.wikipedia.org/wiki/Thermal_printing",
+                "https://youtu.be/2eLe7uz-7CM?t=1506"
+            ]
+        }
+    },
+    {
+        "id": 21,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "printers"],
+            "topics": ["printers", "hardware"],
+            "questionText": "What is type of the printer whose print head strikes against a cloth ink ribbon that comes into direct contact with the paper?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "dot matrix",
+                "dot matrix printers"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Printer_(computing)",
+                "https://en.wikipedia.org/wiki/Dot_matrix",
+                "https://en.wikipedia.org/wiki/Dot_matrix_printing",
+                "https://youtu.be/2eLe7uz-7CM?t=1506"
+            ]
+        }
+    },
+    {
+        "id": 22,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "printers"],
+            "topics": ["printers", "hardware"],
+            "questionText": "What is type of the impact printer that prints text and font composed of an array of tiny dots?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "dot matrix",
+                "dot matrix printers"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Printer_(computing)",
+                "https://en.wikipedia.org/wiki/Dot_matrix",
+                "https://en.wikipedia.org/wiki/Dot_matrix_printing",
+                "https://youtu.be/2eLe7uz-7CM?t=1506"
+            ]
+        }
+    },
+    {
+        "id": 23,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "printers"],
+            "topics": ["printers", "hardware"],
+            "questionText": "What is type of the printer that, because it uses old impact-printing technology, is known to be one of the loudest printers?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "dot matrix",
+                "dot matrix printers"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Printer_(computing)",
+                "https://en.wikipedia.org/wiki/Dot_matrix",
+                "https://en.wikipedia.org/wiki/Dot_matrix_printing",
+                "https://youtu.be/2eLe7uz-7CM?t=1506"
+            ]
+        }
+    },
+    {
+        "id": 24,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "printers"],
+            "topics": ["printers", "hardware"],
+            "questionText": "What is commonly the component of inkjet printers that is faulty when prints have ink streaks on them?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "ink cartridge",
+                "ink cartridges"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "The ink cartridges are located within the printhead. While saying \"printhead\" is correct, we need to be more specific in this case.",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=1594"
+            ]
+        }
+    },
+    {
+        "id": 25,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "printers"],
+            "topics": ["printers", "hardware"],
+            "questionText": "What is a common indicator visible on printed paper with ink that an inkjet printer has dirty ink cartridges or is low on ink?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "faded",
+                "faded ink",
+                "faded text"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=1610"
+            ]
+        }
+    },
+    {
+        "id": 26,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "printers"],
+            "topics": ["printers", "hardware"],
+            "questionText": "What is a common indicator visible on printed paper with ink that an faulty ink cartridges?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "streaks",
+                "streaked ink",
+                "streaked text"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=1594"
+            ]
+        }
+    },
+    {
+        "id": 26,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "printers"],
+            "topics": ["printers", "hardware"],
+            "questionText": "What is the name of the phenomenon in which a faint image of a previous print job is located on a newly printed page?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "ghosting"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=1649"
+            ]
+        }
+    },
+    {
+        "id": 27,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "printers"],
+            "topics": ["printers", "hardware"],
+            "questionText": "What is commonly the faulty component to check when troubleshooting the issue of ghosting on a laser printer?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "drum"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=1649"
+            ]
+        }
+    },
+    {
+        "id": 28,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "printers"],
+            "topics": ["printers", "hardware"],
+            "questionText": "What is the next component to check on a laser printer when troubleshooting a ghosting issue if the problem is __not__ with the drum?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "fuser"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=1649"
+            ]
+        }
+    },
+    {
+        "id": 29,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "printers"],
+            "topics": ["printers", "hardware"],
+            "questionText": "What is the name of the printer issue where paper becomes stuck inside the printer?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "paper jam",
+                "jam"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=1699"
+            ]
+        }
+    },
+    {
+        "id": 30,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "printers"],
+            "topics": ["printers", "hardware"],
+            "questionText": "What is a common issue with the paper itself when troubleshooting paper jams in a printer?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "crease",
+                "creases",
+                "paper crease",
+                "paper creases"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=1699"
+            ]
+        }
+    },
+    {
+        "id": 31,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "printers"],
+            "topics": ["printers", "hardware"],
+            "questionText": "What is the word describing small and scattered material that can result in a paper jam?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "debris"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=1699"
+            ]
+        }
+    },
+    {
+        "id": 32,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "printers"],
+            "topics": ["printers", "hardware"],
+            "questionText": "What is commonly the faulty component in a printer that produces a paper jam?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "roller",
+                "rollers",
+                "pick up rollers"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=1699"
+            ]
+        }
+    },
+    {
+        "id": 33,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "printers"],
+            "topics": ["printers", "hardware"],
+            "questionText": "What is commonly the faulty component in a printer that has problems with the color not printing correctly?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "ink cartridge",
+                "color ink cartridge",
+                "color cartridge"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=1699"
+            ]
+        }
+    },
+    {
+        "id": 34,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "printers"],
+            "topics": ["printers", "hardware"],
+            "questionText": "What should you check if a printing job produces absolutely no activity from the printer?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "connectivity",
+                "connection"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=1765"
+            ]
+        }
+    },
+    {
+        "id": 35,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "printers"],
+            "topics": ["printers", "hardware"],
+            "questionText": "What type of printer is more suseptible to the issue of having absolutely nothing happen when executing a printing job? Local or network?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "network"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=1765"
+            ]
+        }
+    },
+    {
+        "id": 36,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "printers"],
+            "topics": ["printers", "hardware"],
+            "questionText": "What is the kind of printing that allows you to print a document to your computer and store the document as a digital form?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "virtual",
+                "virtual printing"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=1781"
+            ]
+        }
+    },
+    {
+        "id": 37,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "printers"],
+            "topics": ["printers", "hardware"],
+            "questionText": "What is the type of virtual printing that allows you to save a document in a ready-to-print format that another printer can execute?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "print to file"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=1793"
+            ]
+        }
+    },
+    {
+        "id": 38,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "printers"],
+            "topics": ["printers", "hardware"],
+            "questionText": "What is the type of virtual printing that allows you to save a document as a universally-readable file?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "print to pdf"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=1832"
+            ]
+        }
+    },
+    {
+        "id": 39,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "printers"],
+            "topics": ["printers", "hardware"],
+            "questionText": "In the context of printing documents to PDF files, what does the acronym \"PDF\" mean?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "portable digital format"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/PDF",
+                "https://youtu.be/2eLe7uz-7CM?t=1832"
+            ]
+        }
+    },
+    {
+        "id": 39,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "printers"],
+            "topics": ["printers", "hardware"],
+            "questionText": "In the context of printing, what is the kind of file that is universally-readable by almost every new device, and often read with the software Adobe Acrobat Reader?",
+            "examples": [ 
+                
+            ],
+            "possibleAnswers": [
+                "portable digital document",
+                "pdf"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/PDF",
+                "https://youtu.be/2eLe7uz-7CM?t=1882"
+            ]
+        }
+    },
+    {
+        "id": 40,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "printers"],
+            "topics": ["printers", "hardware"],
+            "questionText": "In the context of printing, what is the most common software used for reading PDFs?",
+            "examples": [ 
+                
+            ],
+            "possibleAnswers": [
+                "adobe acrobat",
+                "adobe acrobat reader"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/PDF",
+                "https://youtu.be/2eLe7uz-7CM?t=1882"
+            ]
+        }
+    }
+]

@@ -1,0 +1,401 @@
+[
+    {
+        "id": 1,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "peripherals"],
+            "topics": ["introductory", "input devices", "peripherals", "hardware"],
+            "questionText": "This is the word used to describe an auxillary device used to put information into and extract information out of a computer.",
+            "examples": [
+                "Typical peripherals are keyboards, mouses, microphones, scanners, and screens. Don't psyche yourself out here. This is just the word used to describe these kinds of input/output devices."
+            ],
+            "possibleAnswers": [
+                "peripheral",
+                "peripherals",
+                "peripheral device"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Peripheral",
+                "https://books.google.com/books?id=U1M3clUwCfEC&pg=PA366#v=onepage&q&f=false"
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "peripherals"],
+            "topics": ["introductory", "input devices", "peripherals", "keyboard", "hardware"],
+            "questionText": "This peripheral device is an array of keys that is used to input commands to the computer.",
+            "examples": [
+                "Typical functions performed with a keyboard include typing emails, word processing, and visiting webpages."
+            ],
+            "possibleAnswers": [
+                "keyboard"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=66"
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "peripherals"],
+            "topics": ["introductory", "input devices", "peripherals", "mouse", "hardware"],
+            "questionText": "This peripheral device is a pointing device that fits in the palm of your hand and replicates the movement of your hand movement on a computer screen.",
+            "examples": [
+                ""
+            ],
+            "possibleAnswers": [
+                "mouse",
+                "mice"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=93"
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "peripherals"],
+            "topics": ["introductory", "input devices", "peripherals", "digital camera", "hardware"],
+            "questionText": "This peripheral device can take digital pictures and videos, and stores them on its internal hard drive or SD card.",
+            "examples": [
+                ""
+            ],
+            "possibleAnswers": [
+                "digital camera",
+                "digital cameras"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=119"
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "peripherals", "trivia"],
+            "topics": ["introductory", "digital camera", "hardware"],
+            "questionText": "The \"SD\" in \"SD card\" stands for...",
+            "examples": [
+                ""
+            ],
+            "possibleAnswers": [
+                "secure digital"
+            ], 
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/SD_card",
+                "https://youtu.be/2eLe7uz-7CM?t=119"
+            ]
+        }
+    },
+    {
+        "id": 6,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "peripherals"],
+            "topics": ["introductory", "peripherals", "hardware"],
+            "questionText": "This peripheral device uses light to scan and read barcodes, and is typically used to detect point of sales and maintain inventory.",
+            "examples": [
+                ""
+            ],
+            "possibleAnswers": [
+                "barcode reader",
+                "bar code reader",
+                "barcode scanner",
+                "bar code scanner"
+            ], 
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=166"
+            ]
+        }
+    },
+    {
+        "id": 7,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "peripherals"],
+            "topics": ["introductory", "peripherals", "hardware"],
+            "questionText": "This peripheral device enables you acquire a digital copy of a physical document.",
+            "examples": [
+                ""
+            ],
+            "possibleAnswers": [
+                "scanner",
+                "scanners"
+            ], 
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=186"
+            ]
+        }
+    },
+    {
+        "id": 8,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "peripherals"],
+            "topics": ["introductory", "peripherals", "hardware"],
+            "questionText": "This peripheral device is a device that has the capability to detect a user's touch and manipulate the display accordingly to the user's gestures.",
+            "examples": [
+                "Phones, tablets, and all-in-one computers employ touch screen technology."
+            ],
+            "possibleAnswers": [
+                "touchscreen",
+                "touch screen"
+            ], 
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=186"
+            ]
+        }
+    },
+    {
+        "id": 9,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "peripherals"],
+            "topics": ["introductory", "peripherals", "hardware"],
+            "questionText": "This peripheral device can stream an image or video in real time over the internet and is mainly used for video calling over the internet.",
+            "examples": [
+                "While many webcams are built into laptops, others may be plugged in via USB. The fact that they are connected to the computer via cable is what makes them a peripheral device."
+            ],
+            "possibleAnswers": [
+                "webcam",
+                "webcams"
+            ], 
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=275",
+                "https://en.wikipedia.org/wiki/Webcam"
+            ]
+        }
+    },
+    {
+        "id": 10,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "peripherals"],
+            "topics": ["introductory", "peripherals", "hardware"],
+            "questionText": "This peripheral device allows the computer to read memory cards from other devices, and usually contains slots for various sizes of memory cards.",
+            "examples": [
+
+            ],
+            "possibleAnswers": [
+                "media card reader"
+            ], 
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=345"
+            ]
+        }
+    },
+    {
+        "id": 11,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "peripherals"],
+            "topics": ["introductory", "peripherals", "hardware"],
+            "questionText": "This peripheral device is used to augment a laptop with the capabilities of a desktop computer, and they are usually specific to the laptop manufacturer.",
+            "examples": [
+
+            ],
+            "possibleAnswers": [
+                "docking station"
+            ], 
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=412"
+            ]
+        }
+    },
+    {
+        "id": 12,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "peripherals"],
+            "topics": ["introductory", "peripherals", "hardware"],
+            "questionText": "This peripheral device is used to control multiple computers from a single monitor, keyboard, and mouse.",
+            "examples": [
+
+            ],
+            "possibleAnswers": [
+                "kvm switch",
+                "KVM switch"
+            ], 
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=472"
+            ]
+        }
+    },
+    {
+        "id": 13,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "peripherals"],
+            "topics": ["introductory", "peripherals", "hardware"],
+            "questionText": "The \"KVM\" in \"KVM switch\" stands for... ",
+            "examples": [
+
+            ],
+            "possibleAnswers": [
+                "keyboard, video, mouse",
+                "keyboard, video and mouse",
+                "keyboard, video, and mouse",
+                "keyboard video mouse"
+            ], 
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=472"
+            ]
+        }
+    },
+    {
+        "id": 14,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "peripherals"],
+            "topics": ["introductory", "peripherals", "hardware"],
+            "questionText": "This peripheral device is not just a television, but can be used to look at pictures, watch movies, listen to music, and browse and interact with people on the internet.",
+            "examples": [
+
+            ],
+            "possibleAnswers": [
+                "smart tv",
+                "smart television"
+            ], 
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=511"
+            ]
+        }
+    },
+    {
+        "id": 15,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "peripherals"],
+            "topics": ["introductory", "peripherals", "hardware"],
+            "questionText": "This peripheral device is used to read smart cards, cards the size of a credit card with an embedded microprocessor chip often used to verify someone's identity.",
+            "examples": [
+
+            ],
+            "possibleAnswers": [
+                "smart card reader"
+            ], 
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=540"
+            ]
+        }
+    },
+    {
+        "id": 16,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "peripherals"],
+            "topics": ["introductory", "peripherals", "hardware"],
+            "questionText": "This peripheral device is to prove the identity of a person by recognizing unique physical characteristics.",
+            "examples": [
+                "A fingerprint scanner is an example of a biometric device that uses people's fingerprints to confirm their identity."
+            ],
+            "possibleAnswers": [
+                "biometric device"
+            ], 
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=549"
+            ]
+        }
+    },
+    {
+        "id": 17,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "peripherals"],
+            "topics": ["introductory", "peripherals", "hardware"],
+            "questionText": "This peripheral device is an input device that allows a user to interact with a computer without actually touching it through detecting their motion.",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "motion sensor"
+            ], 
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=595"
+            ]
+        }
+    },
+    {
+        "id": 18,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "peripherals"],
+            "topics": ["introductory", "peripherals", "hardware"],
+            "questionText": "This peripheral device converts analog movement into a digital form on a computer.",
+            "examples": [
+                "A tablet and stylus combination that is used for digital artwork is a digitizer converting the analog motion of your hand on the tablet to a digital form onto the computer."
+            ],
+            "possibleAnswers": [
+                "digitizer"
+            ], 
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=614"
+            ]
+        }
+    },
+    {
+        "id": 19,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "peripherals"],
+            "topics": ["introductory", "peripherals", "hardware"],
+            "questionText": "This peripheral device is typically an input device used for gaming that can connect to a computer.",
+            "examples": [
+                "Xbox and Playstation® controllers, joysticks, steering wheels, and even VR headsets are all game controllers that can be connected to a computer."
+            ],
+            "possibleAnswers": [
+                "controller",
+                "game controller"
+            ], 
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=662"
+            ]
+        }
+    }
+]

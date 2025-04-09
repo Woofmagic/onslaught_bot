@@ -1,0 +1,1066 @@
+[
+    {
+        "id": 1,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware"],
+            "questionText": "This device is the primary output component of a computer.",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "monitor",
+                "computer monitor"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=692"
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware"],
+            "questionText": "This device connects to the computer's video adapter through a monitor cable and displays images on the screen.",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "monitor",
+                "computer monitor"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=692"
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "HDMI"],
+            "questionText": "The acronym HDMI stands for... ",
+            "examples": [
+                ""
+            ],
+            "possibleAnswers": [
+                "high-definiton multimedia interface",
+                "high definition multimedia interface",
+                "High Definition Multimedia Interface"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/HDMI"
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "VGA"],
+            "questionText": "The acronym VGA stands for...",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "video graphics array",
+                "Video Graphics Array"
+            ],
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/VGA_connector"
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "DVI"],
+            "questionText": "In the context of computer monitors, the acronym DVI stands for...",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "digital video interface",
+                "Digital Video Interface"
+            ], 
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Digital_Visual_Interface"
+            ]
+        }
+    },
+    {
+        "id": 6,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "CRT"],
+            "questionText": "In the context of computer monitors, the acronym CRT stands for...",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "Cathode Ray Tube",
+                "Cathode-ray Tube"
+            ], 
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Cathode-ray_tube"
+            ]
+        }
+    },
+    {
+        "id": 7,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "CRT"],
+            "questionText": "This technology was the first used in television sets to display images on a screen.",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "CRT",
+                "CRT monitor",
+                "Cathode Ray Tube",
+                "Cathode-ray Tube"
+            ], 
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Cathode-ray_tube"
+            ]
+        }
+    },
+    {
+        "id": 8,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "CRT"],
+            "questionText": "This type of monitor employs three electron guns that constantly sweep across the screen to create an image.",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "CRT",
+                "CRT monitor",
+                "Cathode Ray Tube",
+                "Cathode-ray Tube"
+            ], 
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Cathode-ray_tube"
+            ]
+        }
+    },
+    {
+        "id": 9,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "CRT"],
+            "questionText": "This terminology is used to describe the rate at which an image is updated on a display,",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "refresh rate",
+                "refresh-rate"
+            ], 
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Cathode-ray_tube"
+            ]
+        }
+    },
+    {
+        "id": 10,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "CRT"],
+            "questionText": "The refresh rate of a monitor is measured in this unit...",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "hertz",
+                "Hertz",
+                "inverse seconds",
+                "inverse-seconds"
+            ], 
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Cathode-ray_tube"
+            ]
+        }
+    },
+    {
+        "id": 11,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "CRT"],
+            "questionText": "What is the name of the thin, metal sheet behind the screen of a CRT monitor?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "shadow mask"
+            ], 
+            "difficulty": "medium",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Cathode-ray_tube",
+                "https://en.wikipedia.org/wiki/Shadow_mask",
+                "https://youtu.be/2eLe7uz-7CM?t=820"
+            ]
+        }
+    },
+    {
+        "id": 12,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "CRT"],
+            "questionText": "When the shadow mask behind the screen of a CRT is in the presence of external magnetic fields, what does it cause to happen to the screen of the CRT?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "discoloration"
+            ], 
+            "difficulty": "medium",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Cathode-ray_tube",
+                "https://en.wikipedia.org/wiki/Shadow_mask",
+                "https://youtu.be/2eLe7uz-7CM?t=820"
+            ]
+        }
+    },
+    {
+        "id": 13,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "CRT"],
+            "questionText": "What is the common cause for the discoloration of the screen of a CRT monitor?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "magnetic fields",
+                "external magnetic fields",
+                "external magnetism"
+            ], 
+            "difficulty": "medium",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Cathode-ray_tube",
+                "https://en.wikipedia.org/wiki/Shadow_mask",
+                "https://youtu.be/2eLe7uz-7CM?t=820"
+            ]
+        }
+    },
+    {
+        "id": 14,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "CRT"],
+            "questionText": "What is the term ascribed to the process of expelling unwanted magnetic fields affecting the color of a CRT monitor?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "degauss",
+                "degaussing"
+            ], 
+            "difficulty": "medium",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Cathode-ray_tube",
+                "https://en.wikipedia.org/wiki/Shadow_mask",
+                "https://youtu.be/2eLe7uz-7CM?t=820"
+            ]
+        }
+    },
+    {
+        "id": 15,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "LCD"],
+            "questionText": "The acronym \"LCD\" stands for...",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "liquid crystal display",
+                "liquid-crystal display"
+            ], 
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Liquid-crystal_display"
+            ]
+        }
+    },
+    {
+        "id": 16,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "LCD"],
+            "questionText": "What is the type of monitor that shines light through an array of liquid crystals to produce an image on a screen?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "LCD",
+                "LCD monitor",
+                "liquid crystal display",
+                "liquid-crystal display"
+            ], 
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=881"
+            ]
+        }
+    },
+    {
+        "id": 17,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "LCD"],
+            "questionText": "This monitor was first used in laptops, but has completely replaced CRT monitors.",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "LCD",
+                "LCD monitor",
+                "liquid crystal display",
+                "liquid-crystal display"
+            ], 
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=881"
+            ]
+        }
+    },
+    {
+        "id": 18,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "LCD"],
+            "questionText": "Which type of computer monitor is lighter, thinner, generally takes up less space, and conserves more energy: the CRT or the LCD?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "LCDs",
+                "LCD",
+                "LCD monitor",
+                "liquid crystal display",
+                "liquid-crystal display"
+            ], 
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=881"
+            ]
+        }
+    },
+    {
+        "id": 19,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "LCD"],
+            "questionText": "In the context of computer monitors, the acronym \"TFT\" stands for...",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "thin film transistor"
+            ], 
+            "difficulty": "medium",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=913"
+            ]
+        }
+    },
+    {
+        "id": 20,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "LCD"],
+            "questionText": "This is a thin film of transistors that can produce a higher-quality image on an LCD monitor.",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "thin film transistor",
+                "TFT"
+            ], 
+            "difficulty": "medium",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=913"
+            ]
+        }
+    },
+    {
+        "id": 21,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "LCD"],
+            "questionText": "What is the name of techonolgy that is used in modern-day LCD monitors that is a thin film of transistors, one transistor per pixel, that is responsible for producing a higher quality image on the screen?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "thin film transistor",
+                "TFT"
+            ], 
+            "difficulty": "medium",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=913"
+            ]
+        }
+    },
+    {
+        "id": 22,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "LCD"],
+            "questionText": "In the context of LCD monitors, what does the acronym \"TN\" stand for?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "twisted nematic"
+            ], 
+            "difficulty": "medium",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Twisted_nematic_field_effect",
+                "https://youtu.be/2eLe7uz-7CM?t=1002"
+            ]
+        }
+    },
+    {
+        "id": 23,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "LCD"],
+            "questionText": "This type of LCD monitor employs liquid crystals that twist the light, and was often used in calculators, digital watches, and other LCD monitors.",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "twisted nematic"
+            ], 
+            "difficulty": "medium",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Twisted_nematic_field_effect",
+                "https://youtu.be/2eLe7uz-7CM?t=1002"
+            ]
+        }
+    },
+    {
+        "id": 24,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "LCD"],
+            "questionText": "This type of LCD monitor often has silhouetting around its edges because of the way that the liquid crystals twist the light.",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "twisted nematic"
+            ], 
+            "difficulty": "medium",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Twisted_nematic_field_effect",
+                "https://youtu.be/2eLe7uz-7CM?t=1002"
+            ]
+        }
+    },
+    {
+        "id": 25,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "LCD"],
+            "questionText": "In the context of LCD monitors, the acronym \"IPS\" stands for...",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "in-plane switching",
+                "in plane switching"
+            ], 
+            "difficulty": "medium",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/IPS_panel",
+                "https://youtu.be/2eLe7uz-7CM?t=1002"
+            ]
+        }
+    },
+    {
+        "id": 26,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "LCD"],
+            "questionText": "This LCD monitor was designed to solve the limitations of the twisted nematic LCD monitor.",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "ips",
+                "ips plane",
+                "ips monitor",
+                "in-plane switching",
+                "in plane switching"
+            ], 
+            "difficulty": "medium",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/IPS_panel",
+                "https://youtu.be/2eLe7uz-7CM?t=1002"
+            ]
+        }
+    },
+    {
+        "id": 27,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "LCD"],
+            "questionText": "This LCD monitor arranges its liquid crystals parallel with the glass, and uses more transistors, consumes more power, and has better viewing angles and color reproduction than the twisted nematic LCD monitor.",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "ips",
+                "ips plane",
+                "ips monitor",
+                "in-plane switching",
+                "in plane switching"
+            ], 
+            "difficulty": "medium",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/IPS_panel",
+                "https://youtu.be/2eLe7uz-7CM?t=1002"
+            ]
+        }
+    },
+    {
+        "id": 28,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "LCD"],
+            "questionText": "This LCD monitor is much less prone to silhouetting than the twisted nematic LCD monitor because its liquid crystals are arranged parallel with the glass.",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "ips",
+                "ips plane",
+                "ips monitor",
+                "in-plane switching",
+                "in plane switching"
+            ], 
+            "difficulty": "medium",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/IPS_panel",
+                "https://youtu.be/2eLe7uz-7CM?t=1002"
+            ]
+        }
+    },
+    {
+        "id": 29,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "LCD"],
+            "questionText": "This is the name of the form of illumination employed by LCD displays.",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "backlight",
+                "backlighting"
+            ], 
+            "difficulty": "medium",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Backlight",
+                "https://youtu.be/2eLe7uz-7CM?t=1060"
+            ]
+        }
+    },
+    {
+        "id": 30,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "LCD"],
+            "questionText": "This is the type of backlighting that uses lamps that emit ultraviolet light when mercury vapor is inonized.",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "flourescent",
+                "flourescent lamp"
+            ], 
+            "difficulty": "medium",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Backlight",
+                "https://youtu.be/2eLe7uz-7CM?t=1060"
+            ]
+        }
+    },
+    {
+        "id": 31,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "LCD"],
+            "questionText": "This is the type of backlighting in LCD monitors that was replaced by the more modern technology of LED backlighting.",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "flourescent",
+                "flourescent lamp"
+            ], 
+            "difficulty": "medium",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Backlight",
+                "https://youtu.be/2eLe7uz-7CM?t=1060"
+            ]
+        }
+    },
+    {
+        "id": 32,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "LCD"],
+            "questionText": "This is the type of backlighting in LCD monitors uses light-emitting diodes arranged in a pattern.",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "LED",
+                "light-emitting diodes",
+                "light emitting diodes",
+                "LED lighting",
+                "LED backlighting"
+            ], 
+            "difficulty": "medium",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Backlight",
+                "https://youtu.be/2eLe7uz-7CM?t=1060"
+            ]
+        }
+    },
+    {
+        "id": 33,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "LCD"],
+            "questionText": "What is the proper terminology to refer to an LCD monitor that is backlit with LEDs?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "LED",
+                "LED monitor"
+            ], 
+            "difficulty": "medium",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Backlight",
+                "https://youtu.be/2eLe7uz-7CM?t=1060"
+            ]
+        }
+    },
+    {
+        "id": 34,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "LCD"],
+            "questionText": "What is the type of backlighting used in the vast majority of LCD monitors?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "LED",
+                "light emitting diodes",
+                "light emitting diode"
+            ], 
+            "difficulty": "medium",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Backlight",
+                "https://youtu.be/2eLe7uz-7CM?t=1063"
+            ]
+        }
+    },
+    {
+        "id": 35,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "LCD"],
+            "questionText": "This is the word used to refer to the number of pixels present on a monitor used to display an image. ",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "resolution",
+                "display resolution"
+            ], 
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Display_resolution",
+                "https://youtu.be/2eLe7uz-7CM?t=1132"
+            ]
+        }
+    },
+    {
+        "id": 35,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "LCD"],
+            "questionText": "If the resolution of a monitor is quoted as 1280x720, how many total pixels are being used?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "921600",
+                "921,600"
+            ], 
+            "difficulty": "medium",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Display_resolution",
+                "https://youtu.be/2eLe7uz-7CM?t=1132"
+            ]
+        }
+    },
+    {
+        "id": 36,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "LCD"],
+            "questionText": "The terminology used to refer to the best quality image that an LCD screen can produce.",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "native resolution"
+            ], 
+            "difficulty": "medium",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Native_resolution",
+                "https://en.wikipedia.org/wiki/Display_resolution",
+                "https://youtu.be/2eLe7uz-7CM?t=1132"
+            ]
+        }
+    },
+    {
+        "id": 37,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "LCD"],
+            "questionText": "In the context of monitor resolution, the acronym \"XGA\" stands for... ",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "extended graphics array"
+            ], 
+            "difficulty": "medium",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Display_resolution",
+                "https://youtu.be/2eLe7uz-7CM?t=1203"
+            ]
+        }
+    },
+    {
+        "id": 38,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "LCD"],
+            "questionText": "In the context of monitor resolution, the acronym \"SXGA\" stands for... ",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "super extended graphics array"
+            ], 
+            "difficulty": "medium",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Display_resolution",
+                "https://youtu.be/2eLe7uz-7CM?t=1203"
+            ]
+        }
+    },
+    {
+        "id": 39,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "LCD"],
+            "questionText": "In the context of monitor resolution, the acronym \"SXGA+\" stands for... ",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "super extended graphics array plus",
+                "super extended graphics array +"
+            ], 
+            "difficulty": "medium",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Display_resolution",
+                "https://youtu.be/2eLe7uz-7CM?t=1203"
+            ]
+        }
+    },
+    {
+        "id": 40,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "LCD"],
+            "questionText": "In the context of monitor resolution, the acronym \"UXGA\" stands for... ",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "ultra extended graphics array"
+            ], 
+            "difficulty": "medium",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Display_resolution",
+                "https://youtu.be/2eLe7uz-7CM?t=1203"
+            ]
+        }
+    },
+    {
+        "id": 40,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "LCD"],
+            "questionText": "In the context of monitor resolution, the acronym \"WUXGA\" stands for... ",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "widescreen ultra extended graphics array"
+            ], 
+            "difficulty": "medium",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Display_resolution",
+                "https://youtu.be/2eLe7uz-7CM?t=1203"
+            ]
+        }
+    },
+    {
+        "id": 41,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "LCD"],
+            "questionText": "What is the display resolution in pixels of an XGA display?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "1028x768",
+                "1028 x 768"
+            ], 
+            "difficulty": "medium",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Graphics_display_resolution#XGA",
+                "https://en.wikipedia.org/wiki/Display_resolution",
+                "https://youtu.be/2eLe7uz-7CM?t=1203"
+            ]
+        }
+    },
+    {
+        "id": 42,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "LCD"],
+            "questionText": "What is the display resolution in pixels of an SXGA display?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "1280x1024",
+                "1280 X 1024"
+            ], 
+            "difficulty": "medium",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Graphics_display_resolution#SXGA",
+                "https://en.wikipedia.org/wiki/Display_resolution",
+                "https://youtu.be/2eLe7uz-7CM?t=1203"
+            ]
+        }
+    },
+    {
+        "id": 43,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "LCD"],
+            "questionText": "What is the display resolution in pixels of an SXGA+ display?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "1400x1050",
+                "1400 x  1050"
+            ], 
+            "difficulty": "medium",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Graphics_display_resolution#SXGA",
+                "https://en.wikipedia.org/wiki/Display_resolution",
+                "https://youtu.be/2eLe7uz-7CM?t=1203"
+            ]
+        }
+    },
+    {
+        "id": 44,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "LCD"],
+            "questionText": "What is the display resolution in pixels of a UXGA display?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "1600x1200",
+                "1600 x 1200"
+            ], 
+            "difficulty": "medium",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Graphics_display_resolution#SXGA",
+                "https://en.wikipedia.org/wiki/Display_resolution",
+                "https://youtu.be/2eLe7uz-7CM?t=1203"
+            ]
+        }
+    },
+    {
+        "id": 45,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "LCD"],
+            "questionText": "What is the display resolution in pixels of a WUXGA display?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "1920x1200",
+                "1920 x 1200"
+            ], 
+            "difficulty": "medium",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Graphics_display_resolution#1920_%C3%97_1200_(WUXGA)",
+                "https://en.wikipedia.org/wiki/Display_resolution",
+                "https://youtu.be/2eLe7uz-7CM?t=1203"
+            ]
+        }
+    },
+    {
+        "id": 46,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["CompTIA A+", "terminology", "monitors"],
+            "topics": ["monitors", "hardware", "inputs", "LCD"],
+            "questionText": "What is the terminology used to describe the ratio between black and white on a monitor?",
+            "examples": [
+                
+            ],
+            "possibleAnswers": [
+                "contrast ratio"
+            ], 
+            "difficulty": "easy",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://youtu.be/2eLe7uz-7CM?t=1213"
+            ]
+        }
+    }
+]
