@@ -53,11 +53,17 @@ module.exports = {
 		const possibleAnswers = question.content.possibleAnswers;
 
 		const embed = new EmbedBuilder()
-			.setTitle(`Quiz Time: ${userSelectedTopic}`)
+			.setTitle(` ${userSelectedTopic} / Difficulty: ${question.content.difficulty}`)
 			.setDescription(`"${questionText}"`)
-			.setFooter({ text: interfaceType === 'multiple-choice' ? 'Pick the correct author.' : 'Type your answer within 10 seconds.' });
+			.setFooter({
+				text: interfaceType === 'multiple-choice' ?
+					'Multiple-choice question; select an answer within 10 seconds.' :
+					'Free-response question; type an answer within 10 seconds.',
+			});
 
-		await interaction.reply({ embeds: [embed] });
+		await interaction.reply({
+			embeds: [embed],
+		});
 
 		if (interfaceType === 'multiple-choice') {
 			const options = getMultipleChoiceOptions(possibleAnswers);
