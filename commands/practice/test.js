@@ -45,7 +45,7 @@ module.exports = {
 			  .setDescription('Choose a book (only used if topic is "book")')
 			  .setRequired(false)
 			  .addChoices(
-					{ name: 'Kant', value: 'kant_2018' },
+					{ name: 'Kant', value: 'kant_korner' },
 			  ),
 		),
 	async execute(interaction) {

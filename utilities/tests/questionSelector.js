@@ -32,22 +32,36 @@ const path = require('path');
 const fs = require('node:fs');
 
 const philosophyTestQuestions = require('./../../statics/quizContents/philosophy/philosophy.json');
+
 const compTIAAPlusPeripheralsQuestions = require('./../../statics/quizContents/internetTechnology/1_peripherals/peripherals.json');
 
-// (3): We define the main function:
-function getRandomQuestion(topic) {
+const kantStephanKorner1955Questions = require('./../../statics/quizContents/books/kant_korner/kantKorner1995.json');
+
+// (X): We define the main function:
+function getRandomQuestion(topic, book = null) {
 
 	console.log(`> User selected topic: ${topic}`);
-
+	// (X.1): If the selected topic is 'philosophy'...
 	if (topic === 'philosophy') {
-		// (3.3): Now, we choose a random problem from that data using the standard approach:
+		// (X.1.1): Now, we choose a random problem from that data using the standard approach:
 		return philosophyTestQuestions[Math.floor(Math.random() * philosophyTestQuestions.length)];
 
 	}
+	// (X.2): If the selected topic is 'it' (internet technology)...
 	else if (topic === 'it') {
 		// (3.3): Now, we choose a random problem from that data using the standard approach:
 		return compTIAAPlusPeripheralsQuestions[Math.floor(Math.random() * compTIAAPlusPeripheralsQuestions.length)];
 
+	}
+	// (X.Y): If the selected topic is 'book', then the user needs separate logic:
+	else if (topic === 'book') {
+		if (!book) {
+			throw new Error('> Book must be specified when topic is "book".');
+		}
+		else {
+			// (3.3): Now, we choose a random problem from that data using the standard approach:
+			return kantStephanKorner1955Questions[Math.floor(Math.random() * kantStephanKorner1955Questions.length)];
+		}
 	}
 }
 
