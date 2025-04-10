@@ -566,5 +566,73 @@
                 "https://youtu.be/k715B-2t-YU?t=840"
             ]
         }
+    },
+    {
+        "id": 30,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["Philosophy"],
+            "topics": ["metaphysics", "kant", "immanuel", "immanuel kant", "judgements", "propositions", "logic", "analytic", "empiricial"],
+            "questionText": "In all judgements in which the relation of a subject to a predicate is thought... this relation is possible in two different ways. Either the predicate B belongs to the subject A, as something which is (covertly) contained in this concept A; or B lies outside the concept A, although it does indeed stand in connexion with it. In the one case I call the judgement analytic and the other synthetic.",
+            "examples": [],
+            "possibleAnswers": [
+                "kant",
+                "Kant",
+                "immanuel kant",
+                "Immanuel Kant"
+            ],
+            "difficulty": "very hard",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://en.wikipedia.org/wiki/Critique_of_Pure_Reason",
+                "https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/5/25851/files/2017/09/kant-first-critique-cambridge-1m89prv.pdf",
+                "https://archive.org/details/kantkrrich",
+                "https://www.amazon.com/Kant-Pelican-Stephan-Korner/dp/0140203389"
+            ]
+        }
+    },
+    {
+        "id": 31,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["Philosophy"],
+            "topics": ["metaphysics", "hume" ,"david", "david hume", "empiricial"],
+            "questionText": "If we take in our hand any volume; of divinity or school metaphysics, for instance, let us ask; Does it contain any abstract reasoning concerning quantity or number? No. Does it contain any experimental reasoning concerning matter of fact and existence? No. Commit it then to the flames: for it can contain nothing but sophistry and confusion.",
+            "examples": [],
+            "possibleAnswers": [
+                "hume",
+                "Hume",
+                "david hume",
+                "David Hume"
+            ],
+            "difficulty": "hard",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://www.amazon.com/Kant-Pelican-Stephan-Korner/dp/0140203389",
+                "https://en.wikipedia.org/wiki/An_Enquiry_Concerning_Human_Understanding"
+            ]
+        }
+    },
+    {
+        "id": 32,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["Philosophy"],
+            "topics": ["metaphysics", "rudolf", "carnap", "rudolf carnap"],
+            "questionText": "The suppositious sentences of metaphysics , of the philosophy of values, of ethics... are pseudo-sentences, they have no logical content, but are only expressions of feeling which in their turn stimulate feelings and volitional tendencies on the part of the hearer.",
+            "examples": [],
+            "possibleAnswers": [
+                "rudolf carnap",
+                "Rudolf Carnap",
+                "rudolf",
+                "carnap"
+            ],
+            "difficulty": "difficult",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://www.amazon.com/Kant-Pelican-Stephan-Korner/dp/0140203389",
+                "https://plato.stanford.edu/entries/carnap/syntax.html"
+            ]
+        }
     }
 ]

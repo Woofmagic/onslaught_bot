@@ -35,7 +35,7 @@ const philosophyTestQuestions = require('./../../statics/quizContents/philosophy
 
 const compTIAAPlusPeripheralsQuestions = require('./../../statics/quizContents/internetTechnology/1_peripherals/peripherals.json');
 
-const kantStephanKorner1955Questions = require('./../../statics/quizContents/books/kant_korner/kantKorner1995.json');
+const kantStephanKorner1955Questions = require('./../../statics/quizContents/books/kant_korner/kantKorner1955.json');
 
 // (X): We define the main function:
 function getRandomQuestion(topic, book = null) {
@@ -58,7 +58,7 @@ function getRandomQuestion(topic, book = null) {
 		if (!book) {
 			throw new Error('> Book must be specified when topic is "book".');
 		}
-		else {
+		else if (book === 'kant_korner') {
 			// (3.3): Now, we choose a random problem from that data using the standard approach:
 			return kantStephanKorner1955Questions[Math.floor(Math.random() * kantStephanKorner1955Questions.length)];
 		}
