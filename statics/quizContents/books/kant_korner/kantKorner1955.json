@@ -1,0 +1,102 @@
+[
+	{
+        "id": 1,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["philosophy", "metaphysics"],
+            "topics": ["kant", "immanuel", "immanuel kant", "metaphysics"],
+            "questionText": "Which philosopher does Stephan Körner emphasize provides the impetus for Kant's work?",
+            "examples": [],
+            "possibleAnswers": [
+                "hume",
+                "david hume",
+                "David hume",
+                "David Hume"
+            ],
+            "confoundingAnswers": [
+                "Aristotle",
+                "Copernicus",
+                "Plato"
+            ],
+            "difficulty": "hard",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://archive.org/details/kantkrrich",
+                "https://www.amazon.com/Kant-Pelican-Stephan-Korner/dp/0140203389"
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["philosophy", "metaphysics"],
+            "topics": ["kant", "immanuel", "immanuel kant", "metaphysics", "logic", "propositions", "empirical", "empiricism"],
+            "questionText": "What word does Stephan Körner use to describe a proposition that is verifiable or falsifiable by experiment or observation?",
+            "examples": [],
+            "possibleAnswers": [
+                "empirical"
+            ],
+            "confoundingAnswers": [
+                "analytic",
+                "logical",
+                "captivating",
+                "verifiable",
+                "affirmative"
+            ],
+            "difficulty": "very hard",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://archive.org/details/kantkrrich",
+                "https://www.amazon.com/Kant-Pelican-Stephan-Korner/dp/0140203389"
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["philosophy", "metaphysics"],
+            "topics": ["kant", "immanuel", "immanuel kant", "metaphysics", "logic", "propositions", "analytic"],
+            "questionText": "What word does Stephan Körner use to describe the kind of proposition whose denial is self-contradictory?",
+            "examples": [],
+            "possibleAnswers": [
+                "analytic"
+            ],
+            "confoundingAnswers": [
+                "empirical",
+                "experimental",
+                "logical",
+                "verifiable"
+            ],
+            "difficulty": "very hard",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://archive.org/details/kantkrrich",
+                "https://www.amazon.com/Kant-Pelican-Stephan-Korner/dp/0140203389"
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "content": {
+            "version": "1.0.0",
+            "categories": ["philosophy", "metaphysics"],
+            "topics": ["kant", "immanuel", "immanuel kant", "metaphysics", "judgements", "propositons", "logic"],
+            "questionText": "In contrast to David Hume's analysis of 'propositions,' what word does Kant use to emphasize that such a proposition was made by a person?",
+            "examples": [],
+            "possibleAnswers": [
+                "judgement",
+                "judgements"
+            ],
+            "confoundingAnswers": [
+            ],
+            "difficulty": "medium",
+            "extraInfo": "",
+            "referencesSources": [
+                "https://archive.org/details/kantkrrich",
+                "https://www.amazon.com/Kant-Pelican-Stephan-Korner/dp/0140203389"
+            ]
+        }
+    }
+]
