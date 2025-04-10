@@ -37,13 +37,29 @@ module.exports = {
 			  .addChoices(
 					{ name: 'Philosophy', value: 'philosophy' },
 					{ name: 'Internet Technology', value: 'it' },
+					{ name: 'Book', value: 'book' },
+			  ),
+		)
+		.addStringOption(opt =>
+			opt.setName('booktitle')
+			  .setDescription('Choose a book (only used if topic is "book")')
+			  .setRequired(false)
+			  .addChoices(
+					{ name: 'Kant', value: 'kant_2018' },
 			  ),
 		),
 	async execute(interaction) {
 
 		const userSelectedTopic = interaction.options.getString('topic');
+		const didUserSelectBookTitle = interaction.options.getString('booktitle');
 
-		const question = getRandomQuestion(userSelectedTopic);
+		if (userSelectedTopic === 'book' && didUserSelectBookTitle === null) {
+			return interaction.reply({
+				content: 'You must provide a book title in order to test yourself with it.',
+			});
+		}
+
+		const question = getRandomQuestion(userSelectedTopic, didUserSelectBookTitle);
 
 		const interfaceType = chooseInterface();
 
