@@ -32,14 +32,23 @@ const path = require('path');
 const fs = require('node:fs');
 
 const philosophyTestQuestions = require('./../../statics/quizContents/philosophy/philosophy.json');
+const compTIAAPlusPeripheralsQuestions = require('./../../statics/quizContents/internetTechnology/1_peripherals/peripherals.json');
 
 // (3): We define the main function:
 function getRandomQuestion(topic) {
 
 	console.log(`> User selected topic: ${topic}`);
 
-	// (3.3): Now, we choose a random problem from that data using the standard approach:
-	return philosophyTestQuestions[Math.floor(Math.random() * philosophyTestQuestions.length)];
+	if (topic === 'philosophy') {
+		// (3.3): Now, we choose a random problem from that data using the standard approach:
+		return philosophyTestQuestions[Math.floor(Math.random() * philosophyTestQuestions.length)];
+
+	}
+	else if (topic === 'it') {
+		// (3.3): Now, we choose a random problem from that data using the standard approach:
+		return compTIAAPlusPeripheralsQuestions[Math.floor(Math.random() * compTIAAPlusPeripheralsQuestions.length)];
+
+	}
 }
 
 // (4): Export the function now:

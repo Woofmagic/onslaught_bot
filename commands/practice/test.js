@@ -36,8 +36,7 @@ module.exports = {
 			  .setRequired(true)
 			  .addChoices(
 					{ name: 'Philosophy', value: 'philosophy' },
-					{ name: 'Physics', value: 'physics' },
-					{ name: 'Chemistry', value: 'chemistry' },
+					{ name: 'Internet Technology', value: 'it' },
 			  ),
 		),
 	async execute(interaction) {
