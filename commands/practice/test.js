@@ -3,7 +3,7 @@
  * File: commands/practice/test.js
  * Author: Woofmagic
  * Created: 2025-04-08
- * Last Modified: 2025-04-08
+ * Last Modified: 2025-04-12
  *
  * Description:
  * `test` is a command that serves as "central testing hub."
@@ -16,6 +16,7 @@
  * - 2025-04-08: Creation of the file.
  * - 2025-04-08: Adapted code to new quiz data structure.
  * - 2025-04-08: We decided to generalize the file for *all* test types.
+ * - 2025-04-12: Introduced subcommands for better modularity
  */
 
 const { SlashCommandBuilder, EmbedBuilder } = require('discord.js');
@@ -29,37 +30,75 @@ const { evaluate } = require('./../../utilities/tests/evaluateAnswer.js');
 module.exports = {
 	data: new SlashCommandBuilder()
 		.setName('test')
+		// https://discord.com/developers/docs/reference#locales
+		.setNameLocalizations({
+			'zh-CN': 'kaoshi',
+			'ja': 'shiken',
+		})
 		.setDescription('Test your knowledge.')
-		.addStringOption(opt =>
-			opt.setName('topic')
-			  .setDescription('Choose a topic.')
-			  .setRequired(true)
-			  .addChoices(
-					{ name: 'Philosophy', value: 'philosophy' },
-					{ name: 'Internet Technology', value: 'it' },
-					{ name: 'Book', value: 'book' },
-			  ),
+		.addSubcommandGroup((group) =>
+			group
+				.setName('stem')
+				.setDescription('Practice your knowledge of topics in STEM.')
+				.addSubcommand((subcommand) =>
+					subcommand
+						.setName('internet_technology')
+						.setDescription('Test your understanding of topics in IT.'),
+				)
+				.addSubcommand((subcommand) =>
+					subcommand
+						.setName('philosophy')
+						.setDescription('Test your understanding philosophy.'),
+				),
 		)
-		.addStringOption(opt =>
-			opt.setName('booktitle')
-			  .setDescription('Choose a book (only used if topic is "book")')
-			  .setRequired(false)
-			  .addChoices(
-					{ name: 'Kant', value: 'kant_korner' },
-			  ),
+		.addSubcommandGroup((group) =>
+			group
+				.setName('literature')
+				.setDescription('Practice your knowledge of various written works.')
+				.addSubcommand((subcommand) =>
+					subcommand
+						.setName('books')
+						.setDescription('Test your knowledge of books.')
+						.addStringOption((option) =>
+							option
+								.setName('booktitle')
+								.setDescription('What action should be taken with the users points?')
+								.setRequired(true)
+								.addChoices(
+									{ name: 'Kant', value: 'kant_korner' },
+								),
+						),
+				),
 		),
 	async execute(interaction) {
 
-		const userSelectedTopic = interaction.options.getString('topic');
-		const didUserSelectBookTitle = interaction.options.getString('booktitle');
+		const chosenSubcommand = interaction.options.getSubcommand();
 
-		if (userSelectedTopic === 'book' && didUserSelectBookTitle === null) {
+		if (chosenSubcommand === 'internet_technology') {
+			console.log('> User chose to practice IT topics!');
+
+		}
+		else if (chosenSubcommand === 'philosophy') {
+			console.log('> User chose to practice philosophy topics!');
+		}
+		else if (chosenSubcommand === 'literature') {
+			console.log('> User chose to practice literature topics!');
+
+			if (userSelectedTopic === 'book' && didUserSelectBookTitle === null) {
+				return interaction.reply({
+					content: 'You must provide a book title in order to test yourself with it.',
+				});
+			}
+		}
+		else {
 			return interaction.reply({
-				content: 'You must provide a book title in order to test yourself with it.',
+				content: 'I did not understand your test selection. Please try again.',
 			});
 		}
 
-		const question = getRandomQuestion(userSelectedTopic, didUserSelectBookTitle);
+		const didUserSelectBookTitle = interaction.options.getString('booktitle');
+
+		const question = getRandomQuestion(chosenSubcommand, didUserSelectBookTitle);
 
 		const interfaceType = chooseInterface();
 
