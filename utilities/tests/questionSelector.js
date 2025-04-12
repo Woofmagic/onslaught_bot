@@ -48,13 +48,13 @@ function getRandomQuestion(topic, book = null) {
 
 	}
 	// (X.2): If the selected topic is 'it' (internet technology)...
-	else if (topic === 'it') {
+	else if (topic === 'internet_technology') {
 		// (3.3): Now, we choose a random problem from that data using the standard approach:
 		return compTIAAPlusPeripheralsQuestions[Math.floor(Math.random() * compTIAAPlusPeripheralsQuestions.length)];
 
 	}
 	// (X.Y): If the selected topic is 'book', then the user needs separate logic:
-	else if (topic === 'book') {
+	else if (topic === 'literature') {
 		if (!book) {
 			throw new Error('> Book must be specified when topic is "book".');
 		}
