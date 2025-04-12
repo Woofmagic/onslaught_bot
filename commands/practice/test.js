@@ -84,7 +84,7 @@ module.exports = {
 		else if (chosenSubcommand === 'literature') {
 			console.log('> User chose to practice literature topics!');
 
-			if (userSelectedTopic === 'book' && didUserSelectBookTitle === null) {
+			if (didUserSelectBookTitle === null) {
 				return interaction.reply({
 					content: 'You must provide a book title in order to test yourself with it.',
 				});
@@ -107,7 +107,7 @@ module.exports = {
 		const possibleAnswers = question.content.possibleAnswers;
 
 		const embed = new EmbedBuilder()
-			.setTitle(` ${userSelectedTopic} / Difficulty: ${question.content.difficulty}`)
+			.setTitle(` ${chosenSubcommand} / Difficulty: ${question.content.difficulty}`)
 			.setDescription(`"${questionText}"`)
 			.setFooter({
 				text: interfaceType === 'multiple-choice' ?
@@ -115,28 +115,44 @@ module.exports = {
 					'Free-response question; type an answer within 10 seconds.',
 			});
 
-		await interaction.reply({
+		const questionMessage = await interaction.reply({
 			embeds: [embed],
+			fetchReply: true,
 		});
+		console.log(questionMessage);
 
 		if (interfaceType === 'multiple-choice') {
+
+			// (X): Here, we construct an array of possible answers:
 			const options = getMultipleChoiceOptions(possibleAnswers);
+
+			// (X): Here, we take those possible answers and use djs Builders to make a row of buttons:
 			const row = buildMultipleChoiceButtons(options);
+
+			// (X): Then, we attach the button row to the original message containing the question:
 			await interaction.editReply({
 				components: [row],
 			});
 
-			const filter = i => i.user.id === interaction.user.id;
+			const filter = buttonPress => buttonPress.user.id === interaction.user.id;
+
 			const collector = interaction.channel.createMessageComponentCollector({
 				filter,
 				time: 10000,
+				max: 1,
 			});
 
 			collector.on('collect', async i => {
+				console.log(`> Message component collector received interaction: ${i}`);
+
 				const selected = i.customId.split('_')[1];
-				const correct = evaluate(selected, possibleAnswers);
+				console.log(`> The selected button was ${selected}`);
+
+				const wasAnswerCorrect = evaluate(selected, possibleAnswers);
+				console.log(`> Was the provided answer of ${selected} correct? ${wasAnswerCorrect}`);
+
 				await i.update({
-					content: correct ? '✅ Correct!' : `❌ Incorrect. Answer: **${possibleAnswers[0]}**`,
+					content: wasAnswerCorrect ? '✅ Correct!' : `❌ That was incorrect. I was looking for **${possibleAnswers[0]}**`,
 					components: [],
 					embeds: [],
 				});
@@ -144,9 +160,9 @@ module.exports = {
 			});
 
 			collector.on('end', collected => {
-				if (!collected.size) {
+				if (!collected.size || collected.size === 0) {
 					interaction.editReply({
-						content: `⏰ Time's up! Answer: **${possibleAnswers[0]}**`,
+						content: `⏰ Time's up! I was looking for: **${possibleAnswers[0]}**`,
 						components: [],
 						embeds: [],
 					});
@@ -155,12 +171,14 @@ module.exports = {
 		}
 		else {
 			const response = await awaitFreeResponse(interaction, possibleAnswers);
+
+
 			await interaction.followUp({
 				content: response.correct
 					? '✅ Correct!'
 					: response.response
-						? `❌ Incorrect. Answer: **${possibleAnswers[0]}**`
-						: `⏰ Time's up! Answer: **${possibleAnswers[0]}**`,
+						? `❌ Incorrect. I was looking for **${possibleAnswers[0]}**`
+						: `⏰ Time's up! The correct answer was **${possibleAnswers[0]}**`,
 				components: [],
 				embeds: [],
 			});
