@@ -1,0 +1,8777 @@
+[
+  {
+    "id": 301,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 阿姨 into English.",
+      "examples": [
+        "Pinyin: ā yí"
+      ],
+      "possibleAnswers": [
+        "maternal aunt",
+        "step-mother",
+        "childcare worker",
+        "nursemaid",
+        "woman of similar age to one's parents (term of address used by child)"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 阿姨",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 302,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 啊 into English.",
+      "examples": [
+        "Pinyin: a"
+      ],
+      "possibleAnswers": [
+        "modal particle ending sentence",
+        "showing affirmation",
+        "approval",
+        "or consent"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 啊",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 303,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 矮 into English.",
+      "examples": [
+        "Pinyin: ǎi"
+      ],
+      "possibleAnswers": [
+        "low",
+        "short (in length)"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 矮",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 304,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 爱好 into English.",
+      "examples": [
+        "Pinyin: ài hào"
+      ],
+      "possibleAnswers": [
+        "to like",
+        "to take pleasure in",
+        "keen on",
+        "fond of",
+        "interest",
+        "hobby",
+        "appetite for"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 爱好",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 305,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 安静 into English.",
+      "examples": [
+        "Pinyin: ān jìng"
+      ],
+      "possibleAnswers": [
+        "quiet",
+        "peaceful",
+        "calm"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 安静",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 306,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 把 into English.",
+      "examples": [
+        "Pinyin: bǎ"
+      ],
+      "possibleAnswers": [
+        "to hold",
+        "to contain",
+        "to grasp",
+        "to take hold of",
+        "handle",
+        "particle marking the following noun as a direct object",
+        "classifier for objects with handle",
+        "classifier for small objects: handful"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 把",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 307,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 搬 into English.",
+      "examples": [
+        "Pinyin: bān"
+      ],
+      "possibleAnswers": [
+        "to move",
+        "to shift",
+        "to remove",
+        "to transport",
+        "to apply indiscriminately",
+        "to copy mechanically"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 搬",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 308,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 班 into English.",
+      "examples": [
+        "Pinyin: bān"
+      ],
+      "possibleAnswers": [
+        "team",
+        "class",
+        "squad",
+        "work shift",
+        "ranking",
+        "classifier for groups"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 班",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 309,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 半 into English.",
+      "examples": [
+        "Pinyin: bàn"
+      ],
+      "possibleAnswers": [
+        "half",
+        "semi-",
+        "incomplete",
+        "(after a number) and a half"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 半",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 310,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 办法 into English.",
+      "examples": [
+        "Pinyin: bàn fǎ"
+      ],
+      "possibleAnswers": [
+        "means",
+        "method",
+        "way (of doing sth)"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 办法",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 311,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 办公室 into English.",
+      "examples": [
+        "Pinyin: bàn gōng shì"
+      ],
+      "possibleAnswers": [
+        "office",
+        "business premises",
+        "bureau"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 办公室",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 312,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 帮忙 into English.",
+      "examples": [
+        "Pinyin: bāng máng"
+      ],
+      "possibleAnswers": [
+        "to help",
+        "to lend a hand",
+        "to do a favor",
+        "to do a good turn"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 帮忙",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 313,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 包 into English.",
+      "examples": [
+        "Pinyin: bāo"
+      ],
+      "possibleAnswers": [
+        "to cover",
+        "to wrap",
+        "to hold",
+        "to include",
+        "to take charge of",
+        "to contract (to or for)",
+        "package",
+        "wrapper",
+        "container",
+        "bag",
+        "to hold or embrace",
+        "bundle",
+        "packet"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 包",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 314,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 饱 into English.",
+      "examples": [
+        "Pinyin: bǎo"
+      ],
+      "possibleAnswers": [
+        "to eat till full",
+        "satisfied"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 饱",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 315,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 北方 into English.",
+      "examples": [
+        "Pinyin: běi fāng"
+      ],
+      "possibleAnswers": [
+        "north",
+        "the northern part a country",
+        "china north of the yellow river"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 北方",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 316,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 被 into English.",
+      "examples": [
+        "Pinyin: bèi"
+      ],
+      "possibleAnswers": [
+        "quilt",
+        "by",
+        "(indicates passive-voice clauses)",
+        "(literary) to cover",
+        "to meet with"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 被",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 317,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 鼻子 into English.",
+      "examples": [
+        "Pinyin: bí zi"
+      ],
+      "possibleAnswers": [
+        "nose"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 鼻子",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 318,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 比较 into English.",
+      "examples": [
+        "Pinyin: bǐ jiào"
+      ],
+      "possibleAnswers": [
+        "to compare",
+        "to contrast",
+        "comparatively",
+        "relatively",
+        "quite",
+        "comparison"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 比较",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 319,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 比赛 into English.",
+      "examples": [
+        "Pinyin: bǐ sài"
+      ],
+      "possibleAnswers": [
+        "competition (sports etc)",
+        "match"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 比赛",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 320,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 必须 into English.",
+      "examples": [
+        "Pinyin: bì xū"
+      ],
+      "possibleAnswers": [
+        "to have to",
+        "must",
+        "compulsory",
+        "necessarily"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 必须",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 321,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 变化 into English.",
+      "examples": [
+        "Pinyin: biàn huà"
+      ],
+      "possibleAnswers": [
+        "change",
+        "variation",
+        "to change",
+        "to vary"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 变化",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 322,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 表示 into English.",
+      "examples": [
+        "Pinyin: biǎo shì"
+      ],
+      "possibleAnswers": [
+        "to express",
+        "to show",
+        "to say",
+        "to state",
+        "to indicate",
+        "to mean"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 表示",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 323,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 表演 into English.",
+      "examples": [
+        "Pinyin: biǎo yǎn"
+      ],
+      "possibleAnswers": [
+        "play",
+        "show",
+        "performance",
+        "exhibition",
+        "to perform",
+        "to act",
+        "to demonstrate"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 表演",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 324,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 别人 into English.",
+      "examples": [
+        "Pinyin: bié ren"
+      ],
+      "possibleAnswers": [
+        "other people",
+        "others",
+        "other person"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 别人",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 325,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 宾馆 into English.",
+      "examples": [
+        "Pinyin: bīn guǎn"
+      ],
+      "possibleAnswers": [
+        "guesthouse",
+        "lodge",
+        "hotel"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 宾馆",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 326,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 冰箱 into English.",
+      "examples": [
+        "Pinyin: bīng xiāng"
+      ],
+      "possibleAnswers": [
+        "icebox",
+        "freezer cabinet",
+        "refrigerator"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 冰箱",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 327,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 才 into English.",
+      "examples": [
+        "Pinyin: cái"
+      ],
+      "possibleAnswers": [
+        "a moment ago",
+        "just now",
+        "(preceded by a clause of condition or reason) not until",
+        "(followed by a numerical clause) only"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 才",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 328,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 菜单 into English.",
+      "examples": [
+        "Pinyin: cài dān"
+      ],
+      "possibleAnswers": [
+        "menu"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 菜单",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 329,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 参加 into English.",
+      "examples": [
+        "Pinyin: cān jiā"
+      ],
+      "possibleAnswers": [
+        "to participate",
+        "to take part",
+        "to join"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 参加",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 330,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 草 into English.",
+      "examples": [
+        "Pinyin: cǎo"
+      ],
+      "possibleAnswers": [
+        "grass",
+        "straw",
+        "manuscript",
+        "draft (of a document)",
+        "careless",
+        "rough"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 草",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 331,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 层 into English.",
+      "examples": [
+        "Pinyin: céng"
+      ],
+      "possibleAnswers": [
+        "layer",
+        "stratum",
+        "laminated",
+        "floor (of a building)",
+        "storey",
+        "classifier for layers",
+        "repeated",
+        "sheaf (math.)"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 层",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 332,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 差 into English.",
+      "examples": [
+        "Pinyin: chà"
+      ],
+      "possibleAnswers": [
+        "to differ from",
+        "to fall short of",
+        "lacking",
+        "wrong",
+        "inferior"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 差",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 333,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 超市 into English.",
+      "examples": [
+        "Pinyin: chāo shì"
+      ],
+      "possibleAnswers": [
+        "supermarket (abbr.)"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 超市",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 334,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 衬衫 into English.",
+      "examples": [
+        "Pinyin: chèn shān"
+      ],
+      "possibleAnswers": [
+        "shirt",
+        "blouse"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 衬衫",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 335,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 成绩 into English.",
+      "examples": [
+        "Pinyin: chéng jì"
+      ],
+      "possibleAnswers": [
+        "achievement",
+        "performance records",
+        "grades"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 成绩",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 336,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 城市 into English.",
+      "examples": [
+        "Pinyin: chéng shì"
+      ],
+      "possibleAnswers": [
+        "city",
+        "town"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 城市",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 337,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 迟到 into English.",
+      "examples": [
+        "Pinyin: chí dào"
+      ],
+      "possibleAnswers": [
+        "to arrive late"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 迟到",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 338,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 出现 into English.",
+      "examples": [
+        "Pinyin: chū xiàn"
+      ],
+      "possibleAnswers": [
+        "to appear",
+        "to arise",
+        "to emerge",
+        "to show up"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 出现",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 339,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 除了 into English.",
+      "examples": [
+        "Pinyin: chú le"
+      ],
+      "possibleAnswers": [
+        "besides",
+        "apart from (... also...)",
+        "in addition to",
+        "except (for)"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 除了",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 340,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 厨房 into English.",
+      "examples": [
+        "Pinyin: chú fáng"
+      ],
+      "possibleAnswers": [
+        "kitchen"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 厨房",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 341,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 春 into English.",
+      "examples": [
+        "Pinyin: chūn"
+      ],
+      "possibleAnswers": [
+        "spring (time)",
+        "gay",
+        "joyful",
+        "youthful",
+        "love",
+        "lust",
+        "life"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 春",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 342,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 词语 into English.",
+      "examples": [
+        "Pinyin: cí yǔ"
+      ],
+      "possibleAnswers": [
+        "word (general term including monosyllables through to short phrases)",
+        "term (e.g. technical term)",
+        "expression"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 词语",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 343,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 聪明 into English.",
+      "examples": [
+        "Pinyin: cōng ming"
+      ],
+      "possibleAnswers": [
+        "acute (of sight and hearing)",
+        "clever",
+        "intelligent",
+        "bright",
+        "smart"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 聪明",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 344,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 打扫 into English.",
+      "examples": [
+        "Pinyin: dǎ sǎo"
+      ],
+      "possibleAnswers": [
+        "to clean",
+        "to sweep"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 打扫",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 345,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 打算 into English.",
+      "examples": [
+        "Pinyin: dǎ suàn"
+      ],
+      "possibleAnswers": [
+        "to plan",
+        "to intend",
+        "to calculate",
+        "plan",
+        "intention",
+        "calculation"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 打算",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 346,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 带 into English.",
+      "examples": [
+        "Pinyin: dài"
+      ],
+      "possibleAnswers": [
+        "band",
+        "belt",
+        "girdle",
+        "ribbon",
+        "tire",
+        "area",
+        "zone",
+        "region",
+        "to wear",
+        "to carry",
+        "to take along",
+        "to bear (i.e. to have)",
+        "to lead",
+        "to bring",
+        "to look after",
+        "to raise"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 带",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 347,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 担心 into English.",
+      "examples": [
+        "Pinyin: dān xīn"
+      ],
+      "possibleAnswers": [
+        "anxious",
+        "worried",
+        "uneasy",
+        "to worry",
+        "to be anxious"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 担心",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 348,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 蛋糕 into English.",
+      "examples": [
+        "Pinyin: dàn gāo"
+      ],
+      "possibleAnswers": [
+        "cake"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 蛋糕",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 349,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 当然 into English.",
+      "examples": [
+        "Pinyin: dāng rán"
+      ],
+      "possibleAnswers": [
+        "only natural",
+        "as it should be",
+        "certainly",
+        "of course",
+        "without doubt"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 当然",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 350,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 地 into English.",
+      "examples": [
+        "Pinyin: de"
+      ],
+      "possibleAnswers": [
+        "-ly",
+        "structural particle: used before a verb or adjective",
+        "linking it to preceding modifying adverbial adjunct"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 地",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 351,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 灯 into English.",
+      "examples": [
+        "Pinyin: dēng"
+      ],
+      "possibleAnswers": [
+        "lamp",
+        "light",
+        "lantern"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 灯",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 352,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 低 into English.",
+      "examples": [
+        "Pinyin: dī"
+      ],
+      "possibleAnswers": [
+        "low",
+        "beneath",
+        "to lower (one's head)",
+        "to let droop",
+        "to hang down",
+        "to incline"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 低",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 353,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 地方 into English.",
+      "examples": [
+        "Pinyin: dì fang"
+      ],
+      "possibleAnswers": [
+        "area",
+        "place",
+        "space",
+        "room",
+        "territory"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 地方",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 354,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 地铁 into English.",
+      "examples": [
+        "Pinyin: dì tiě"
+      ],
+      "possibleAnswers": [
+        "subway",
+        "metro"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 地铁",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 355,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 地图 into English.",
+      "examples": [
+        "Pinyin: dì tú"
+      ],
+      "possibleAnswers": [
+        "map"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 地图",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 356,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 电梯 into English.",
+      "examples": [
+        "Pinyin: diàn tī"
+      ],
+      "possibleAnswers": [
+        "elevator",
+        "escalator"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 电梯",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 357,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 电子 into English.",
+      "examples": [
+        "Pinyin: diàn zǐ"
+      ],
+      "possibleAnswers": [
+        "electronic",
+        "electron (particle physics)"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 电子",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 358,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 冬 into English.",
+      "examples": [
+        "Pinyin: dōng"
+      ],
+      "possibleAnswers": [
+        "sound of beating a drum",
+        "onomatopoeia for rat-a-tat etc"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 冬",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 359,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 东 into English.",
+      "examples": [
+        "Pinyin: dōng"
+      ],
+      "possibleAnswers": [
+        "east",
+        "host (i.e. sitting on east side of guest)",
+        "landlord"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 东",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 360,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 动物 into English.",
+      "examples": [
+        "Pinyin: dòng wù"
+      ],
+      "possibleAnswers": [
+        "animal"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 动物",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 361,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 短 into English.",
+      "examples": [
+        "Pinyin: duǎn"
+      ],
+      "possibleAnswers": [
+        "short or brief",
+        "to lack",
+        "weak point",
+        "fault"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 短",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 362,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 段 into English.",
+      "examples": [
+        "Pinyin: duàn"
+      ],
+      "possibleAnswers": [
+        "paragraph",
+        "section",
+        "segment",
+        "stage (of a process)",
+        "classifier for stories",
+        "periods of time",
+        "lengths of thread etc"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 段",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 363,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 锻炼 into English.",
+      "examples": [
+        "Pinyin: duàn liàn"
+      ],
+      "possibleAnswers": [
+        "to engage in physical exercise",
+        "to work out",
+        "to toughen",
+        "to temper"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 锻炼",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 364,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 多么 into English.",
+      "examples": [
+        "Pinyin: duō me"
+      ],
+      "possibleAnswers": [
+        "how (wonderful etc)",
+        "what (a great idea etc)",
+        "however (difficult it may be etc)"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 多么",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 365,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 饿 into English.",
+      "examples": [
+        "Pinyin: è"
+      ],
+      "possibleAnswers": [
+        "to be hungry",
+        "hungry"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 饿",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 366,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 而且 into English.",
+      "examples": [
+        "Pinyin: ér qiě"
+      ],
+      "possibleAnswers": [
+        "(not only ...) but also",
+        "moreover",
+        "in addition",
+        "furthermore"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 而且",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 367,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 耳朵 into English.",
+      "examples": [
+        "Pinyin: ěr duo"
+      ],
+      "possibleAnswers": [
+        "ear"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 耳朵",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 368,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 发烧 into English.",
+      "examples": [
+        "Pinyin: fā shāo"
+      ],
+      "possibleAnswers": [
+        "to have a high temperature (from illness)",
+        "to have a fever"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 发烧",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 369,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 发现 into English.",
+      "examples": [
+        "Pinyin: fā xiàn"
+      ],
+      "possibleAnswers": [
+        "to find",
+        "to discover"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 发现",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 370,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 方便 into English.",
+      "examples": [
+        "Pinyin: fāng biàn"
+      ],
+      "possibleAnswers": [
+        "convenient",
+        "to help out",
+        "to make things easy for people",
+        "convenience",
+        "suitable",
+        "having money to spare",
+        "(euphemism) to go to the toilet"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 方便",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 371,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 放 into English.",
+      "examples": [
+        "Pinyin: fàng"
+      ],
+      "possibleAnswers": [
+        "to release",
+        "to free",
+        "to let go",
+        "to put",
+        "to place",
+        "to let out",
+        "to set off (fireworks)"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 放",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 372,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 放心 into English.",
+      "examples": [
+        "Pinyin: fàng xīn"
+      ],
+      "possibleAnswers": [
+        "to feel relieved",
+        "to feel reassured",
+        "to be at ease"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 放心",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 373,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 分 into English.",
+      "examples": [
+        "Pinyin: fēn"
+      ],
+      "possibleAnswers": [
+        "to divide",
+        "to separate",
+        "to allocate",
+        "to distinguish (good and bad)",
+        "part or subdivision",
+        "fraction",
+        "one tenth (of certain units)",
+        "unit of length equivalent to 0.33 cm",
+        "minute",
+        "a point (in sports or games)",
+        "0.01 yuan (unit of money)"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 分",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 374,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 附近 into English.",
+      "examples": [
+        "Pinyin: fù jìn"
+      ],
+      "possibleAnswers": [
+        "(in the) vicinity",
+        "nearby",
+        "neighboring",
+        "next to"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 附近",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 375,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 复习 into English.",
+      "examples": [
+        "Pinyin: fù xí"
+      ],
+      "possibleAnswers": [
+        "to revise",
+        "to review",
+        "revision"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 复习",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 376,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 干净 into English.",
+      "examples": [
+        "Pinyin: gān jìng"
+      ],
+      "possibleAnswers": [
+        "clean",
+        "neat"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 干净",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 377,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 敢 into English.",
+      "examples": [
+        "Pinyin: gǎn"
+      ],
+      "possibleAnswers": [
+        "to dare",
+        "daring",
+        "(polite) may i venture"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 敢",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 378,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 感冒 into English.",
+      "examples": [
+        "Pinyin: gǎn mào"
+      ],
+      "possibleAnswers": [
+        "to catch cold",
+        "(common) cold"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 感冒",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 379,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 刚才 into English.",
+      "examples": [
+        "Pinyin: gāng cái"
+      ],
+      "possibleAnswers": [
+        "(just) a moment ago"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 刚才",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 380,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 根据 into English.",
+      "examples": [
+        "Pinyin: gēn jù"
+      ],
+      "possibleAnswers": [
+        "according to",
+        "based on",
+        "basis",
+        "foundation"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 根据",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 381,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 跟 into English.",
+      "examples": [
+        "Pinyin: gēn"
+      ],
+      "possibleAnswers": [
+        "heel",
+        "to follow closely",
+        "to go with",
+        "to marry sb (of woman)",
+        "with",
+        "towards",
+        "as (compared to)",
+        "from (different from)",
+        "and (in addition to)"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 跟",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 382,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 更 into English.",
+      "examples": [
+        "Pinyin: gèng"
+      ],
+      "possibleAnswers": [
+        "more",
+        "even more",
+        "further",
+        "still",
+        "still more"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 更",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 383,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 公园 into English.",
+      "examples": [
+        "Pinyin: gōng yuán"
+      ],
+      "possibleAnswers": [
+        "public park"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 公园",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 384,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 故事 into English.",
+      "examples": [
+        "Pinyin: gù shi"
+      ],
+      "possibleAnswers": [
+        "narrative",
+        "story",
+        "tale"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 故事",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 385,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 刮 into English.",
+      "examples": [
+        "Pinyin: guā"
+      ],
+      "possibleAnswers": [
+        "to blow (of the wind)"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 刮",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 386,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 关 into English.",
+      "examples": [
+        "Pinyin: guān"
+      ],
+      "possibleAnswers": [
+        "mountain pass",
+        "to close",
+        "to shut",
+        "to turn off",
+        "to concern",
+        "to involve"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 关",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 388,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 关心 into English.",
+      "examples": [
+        "Pinyin: guān xīn"
+      ],
+      "possibleAnswers": [
+        "to care for sth",
+        "caring",
+        "concerned"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 关心",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 389,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 关于 into English.",
+      "examples": [
+        "Pinyin: guān yú"
+      ],
+      "possibleAnswers": [
+        "pertaining to",
+        "concerning",
+        "regarding",
+        "with regards to",
+        "about",
+        "a matter of"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 关于",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 390,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 国家 into English.",
+      "examples": [
+        "Pinyin: guó jiā"
+      ],
+      "possibleAnswers": [
+        "country",
+        "nation",
+        "state"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 国家",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 391,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 果汁 into English.",
+      "examples": [
+        "Pinyin: guǒ zhī"
+      ],
+      "possibleAnswers": [
+        "fruit juice"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 果汁",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 392,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 过去 into English.",
+      "examples": [
+        "Pinyin: guò qu"
+      ],
+      "possibleAnswers": [
+        "(in the) past",
+        "former",
+        "previous",
+        "to go over",
+        "to pass by"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 过去",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 393,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 还是 into English.",
+      "examples": [
+        "Pinyin: hái shi"
+      ],
+      "possibleAnswers": [
+        "or",
+        "still",
+        "nevertheless",
+        "had better"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 还是",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 394,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 害怕 into English.",
+      "examples": [
+        "Pinyin: hài pà"
+      ],
+      "possibleAnswers": [
+        "to be afraid",
+        "to be scared"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 害怕",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 395,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 河 into English.",
+      "examples": [
+        "Pinyin: hé"
+      ],
+      "possibleAnswers": [
+        "river"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 河",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 396,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 黑板 into English.",
+      "examples": [
+        "Pinyin: hēi bǎn"
+      ],
+      "possibleAnswers": [
+        "blackboard"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 黑板",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 397,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 护照 into English.",
+      "examples": [
+        "Pinyin: hù zhào"
+      ],
+      "possibleAnswers": [
+        "passport"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 护照",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 398,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 花 into English.",
+      "examples": [
+        "Pinyin: huā"
+      ],
+      "possibleAnswers": [
+        "flower",
+        "blossom",
+        "fancy pattern",
+        "florid",
+        "to spend (money",
+        "time)"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 花",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 399,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 花园 into English.",
+      "examples": [
+        "Pinyin: huā yuán"
+      ],
+      "possibleAnswers": [
+        "garden"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 花园",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 400,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 画 into English.",
+      "examples": [
+        "Pinyin: huà"
+      ],
+      "possibleAnswers": [
+        "to draw",
+        "picture",
+        "painting"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 画",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 401,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 坏 into English.",
+      "examples": [
+        "Pinyin: huài"
+      ],
+      "possibleAnswers": [
+        "bad",
+        "spoiled",
+        "broken",
+        "to break down"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 坏",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 402,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 环境 into English.",
+      "examples": [
+        "Pinyin: huán jìng"
+      ],
+      "possibleAnswers": [
+        "environment",
+        "circumstances",
+        "surroundings",
+        "ambient"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 环境",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 403,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 换 into English.",
+      "examples": [
+        "Pinyin: huàn"
+      ],
+      "possibleAnswers": [
+        "to change",
+        "to exchange"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 换",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 404,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 黄 into English.",
+      "examples": [
+        "Pinyin: huáng"
+      ],
+      "possibleAnswers": [
+        "yellow",
+        "pornographic",
+        "to fall through"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 黄",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 405,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 会议 into English.",
+      "examples": [
+        "Pinyin: huì yì"
+      ],
+      "possibleAnswers": [
+        "meeting",
+        "conference"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 会议",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 406,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 或者 into English.",
+      "examples": [
+        "Pinyin: huò zhě"
+      ],
+      "possibleAnswers": [
+        "or",
+        "possibly",
+        "maybe",
+        "perhaps"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 或者",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 407,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 机会 into English.",
+      "examples": [
+        "Pinyin: jī huì"
+      ],
+      "possibleAnswers": [
+        "opportunity",
+        "chance",
+        "occasion"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 机会",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 408,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 几乎 into English.",
+      "examples": [
+        "Pinyin: jī hū"
+      ],
+      "possibleAnswers": [
+        "almost",
+        "nearly",
+        "practically"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 几乎",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 409,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 极 into English.",
+      "examples": [
+        "Pinyin: jí"
+      ],
+      "possibleAnswers": [
+        "extremely",
+        "pole (geography",
+        "physics)",
+        "utmost",
+        "top"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 极",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 410,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 记得 into English.",
+      "examples": [
+        "Pinyin: jì de"
+      ],
+      "possibleAnswers": [
+        "to remember"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 记得",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 411,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 季节 into English.",
+      "examples": [
+        "Pinyin: jì jié"
+      ],
+      "possibleAnswers": [
+        "time",
+        "season",
+        "period"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 季节",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 412,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 检查 into English.",
+      "examples": [
+        "Pinyin: jiǎn chá"
+      ],
+      "possibleAnswers": [
+        "inspection",
+        "to examine",
+        "to inspect"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 检查",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 413,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 简单 into English.",
+      "examples": [
+        "Pinyin: jiǎn dān"
+      ],
+      "possibleAnswers": [
+        "simple",
+        "not complicated"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 简单",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 414,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 见面 into English.",
+      "examples": [
+        "Pinyin: jiàn miàn"
+      ],
+      "possibleAnswers": [
+        "to meet",
+        "to see sb"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 见面",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 415,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 健康 into English.",
+      "examples": [
+        "Pinyin: jiàn kāng"
+      ],
+      "possibleAnswers": [
+        "health",
+        "healthy"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 健康",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 416,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 讲 into English.",
+      "examples": [
+        "Pinyin: jiǎng"
+      ],
+      "possibleAnswers": [
+        "to speak",
+        "to explain",
+        "to negotiate",
+        "to emphasise",
+        "to be particular about",
+        "as far as sth is concerned",
+        "speech",
+        "lecture"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 讲",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 417,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 教 into English.",
+      "examples": [
+        "Pinyin: jiāo"
+      ],
+      "possibleAnswers": [
+        "to teach"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 教",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 418,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 脚 into English.",
+      "examples": [
+        "Pinyin: jiǎo"
+      ],
+      "possibleAnswers": [
+        "foot",
+        "leg",
+        "base",
+        "kick"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 脚",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 419,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 角 into English.",
+      "examples": [
+        "Pinyin: jiǎo"
+      ],
+      "possibleAnswers": [
+        "angle",
+        "corner",
+        "horn",
+        "horn-shaped",
+        "unit of money equal to 0.1 yuan"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 角",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 420,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 接 into English.",
+      "examples": [
+        "Pinyin: jiē"
+      ],
+      "possibleAnswers": [
+        "to receive",
+        "to answer (the phone)",
+        "to meet or welcome sb",
+        "to connect",
+        "to catch",
+        "to join",
+        "to extend",
+        "to take one's turn on duty",
+        "to take over for sb"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 接",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 421,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 街道 into English.",
+      "examples": [
+        "Pinyin: jiē dào"
+      ],
+      "possibleAnswers": [
+        "street",
+        "subdistrict",
+        "residential district"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 街道",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 422,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 节目 into English.",
+      "examples": [
+        "Pinyin: jié mù"
+      ],
+      "possibleAnswers": [
+        "program",
+        "item (on a program)"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 节目",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 423,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 节日 into English.",
+      "examples": [
+        "Pinyin: jié rì"
+      ],
+      "possibleAnswers": [
+        "holiday",
+        "festival"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 节日",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 424,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 结婚 into English.",
+      "examples": [
+        "Pinyin: jié hūn"
+      ],
+      "possibleAnswers": [
+        "to marry",
+        "to get married"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 结婚",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 425,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 结束 into English.",
+      "examples": [
+        "Pinyin: jié shù"
+      ],
+      "possibleAnswers": [
+        "termination",
+        "to finish",
+        "to end",
+        "to conclude",
+        "to close"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 结束",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 426,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 解决 into English.",
+      "examples": [
+        "Pinyin: jiě jué"
+      ],
+      "possibleAnswers": [
+        "to settle (a dispute)",
+        "to resolve",
+        "to solve",
+        "to dispose of",
+        "to dispatch"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 解决",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 427,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 借 into English.",
+      "examples": [
+        "Pinyin: jiè"
+      ],
+      "possibleAnswers": [
+        "to lend",
+        "to borrow",
+        "by means of",
+        "to take (an opportunity)"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 借",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 428,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 经常 into English.",
+      "examples": [
+        "Pinyin: jīng cháng"
+      ],
+      "possibleAnswers": [
+        "day to day",
+        "everyday",
+        "daily",
+        "frequently",
+        "constantly",
+        "regularly",
+        "often"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 经常",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 429,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 经过 into English.",
+      "examples": [
+        "Pinyin: jīng guò"
+      ],
+      "possibleAnswers": [
+        "to pass",
+        "to go through",
+        "process",
+        "course"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 经过",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 430,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 经理 into English.",
+      "examples": [
+        "Pinyin: jīng lǐ"
+      ],
+      "possibleAnswers": [
+        "manager",
+        "director"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 经理",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 431,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 久 into English.",
+      "examples": [
+        "Pinyin: jiǔ"
+      ],
+      "possibleAnswers": [
+        "(long) time",
+        "(long) duration of time"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 久",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 432,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 旧 into English.",
+      "examples": [
+        "Pinyin: jiù"
+      ],
+      "possibleAnswers": [
+        "old",
+        "former",
+        "worn (with age)"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 旧",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 433,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 举行 into English.",
+      "examples": [
+        "Pinyin: jǔ xíng"
+      ],
+      "possibleAnswers": [
+        "to hold (a meeting",
+        "ceremony etc)"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 举行",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 434,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 句子 into English.",
+      "examples": [
+        "Pinyin: jù zi"
+      ],
+      "possibleAnswers": [
+        "sentence"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 句子",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 435,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 决定 into English.",
+      "examples": [
+        "Pinyin: jué dìng"
+      ],
+      "possibleAnswers": [
+        "to decide (to do something)",
+        "to resolve",
+        "decision",
+        "certainly"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 决定",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 436,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 渴 into English.",
+      "examples": [
+        "Pinyin: kě"
+      ],
+      "possibleAnswers": [
+        "thirsty"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 渴",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 437,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 可爱 into English.",
+      "examples": [
+        "Pinyin: kě ài"
+      ],
+      "possibleAnswers": [
+        "adorable",
+        "cute",
+        "lovely"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 可爱",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 438,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 刻 into English.",
+      "examples": [
+        "Pinyin: kè"
+      ],
+      "possibleAnswers": [
+        "quarter (hour)",
+        "moment",
+        "to carve",
+        "to engrave",
+        "to cut",
+        "oppressive",
+        "classifier for short time intervals"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 刻",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 439,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 客人 into English.",
+      "examples": [
+        "Pinyin: kè rén"
+      ],
+      "possibleAnswers": [
+        "visitor",
+        "guest",
+        "customer",
+        "client"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 客人",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 440,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 空调 into English.",
+      "examples": [
+        "Pinyin: kōng tiáo"
+      ],
+      "possibleAnswers": [
+        "air conditioning"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 空调",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 441,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 口 into English.",
+      "examples": [
+        "Pinyin: kǒu"
+      ],
+      "possibleAnswers": [
+        "mouth",
+        "classifier for things with mouths (people",
+        "domestic animals",
+        "cannons",
+        "wells etc)",
+        "classifier for bites or mouthfuls"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 口",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 442,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 哭 into English.",
+      "examples": [
+        "Pinyin: kū"
+      ],
+      "possibleAnswers": [
+        "to cry",
+        "to weep"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 哭",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 443,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 裤子 into English.",
+      "examples": [
+        "Pinyin: kù zi"
+      ],
+      "possibleAnswers": [
+        "trousers",
+        "pants"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 裤子",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 444,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 筷子 into English.",
+      "examples": [
+        "Pinyin: kuài zi"
+      ],
+      "possibleAnswers": [
+        "chopsticks"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 筷子",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 445,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 蓝 into English.",
+      "examples": [
+        "Pinyin: lán"
+      ],
+      "possibleAnswers": [
+        "blue",
+        "indigo plant"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 蓝",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 446,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 老 into English.",
+      "examples": [
+        "Pinyin: lǎo"
+      ],
+      "possibleAnswers": [
+        "prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity",
+        "old (of people)",
+        "venerable (person)",
+        "experienced",
+        "of long standing",
+        "always",
+        "all the time",
+        "of the past",
+        "very",
+        "outdated",
+        "(of meat etc) tough"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 老",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 447,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 离开 into English.",
+      "examples": [
+        "Pinyin: lí kāi"
+      ],
+      "possibleAnswers": [
+        "to depart",
+        "to leave"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 离开",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 448,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 礼物 into English.",
+      "examples": [
+        "Pinyin: lǐ wù"
+      ],
+      "possibleAnswers": [
+        "gift",
+        "present"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 礼物",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 449,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 历史 into English.",
+      "examples": [
+        "Pinyin: lì shǐ"
+      ],
+      "possibleAnswers": [
+        "history"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 历史",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 450,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 脸 into English.",
+      "examples": [
+        "Pinyin: liǎn"
+      ],
+      "possibleAnswers": [
+        "face"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 脸",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 451,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 练习 into English.",
+      "examples": [
+        "Pinyin: liàn xí"
+      ],
+      "possibleAnswers": [
+        "exercise",
+        "drill",
+        "practice"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 练习",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 452,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 辆 into English.",
+      "examples": [
+        "Pinyin: liàng"
+      ],
+      "possibleAnswers": [
+        "classifier for vehicles"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 辆",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 453,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 了解 into English.",
+      "examples": [
+        "Pinyin: liǎo jiě"
+      ],
+      "possibleAnswers": [
+        "to understand",
+        "to realize",
+        "to find out"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 了解",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 454,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 邻居 into English.",
+      "examples": [
+        "Pinyin: lín jū"
+      ],
+      "possibleAnswers": [
+        "neighbor",
+        "next door"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 邻居",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 455,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 楼 into English.",
+      "examples": [
+        "Pinyin: lóu"
+      ],
+      "possibleAnswers": [
+        "house with more than 1 story",
+        "storied building",
+        "floor"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 楼",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 456,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 绿 into English.",
+      "examples": [
+        "Pinyin: lǜ"
+      ],
+      "possibleAnswers": [
+        "green"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 绿",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 457,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 马 into English.",
+      "examples": [
+        "Pinyin: mǎ"
+      ],
+      "possibleAnswers": [
+        "horse",
+        "horse or cavalry piece in chinese chess",
+        "knight in western chess"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 马",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 458,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 马上 into English.",
+      "examples": [
+        "Pinyin: mǎ shàng"
+      ],
+      "possibleAnswers": [
+        "at once",
+        "right away",
+        "immediately",
+        "on horseback (i.e. by military force)"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 马上",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 459,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 满意 into English.",
+      "examples": [
+        "Pinyin: mǎn yì"
+      ],
+      "possibleAnswers": [
+        "satisfied",
+        "pleased",
+        "to one's satisfaction"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 满意",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 460,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 帽子 into English.",
+      "examples": [
+        "Pinyin: mào zi"
+      ],
+      "possibleAnswers": [
+        "hat",
+        "cap",
+        "(fig.) label",
+        "bad name"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 帽子",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 461,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 米 into English.",
+      "examples": [
+        "Pinyin: mǐ"
+      ],
+      "possibleAnswers": [
+        "rice",
+        "meter (classifier)"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 米",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 462,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 面包 into English.",
+      "examples": [
+        "Pinyin: miàn bāo"
+      ],
+      "possibleAnswers": [
+        "bread"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 面包",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 463,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 面条 into English.",
+      "examples": [
+        "Pinyin: miàn tiáo"
+      ],
+      "possibleAnswers": [
+        "noodles"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 面条",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 464,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 明白 into English.",
+      "examples": [
+        "Pinyin: míng bai"
+      ],
+      "possibleAnswers": [
+        "clear",
+        "obvious",
+        "unequivocal",
+        "to understand",
+        "to realize"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 明白",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 465,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 拿 into English.",
+      "examples": [
+        "Pinyin: ná"
+      ],
+      "possibleAnswers": [
+        "to hold",
+        "to seize",
+        "to catch",
+        "to apprehend",
+        "to take"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 拿",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 466,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 奶奶 into English.",
+      "examples": [
+        "Pinyin: nǎi nai"
+      ],
+      "possibleAnswers": [
+        "(informal) grandma (paternal grandmother)",
+        "(respectful) mistress of the house"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 奶奶",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 467,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 南 into English.",
+      "examples": [
+        "Pinyin: nán"
+      ],
+      "possibleAnswers": [
+        "south"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 南",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 468,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 难 into English.",
+      "examples": [
+        "Pinyin: nán"
+      ],
+      "possibleAnswers": [
+        "difficult (to...)",
+        "problem",
+        "difficulty",
+        "difficult",
+        "not good"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 难",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 469,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 难过 into English.",
+      "examples": [
+        "Pinyin: nán guò"
+      ],
+      "possibleAnswers": [
+        "to feel sad",
+        "to feel unwell",
+        "(of life) to be difficult"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 难过",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 470,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 年级 into English.",
+      "examples": [
+        "Pinyin: nián jí"
+      ],
+      "possibleAnswers": [
+        "grade"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 年级",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 471,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 年轻 into English.",
+      "examples": [
+        "Pinyin: nián qīng"
+      ],
+      "possibleAnswers": [
+        "young"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 年轻",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 472,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 鸟 into English.",
+      "examples": [
+        "Pinyin: niǎo"
+      ],
+      "possibleAnswers": [
+        "bird"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 鸟",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 473,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 努力 into English.",
+      "examples": [
+        "Pinyin: nǔ lì"
+      ],
+      "possibleAnswers": [
+        "great effort",
+        "to strive",
+        "to try hard"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 努力",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 474,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 爬山 into English.",
+      "examples": [
+        "Pinyin: pá shān"
+      ],
+      "possibleAnswers": [
+        "to climb a mountain",
+        "to mountaineer",
+        "hiking",
+        "mountaineering"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 爬山",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 475,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 盘子 into English.",
+      "examples": [
+        "Pinyin: pán zi"
+      ],
+      "possibleAnswers": [
+        "tray",
+        "plate",
+        "dish"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 盘子",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 476,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 胖 into English.",
+      "examples": [
+        "Pinyin: pàng"
+      ],
+      "possibleAnswers": [
+        "fat",
+        "plump"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 胖",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 477,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 啤酒 into English.",
+      "examples": [
+        "Pinyin: pí jiǔ"
+      ],
+      "possibleAnswers": [
+        "beer"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 啤酒",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 478,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 葡萄 into English.",
+      "examples": [
+        "Pinyin: pú tao"
+      ],
+      "possibleAnswers": [
+        "grape"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 葡萄",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 479,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 普通话 into English.",
+      "examples": [
+        "Pinyin: pǔ tōng huà"
+      ],
+      "possibleAnswers": [
+        "mandarin (common language)",
+        "putonghua (common speech of the chinese language)",
+        "ordinary speech"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 普通话",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 480,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 骑 into English.",
+      "examples": [
+        "Pinyin: qí"
+      ],
+      "possibleAnswers": [
+        "to ride (an animal or bike)",
+        "to sit astride"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 骑",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 481,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 其实 into English.",
+      "examples": [
+        "Pinyin: qí shí"
+      ],
+      "possibleAnswers": [
+        "actually",
+        "in fact",
+        "really"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 其实",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 482,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 其他 into English.",
+      "examples": [
+        "Pinyin: qí tā"
+      ],
+      "possibleAnswers": [
+        "other",
+        "the others",
+        "else",
+        "other than (that person)",
+        "in addition to the person mentioned above"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 其他",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 483,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 奇怪 into English.",
+      "examples": [
+        "Pinyin: qí guài"
+      ],
+      "possibleAnswers": [
+        "strange",
+        "odd",
+        "to marvel",
+        "to be baffled"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 奇怪",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 484,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 铅笔 into English.",
+      "examples": [
+        "Pinyin: qiān bǐ"
+      ],
+      "possibleAnswers": [
+        "(lead) pencil"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 铅笔",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 485,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 清楚 into English.",
+      "examples": [
+        "Pinyin: qīng chu"
+      ],
+      "possibleAnswers": [
+        "clear",
+        "distinct",
+        "to understand thoroughly",
+        "to be clear about"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 清楚",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 486,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 秋 into English.",
+      "examples": [
+        "Pinyin: qiū"
+      ],
+      "possibleAnswers": [
+        "a swing"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 秋",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 487,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 裙子 into English.",
+      "examples": [
+        "Pinyin: qún zi"
+      ],
+      "possibleAnswers": [
+        "skirt"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 裙子",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 488,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 然后 into English.",
+      "examples": [
+        "Pinyin: rán hòu"
+      ],
+      "possibleAnswers": [
+        "after",
+        "then (afterwards)",
+        "after that",
+        "afterwards"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 然后",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 489,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 热情 into English.",
+      "examples": [
+        "Pinyin: rè qíng"
+      ],
+      "possibleAnswers": [
+        "cordial",
+        "enthusiastic",
+        "passion",
+        "passionate",
+        "passionately"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 热情",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 490,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 认为 into English.",
+      "examples": [
+        "Pinyin: rèn wéi"
+      ],
+      "possibleAnswers": [
+        "to believe",
+        "to think",
+        "to consider",
+        "to feel"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 认为",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 491,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 认真 into English.",
+      "examples": [
+        "Pinyin: rèn zhēn"
+      ],
+      "possibleAnswers": [
+        "conscientious",
+        "earnest",
+        "serious",
+        "to take seriously",
+        "to take to heart"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 认真",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 492,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 容易 into English.",
+      "examples": [
+        "Pinyin: róng yì"
+      ],
+      "possibleAnswers": [
+        "easy",
+        "likely",
+        "liable (to)"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 容易",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 493,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 如果 into English.",
+      "examples": [
+        "Pinyin: rú guǒ"
+      ],
+      "possibleAnswers": [
+        "if",
+        "in case",
+        "in the event that"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 如果",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 494,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 伞 into English.",
+      "examples": [
+        "Pinyin: sǎn"
+      ],
+      "possibleAnswers": [
+        "umbrella",
+        "parasol"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 伞",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 495,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 上网 into English.",
+      "examples": [
+        "Pinyin: shàng wǎng"
+      ],
+      "possibleAnswers": [
+        "to be on the internet",
+        "to stretch a net (in a sports game or for covering sth)",
+        "to be netted (of fish)"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 上网",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 496,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 生气 into English.",
+      "examples": [
+        "Pinyin: shēng qì"
+      ],
+      "possibleAnswers": [
+        "angry",
+        "mad",
+        "offended",
+        "animated",
+        "to get angry",
+        "to be enraged",
+        "to take offense",
+        "animation"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 生气",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 497,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 声音 into English.",
+      "examples": [
+        "Pinyin: shēng yīn"
+      ],
+      "possibleAnswers": [
+        "voice",
+        "sound"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 声音",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 498,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 使 into English.",
+      "examples": [
+        "Pinyin: shǐ"
+      ],
+      "possibleAnswers": [
+        "to make",
+        "to cause",
+        "to enable",
+        "to use",
+        "to employ",
+        "to send",
+        "to instruct sb to do sth",
+        "envoy",
+        "messenger"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 使",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 499,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 世界 into English.",
+      "examples": [
+        "Pinyin: shì jiè"
+      ],
+      "possibleAnswers": [
+        "world"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 世界",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 500,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 瘦 into English.",
+      "examples": [
+        "Pinyin: shòu"
+      ],
+      "possibleAnswers": [
+        "thin",
+        "to lose weight",
+        "(of clothing) tight",
+        "(of meat) lean",
+        "(of land) unproductive"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 瘦",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 501,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 舒服 into English.",
+      "examples": [
+        "Pinyin: shū fu"
+      ],
+      "possibleAnswers": [
+        "comfortable",
+        "feeling well"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 舒服",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 502,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 叔叔 into English.",
+      "examples": [
+        "Pinyin: shū shu"
+      ],
+      "possibleAnswers": [
+        "father's younger brother",
+        "uncle",
+        "taiwan pr. [shú shu]"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 叔叔",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 503,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 树 into English.",
+      "examples": [
+        "Pinyin: shù"
+      ],
+      "possibleAnswers": [
+        "tree",
+        "to cultivate",
+        "to set up"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 树",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 504,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 数学 into English.",
+      "examples": [
+        "Pinyin: shù xué"
+      ],
+      "possibleAnswers": [
+        "mathematics",
+        "mathematical"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 数学",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 505,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 刷 into English.",
+      "examples": [
+        "Pinyin: shuā"
+      ],
+      "possibleAnswers": [
+        "to brush",
+        "to paint",
+        "to daub",
+        "to paste up",
+        "to skip class (of students)",
+        "to fire from a job"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 刷",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 506,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 双 into English.",
+      "examples": [
+        "Pinyin: shuāng"
+      ],
+      "possibleAnswers": [
+        "two",
+        "double",
+        "pair",
+        "both"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 双",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 507,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 水平 into English.",
+      "examples": [
+        "Pinyin: shuǐ píng"
+      ],
+      "possibleAnswers": [
+        "level (of achievement etc)",
+        "standard",
+        "horizontal"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 水平",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 508,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 司机 into English.",
+      "examples": [
+        "Pinyin: sī jī"
+      ],
+      "possibleAnswers": [
+        "chauffeur",
+        "driver"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 司机",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 509,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 虽然 into English.",
+      "examples": [
+        "Pinyin: suī rán"
+      ],
+      "possibleAnswers": [
+        "although",
+        "even though",
+        "even if"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 虽然",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 510,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 太阳 into English.",
+      "examples": [
+        "Pinyin: tài yáng"
+      ],
+      "possibleAnswers": [
+        "sun"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 太阳",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 511,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 糖 into English.",
+      "examples": [
+        "Pinyin: táng"
+      ],
+      "possibleAnswers": [
+        "sugar",
+        "sweets",
+        "candy"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 糖",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 512,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 特别 into English.",
+      "examples": [
+        "Pinyin: tè bié"
+      ],
+      "possibleAnswers": [
+        "especially",
+        "special",
+        "particular",
+        "unusual"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 特别",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 513,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 疼 into English.",
+      "examples": [
+        "Pinyin: téng"
+      ],
+      "possibleAnswers": [
+        "(it) hurts",
+        "sore",
+        "to love dearly"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 疼",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 514,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 提高 into English.",
+      "examples": [
+        "Pinyin: tí gāo"
+      ],
+      "possibleAnswers": [
+        "to raise",
+        "to increase"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 提高",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 515,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 体育 into English.",
+      "examples": [
+        "Pinyin: tǐ yù"
+      ],
+      "possibleAnswers": [
+        "sports",
+        "physical education"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 体育",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 516,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 甜 into English.",
+      "examples": [
+        "Pinyin: tián"
+      ],
+      "possibleAnswers": [
+        "sweet"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 甜",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 517,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 条 into English.",
+      "examples": [
+        "Pinyin: tiáo"
+      ],
+      "possibleAnswers": [
+        "strip",
+        "item",
+        "article",
+        "clause (of law or treaty)",
+        "classifier for long thin things (ribbon",
+        "river",
+        "road",
+        "trousers etc)"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 条",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 518,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 同事 into English.",
+      "examples": [
+        "Pinyin: tóng shì"
+      ],
+      "possibleAnswers": [
+        "colleague",
+        "co-worker"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 同事",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 519,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 同意 into English.",
+      "examples": [
+        "Pinyin: tóng yì"
+      ],
+      "possibleAnswers": [
+        "to agree",
+        "to consent",
+        "to approve"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 同意",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 520,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 头发 into English.",
+      "examples": [
+        "Pinyin: tóu fa"
+      ],
+      "possibleAnswers": [
+        "hair (on the head)"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 头发",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 521,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 突然 into English.",
+      "examples": [
+        "Pinyin: tū rán"
+      ],
+      "possibleAnswers": [
+        "sudden",
+        "abrupt",
+        "unexpected"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 突然",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 522,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 图书馆 into English.",
+      "examples": [
+        "Pinyin: tú shū guǎn"
+      ],
+      "possibleAnswers": [
+        "library"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 图书馆",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 523,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 腿 into English.",
+      "examples": [
+        "Pinyin: tuǐ"
+      ],
+      "possibleAnswers": [
+        "leg"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 腿",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 524,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 完成 into English.",
+      "examples": [
+        "Pinyin: wán chéng"
+      ],
+      "possibleAnswers": [
+        "to complete",
+        "to accomplish"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 完成",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 525,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 碗 into English.",
+      "examples": [
+        "Pinyin: wǎn"
+      ],
+      "possibleAnswers": [
+        "bowl",
+        "cup"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 碗",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 526,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 万 into English.",
+      "examples": [
+        "Pinyin: wàn"
+      ],
+      "possibleAnswers": [
+        "ten thousand",
+        "a great number"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 万",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 527,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 忘记 into English.",
+      "examples": [
+        "Pinyin: wàng jì"
+      ],
+      "possibleAnswers": [
+        "to forget"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 忘记",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 528,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 为了 into English.",
+      "examples": [
+        "Pinyin: wèi le"
+      ],
+      "possibleAnswers": [
+        "in order to",
+        "for the purpose of",
+        "so as to"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 为了",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 529,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 为什么 into English.",
+      "examples": [
+        "Pinyin: wèi shén me"
+      ],
+      "possibleAnswers": [
+        "why?",
+        "for what reason?"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 为什么",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 530,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 位 into English.",
+      "examples": [
+        "Pinyin: wèi"
+      ],
+      "possibleAnswers": [
+        "position",
+        "location",
+        "place",
+        "seat",
+        "classifier for people (honorific)"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 位",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 531,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 文化 into English.",
+      "examples": [
+        "Pinyin: wén huà"
+      ],
+      "possibleAnswers": [
+        "culture",
+        "civilization",
+        "cultural"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 文化",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 532,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 西 into English.",
+      "examples": [
+        "Pinyin: xī"
+      ],
+      "possibleAnswers": [
+        "west"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 西",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 533,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 习惯 into English.",
+      "examples": [
+        "Pinyin: xí guàn"
+      ],
+      "possibleAnswers": [
+        "habit",
+        "custom",
+        "usual practice",
+        "to be used to"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 习惯",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 534,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 洗手间 into English.",
+      "examples": [
+        "Pinyin: xǐ shǒu jiān"
+      ],
+      "possibleAnswers": [
+        "toilet",
+        "lavatory",
+        "washroom"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 洗手间",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 535,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 洗澡 into English.",
+      "examples": [
+        "Pinyin: xǐ zǎo"
+      ],
+      "possibleAnswers": [
+        "to bathe",
+        "to take a shower"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 洗澡",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 536,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 夏 into English.",
+      "examples": [
+        "Pinyin: xià"
+      ],
+      "possibleAnswers": [
+        "summer"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 夏",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 537,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 先 into English.",
+      "examples": [
+        "Pinyin: xiān"
+      ],
+      "possibleAnswers": [
+        "early",
+        "prior",
+        "former",
+        "in advance",
+        "first"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 先",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 538,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 香蕉 into English.",
+      "examples": [
+        "Pinyin: xiāng jiāo"
+      ],
+      "possibleAnswers": [
+        "banana"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 香蕉",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 539,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 相同 into English.",
+      "examples": [
+        "Pinyin: xiāng tóng"
+      ],
+      "possibleAnswers": [
+        "identical",
+        "same"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 相同",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 540,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 相信 into English.",
+      "examples": [
+        "Pinyin: xiāng xìn"
+      ],
+      "possibleAnswers": [
+        "to be convinced (that sth is true)",
+        "to believe",
+        "to accept sth as true"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 相信",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 541,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 像 into English.",
+      "examples": [
+        "Pinyin: xiàng"
+      ],
+      "possibleAnswers": [
+        "to resemble",
+        "to be like",
+        "to look as if",
+        "such as",
+        "appearance",
+        "image",
+        "portrait",
+        "image under a mapping (math.)"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 像",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 542,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 小心 into English.",
+      "examples": [
+        "Pinyin: xiǎo xīn"
+      ],
+      "possibleAnswers": [
+        "to be careful",
+        "to take care"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 小心",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 543,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 校长 into English.",
+      "examples": [
+        "Pinyin: xiào zhǎng"
+      ],
+      "possibleAnswers": [
+        "(college",
+        "university) president",
+        "headmaster"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 校长",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 544,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 鞋 into English.",
+      "examples": [
+        "Pinyin: xié"
+      ],
+      "possibleAnswers": [
+        "shoe"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 鞋",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 545,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 新闻 into English.",
+      "examples": [
+        "Pinyin: xīn wén"
+      ],
+      "possibleAnswers": [
+        "news"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 新闻",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 546,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 新鲜 into English.",
+      "examples": [
+        "Pinyin: xīn xiān"
+      ],
+      "possibleAnswers": [
+        "fresh (experience",
+        "food etc)",
+        "freshness",
+        "novel",
+        "uncommon"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 新鲜",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 547,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 信 into English.",
+      "examples": [
+        "Pinyin: xìn"
+      ],
+      "possibleAnswers": [
+        "letter",
+        "mail",
+        "to trust",
+        "to believe",
+        "to profess faith in",
+        "truthful",
+        "confidence",
+        "trust",
+        "at will",
+        "at random"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 信",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 548,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 行李箱 into English.",
+      "examples": [
+        "Pinyin: xíng li xiāng"
+      ],
+      "possibleAnswers": [
+        "suitcase"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 行李箱",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 549,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 兴趣 into English.",
+      "examples": [
+        "Pinyin: xìng qù"
+      ],
+      "possibleAnswers": [
+        "interest (desire to know about sth)",
+        "interest (thing in which one is interested)",
+        "hobby"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 兴趣",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 550,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 熊猫 into English.",
+      "examples": [
+        "Pinyin: xióng māo"
+      ],
+      "possibleAnswers": [
+        "panda"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 熊猫",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 551,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 需要 into English.",
+      "examples": [
+        "Pinyin: xū yào"
+      ],
+      "possibleAnswers": [
+        "to need",
+        "to want",
+        "to demand",
+        "to require",
+        "requirement",
+        "need"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 需要",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 552,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 选择 into English.",
+      "examples": [
+        "Pinyin: xuǎn zé"
+      ],
+      "possibleAnswers": [
+        "to select",
+        "to pick",
+        "choice",
+        "option",
+        "alternative"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 选择",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 553,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 眼镜 into English.",
+      "examples": [
+        "Pinyin: yǎn jìng"
+      ],
+      "possibleAnswers": [
+        "spectacles",
+        "eyeglasses"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 眼镜",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 554,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 要求 into English.",
+      "examples": [
+        "Pinyin: yāo qiú"
+      ],
+      "possibleAnswers": [
+        "to request",
+        "to require",
+        "to stake a claim",
+        "to ask",
+        "to demand"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 要求",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 555,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 爷爷 into English.",
+      "examples": [
+        "Pinyin: yé ye"
+      ],
+      "possibleAnswers": [
+        "(informal) father's father",
+        "paternal grandfather"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 爷爷",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 556,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 一定 into English.",
+      "examples": [
+        "Pinyin: yī dìng"
+      ],
+      "possibleAnswers": [
+        "surely",
+        "certainly",
+        "necessarily",
+        "fixed",
+        "a certain (extent etc)",
+        "given",
+        "particular",
+        "must"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 一定",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 557,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 一共 into English.",
+      "examples": [
+        "Pinyin: yī gòng"
+      ],
+      "possibleAnswers": [
+        "altogether"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 一共",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 558,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 一会儿 into English.",
+      "examples": [
+        "Pinyin: yī huì r"
+      ],
+      "possibleAnswers": [
+        "a while",
+        "also pr. [yī huǐ r]"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 一会儿",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 559,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 一样 into English.",
+      "examples": [
+        "Pinyin: yī yàng"
+      ],
+      "possibleAnswers": [
+        "same",
+        "like",
+        "equal to",
+        "the same as",
+        "just like"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 一样",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 560,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 以后 into English.",
+      "examples": [
+        "Pinyin: yǐ hòu"
+      ],
+      "possibleAnswers": [
+        "after",
+        "later",
+        "afterwards",
+        "following",
+        "later on",
+        "in the future"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 以后",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 561,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 以前 into English.",
+      "examples": [
+        "Pinyin: yǐ qián"
+      ],
+      "possibleAnswers": [
+        "before",
+        "formerly",
+        "previous",
+        "ago"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 以前",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 562,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 以为 into English.",
+      "examples": [
+        "Pinyin: yǐ wéi"
+      ],
+      "possibleAnswers": [
+        "to believe",
+        "to think",
+        "to consider",
+        "to be under the impression"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 以为",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 563,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 一般 into English.",
+      "examples": [
+        "Pinyin: yī bān"
+      ],
+      "possibleAnswers": [
+        "same",
+        "ordinary",
+        "so-so",
+        "common",
+        "general",
+        "generally",
+        "in general"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 一般",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 564,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 一边 into English.",
+      "examples": [
+        "Pinyin: yī biān"
+      ],
+      "possibleAnswers": [
+        "one side",
+        "either side",
+        "on the one hand",
+        "on the other hand",
+        "doing while"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 一边",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 565,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 一直 into English.",
+      "examples": [
+        "Pinyin: yī zhí"
+      ],
+      "possibleAnswers": [
+        "straight (in a straight line)",
+        "continuously",
+        "always",
+        "from the beginning of ... up to ...",
+        "all along"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 一直",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 566,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 音乐 into English.",
+      "examples": [
+        "Pinyin: yīn yuè"
+      ],
+      "possibleAnswers": [
+        "music"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 音乐",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 567,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 银行 into English.",
+      "examples": [
+        "Pinyin: yín háng"
+      ],
+      "possibleAnswers": [
+        "bank"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 银行",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 568,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 应该 into English.",
+      "examples": [
+        "Pinyin: yīng gāi"
+      ],
+      "possibleAnswers": [
+        "ought to",
+        "should",
+        "must"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 应该",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 569,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 影响 into English.",
+      "examples": [
+        "Pinyin: yǐng xiǎng"
+      ],
+      "possibleAnswers": [
+        "an influence",
+        "an effect",
+        "to influence",
+        "to affect (usually adversely)",
+        "to disturb"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 影响",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 570,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 用 into English.",
+      "examples": [
+        "Pinyin: yòng"
+      ],
+      "possibleAnswers": [
+        "to use",
+        "to employ",
+        "to have to",
+        "to eat or drink",
+        "expense or outlay",
+        "usefulness",
+        "hence",
+        "therefore"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 用",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 571,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 游戏 into English.",
+      "examples": [
+        "Pinyin: yóu xì"
+      ],
+      "possibleAnswers": [
+        "game",
+        "to play"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 游戏",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 572,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 有名 into English.",
+      "examples": [
+        "Pinyin: yǒu míng"
+      ],
+      "possibleAnswers": [
+        "famous",
+        "well-known"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 有名",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 573,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 又 into English.",
+      "examples": [
+        "Pinyin: yòu"
+      ],
+      "possibleAnswers": [
+        "(once) again",
+        "also",
+        "both... and...",
+        "and yet",
+        "(used for emphasis) anyway"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 又",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 574,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 遇到 into English.",
+      "examples": [
+        "Pinyin: yù dào"
+      ],
+      "possibleAnswers": [
+        "to meet",
+        "to run into",
+        "to come across"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 遇到",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 575,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 愿意 into English.",
+      "examples": [
+        "Pinyin: yuàn yì"
+      ],
+      "possibleAnswers": [
+        "to wish",
+        "to want",
+        "ready",
+        "willing (to do sth)"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 愿意",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 576,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 越 into English.",
+      "examples": [
+        "Pinyin: yuè"
+      ],
+      "possibleAnswers": [
+        "to exceed",
+        "to climb over",
+        "to surpass",
+        "the more... the more"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 越",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 577,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 月亮 into English.",
+      "examples": [
+        "Pinyin: yuè liang"
+      ],
+      "possibleAnswers": [
+        "moon"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 月亮",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 578,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 云 into English.",
+      "examples": [
+        "Pinyin: yún"
+      ],
+      "possibleAnswers": [
+        "cloud"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 云",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 579,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 站 into English.",
+      "examples": [
+        "Pinyin: zhàn"
+      ],
+      "possibleAnswers": [
+        "station",
+        "to stand",
+        "to halt",
+        "to stop",
+        "branch of a company or organization",
+        "website"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 站",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 580,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 着急 into English.",
+      "examples": [
+        "Pinyin: zháo jí"
+      ],
+      "possibleAnswers": [
+        "to worry",
+        "to feel anxious",
+        "taiwan pron. [zhāo jí]"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 着急",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 581,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 照顾 into English.",
+      "examples": [
+        "Pinyin: zhào gu"
+      ],
+      "possibleAnswers": [
+        "to take care of",
+        "to show consideration",
+        "to attend to",
+        "to look after"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 照顾",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 582,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 照片 into English.",
+      "examples": [
+        "Pinyin: zhào piàn"
+      ],
+      "possibleAnswers": [
+        "photograph",
+        "picture"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 照片",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 583,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 照相机 into English.",
+      "examples": [
+        "Pinyin: zhào xiàng jī"
+      ],
+      "possibleAnswers": [
+        "camera"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 照相机",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 584,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 只 into English.",
+      "examples": [
+        "Pinyin: zhī"
+      ],
+      "possibleAnswers": [
+        "classifier for birds and certain animals",
+        "one of a pair",
+        "some utensils",
+        "vessels etc"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 只",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 585,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 只 into English.",
+      "examples": [
+        "Pinyin: zhǐ"
+      ],
+      "possibleAnswers": [
+        "but",
+        "only"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 只",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 586,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 终于 into English.",
+      "examples": [
+        "Pinyin: zhōng yú"
+      ],
+      "possibleAnswers": [
+        "at last",
+        "in the end",
+        "finally",
+        "eventually"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 终于",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 587,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 中间 into English.",
+      "examples": [
+        "Pinyin: zhōng jiān"
+      ],
+      "possibleAnswers": [
+        "between",
+        "intermediate",
+        "mid",
+        "middle"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 中间",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 588,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 种 into English.",
+      "examples": [
+        "Pinyin: zhǒng"
+      ],
+      "possibleAnswers": [
+        "genus",
+        "race",
+        "seed",
+        "breed",
+        "species",
+        "strain",
+        "kind",
+        "type",
+        "has guts (i.e. courage)",
+        "nerve",
+        "classifier for types: kind",
+        "sort",
+        "classifier for languages"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 种",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 589,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 重要 into English.",
+      "examples": [
+        "Pinyin: zhòng yào"
+      ],
+      "possibleAnswers": [
+        "important",
+        "significant",
+        "major"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 重要",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 590,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 周末 into English.",
+      "examples": [
+        "Pinyin: zhōu mò"
+      ],
+      "possibleAnswers": [
+        "weekend"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 周末",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 591,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 主要 into English.",
+      "examples": [
+        "Pinyin: zhǔ yào"
+      ],
+      "possibleAnswers": [
+        "main",
+        "principal",
+        "major",
+        "primary"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 主要",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 592,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 祝 into English.",
+      "examples": [
+        "Pinyin: zhù"
+      ],
+      "possibleAnswers": [
+        "to wish",
+        "to express good wishes",
+        "to pray",
+        "(old) wizard"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 祝",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 593,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 注意 into English.",
+      "examples": [
+        "Pinyin: zhù yì"
+      ],
+      "possibleAnswers": [
+        "to take note of",
+        "to pay attention to"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 注意",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 594,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 字典 into English.",
+      "examples": [
+        "Pinyin: zì diǎn"
+      ],
+      "possibleAnswers": [
+        "dictionary",
+        "character dictionary"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 字典",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 595,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 自己 into English.",
+      "examples": [
+        "Pinyin: zì jǐ"
+      ],
+      "possibleAnswers": [
+        "oneself",
+        "one's own"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 自己",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 596,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 总是 into English.",
+      "examples": [
+        "Pinyin: zǒng shì"
+      ],
+      "possibleAnswers": [
+        "always"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 总是",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 597,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 最近 into English.",
+      "examples": [
+        "Pinyin: zuì jìn"
+      ],
+      "possibleAnswers": [
+        "recent",
+        "recently",
+        "these days",
+        "latest",
+        "soon",
+        "nearest (of locations)",
+        "shortest (of routes)"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 最近",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 598,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 作业 into English.",
+      "examples": [
+        "Pinyin: zuò yè"
+      ],
+      "possibleAnswers": [
+        "school assignment",
+        "homework",
+        "work",
+        "task",
+        "operation",
+        "to operate"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 作业",
+      "referencesSources": []
+    }
+  },
+  {
+    "id": 599,
+    "content": {
+      "version": "1.0.0",
+      "categories": [
+        "language",
+        "mandarin",
+        "hsk",
+        "hsk3"
+      ],
+      "topics": [
+        "vocabulary",
+        "translation",
+        "reading comprehension"
+      ],
+      "questionText": "Please translate the Chinese word 作用 into English.",
+      "examples": [
+        "Pinyin: zuò yòng"
+      ],
+      "possibleAnswers": [
+        "to act on",
+        "to affect",
+        "action",
+        "function",
+        "activity",
+        "impact",
+        "result",
+        "effect",
+        "purpose",
+        "intent",
+        "to play a role",
+        "corresponds to english -ity",
+        "-ism",
+        "-ization"
+      ],
+      "difficulty": "HSK3",
+      "extraInfo": "Original Hanzi: 作用",
+      "referencesSources": []
+    }
+  }
+]

@@ -105,8 +105,35 @@ function getRandomQuestion(topic, book = null) {
 		else {
 			return false;
 		}
-
 		return selectedJLPTLevel[Math.floor(Math.random() * selectedJLPTLevel.length)];
+	}
+	else if (topic === 'mandarin') {
+		const HSKlevels = [hsk1Vocab, hsk2Vocab, hsk3Vocab, hsk4Vocab, hsk5Vocab, hsk6Vocab];
+
+		const potentiallyRequestedHSKLevel = suntopicData;
+
+		let selectedHSKLevel;
+
+		if (!potentiallyRequestedHSKLevel) {
+
+			// (): Perform a random selectment of JLPT level:
+			selectedHSKLevel = HSKlevels[Math.floor(Math.random() * HSKlevels.length)];
+		}
+		else if (potentiallyRequestedHSKLevel < 1 || potentiallyRequestedHSKLevel > 7) {
+			return false;
+		}
+		else if (potentiallyRequestedHSKLevel > 0 && potentiallyRequestedHSKLevel < 7) {
+
+			// (): Remark how the JLPT level supplies is just -1 from the programmatic index of the `HSKlevels` array:
+			const indexOfJLPTLevel = potentiallyRequestedHSKLevel - 1;
+
+			// (): Index the array accordingly to obtain the correct HSK level:
+			selectedHSKLevel = HSKlevels[indexOfJLPTLevel];
+		}
+		else {
+			return false;
+		}
+		return selectedHSKLevel[Math.floor(Math.random() * selectedHSKLevel.length)];
 
 
 	}
