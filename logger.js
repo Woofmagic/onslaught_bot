@@ -25,7 +25,6 @@ const { DateTime } = require('luxon');
 
 // () Constructor:
 const winstonLogger = winston.createLogger({
-	level: 'info',
 	format: winston.format.combine(
 		winston.format.timestamp({
 			format: () => DateTime.now().toISO(),

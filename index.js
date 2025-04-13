@@ -16,6 +16,7 @@
  * - 2025-04-06: Creation of the file.
  * - 2025-04-07: Includes registration of slash commands and events.
  * - 2025-04-07: Integrates API deployment of slash commands.
+ * - 2025-04-13: Added Winston logger.
  */
 
 
@@ -42,7 +43,7 @@ const { Client, Collection, GatewayIntentBits, Partials, REST, Routes } = requir
 const { clientId, developmentServerId, token } = require('./config.json');
 
 // (4): Import the Winston Logger:
-const { logInformation, logError } = require('./logger');
+const { logInformation, logError, logWarning } = require('./logger');
 
 const filePath = path.basename(__filename);
 
@@ -129,7 +130,7 @@ for (const commandFolder of foldersOfCommands) {
 		else {
 
 			// (): ... we log a warning about that:
-			logWarning(filePath, `[WARNING] The command at ${filePathToCommand} is missing a required "data" or "execute" property.`);
+			logWarning(filePath, `The command at ${filePathToCommand} is missing a required "data" or "execute" property.`);
 		}
 	}
 }
@@ -144,13 +145,13 @@ const eventFiles = fs.readdirSync(eventsPath).filter(file => file.endsWith('.js'
 for (const file of eventFiles) {
 
 	// (): Log that we are registering a given subcommand:
-	console.log(`> Now registering event ${file} in the events folder ${eventsPath}`);
+	logInformation(filePath, `> Now registering event ${file} in the events folder ${eventsPath}`);
 
 	// (): Obtain the given file corresponding to a single event:
-	const filePath = path.join(eventsPath, file);
+	const filePathToEvent = path.join(eventsPath, file);
 
 	// (): Unpack the module by reading its path and requiring it:
-	const event = require(filePath);
+	const event = require(filePathToEvent);
 
 	// (): read the `.once` property, and if it is true...
 	if (event.once) {
@@ -175,7 +176,7 @@ const restAPI = new REST().setToken(token);
 
 	// (): Set up the try part of this block:
 	try {
-		console.log(`> Started refreshing ${commands.length} application (/) commands.`);
+		logInformation(filePath, `> Started refreshing ${commands.length} application (/) commands.`);
 
 		// (): Asynchronously PUT slash command data to: `/applications/{application.id}/guilds/{guild.id}/commands`:
 		const data = await restAPI.put(
@@ -188,21 +189,21 @@ const restAPI = new REST().setToken(token);
 		);
 
 		// (): Log if it was successful:
-		console.log(`> Successfully reloaded ${data.length} application (/) commands.`);
+		logInformation(filePath, `> Successfully reloaded ${data.length} application (/) commands.`);
 	}
 
 	// (): If there's an error in the request...
 	catch (error) {
 
 		// (): ...log the issue, but we will handle this with something better later:
-		console.log(`> Error encountered when deploying commands via REST:\n> ${error}`);
+		logError(filePath, `> Error encountered when deploying commands via REST:\n> ${error}`);
 	}
 })();
 
 try {
 	client.login(token);
-	console.log('> Discord bot logged in!');
+	logInformation(filePath, '> Discord bot logged in!');
 }
 catch (error) {
-	console.log(`> Error occurred during the client login:\n> ${error.message}`);
+	logError(filePath, `> Error occurred during the client login:\n> ${error.message}`);
 }
