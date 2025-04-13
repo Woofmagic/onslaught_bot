@@ -54,7 +54,7 @@ function getRandomQuestion(topic, book = null) {
 
 	}
 	// (X.Y): If the selected topic is 'book', then the user needs separate logic:
-	else if (topic === 'literature') {
+	else if (topic === 'books') {
 		if (!book) {
 			throw new Error('> Book must be specified when topic is "book".');
 		}

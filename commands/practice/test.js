@@ -53,7 +53,7 @@ module.exports = {
 		)
 		.addSubcommandGroup((group) =>
 			group
-				.setName('literature')
+				.setName('books')
 				.setDescription('Practice your knowledge of various written works.')
 				.addSubcommand((subcommand) =>
 					subcommand
@@ -74,6 +74,8 @@ module.exports = {
 
 		const chosenSubcommand = interaction.options.getSubcommand();
 
+		const didUserSelectBookTitle = interaction.options.getString('booktitle');
+
 		if (chosenSubcommand === 'internet_technology') {
 			console.log('> User chose to practice IT topics!');
 
@@ -81,7 +83,7 @@ module.exports = {
 		else if (chosenSubcommand === 'philosophy') {
 			console.log('> User chose to practice philosophy topics!');
 		}
-		else if (chosenSubcommand === 'literature') {
+		else if (chosenSubcommand === 'books') {
 			console.log('> User chose to practice literature topics!');
 
 			if (didUserSelectBookTitle === null) {
@@ -95,8 +97,6 @@ module.exports = {
 				content: 'I did not understand your test selection. Please try again.',
 			});
 		}
-
-		const didUserSelectBookTitle = interaction.options.getString('booktitle');
 
 		const question = getRandomQuestion(chosenSubcommand, didUserSelectBookTitle);
 
@@ -117,9 +117,9 @@ module.exports = {
 
 		const questionMessage = await interaction.reply({
 			embeds: [embed],
-			fetchReply: true,
+			withResponse: true,
 		});
-		console.log(questionMessage);
+
 
 		if (interfaceType === 'multiple-choice') {
 
@@ -170,8 +170,7 @@ module.exports = {
 			});
 		}
 		else {
-			const response = await awaitFreeResponse(interaction, possibleAnswers);
-
+			const response = await awaitFreeResponse(interaction, possibleAnswers, questionMessage.resource.message);
 
 			await interaction.followUp({
 				content: response.correct

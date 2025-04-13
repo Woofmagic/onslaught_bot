@@ -17,7 +17,7 @@
  */
 
 // (1): Define the function:
-async function awaitFreeResponse(interaction, correctAnswers, timeout = 10000) {
+async function awaitFreeResponse(interaction, correctAnswers, questionMessage) {
 
 	// (1.1): The filter we pass
 	const filter = message => message.author.id === interaction.user.id;
@@ -28,27 +28,56 @@ async function awaitFreeResponse(interaction, correctAnswers, timeout = 10000) {
 	// (): We now define the MessageCollector:
 	const collector = interaction.channel.createMessageCollector({
 		filter,
-		time: timeout,
+		time: 10000,
 		max: 1,
 	});
 
-	// (): Return the promise:
-	return new Promise((resolve) => {
-		collector.on('collect', message => {
-			resolve({
-				response: message.content,
-				correct: correctAnswers.some(
-					ans => message.content.toLowerCase().includes(ans.toLowerCase()),
-				),
-			});
-		});
+	const responseObj = {
+		correct: false,
+		response: null,
+	};
 
-		collector.on('end', collected => {
-			if (collected.size === 0) {
-				resolve({ response: null, correct: false });
-			}
-		});
+	collector.on('collect', async (freeResponseMessage) => {
+		const userAnswer = freeResponseMessage.content.trim().toLowerCase();
+		const didTheUserGetCorrectAnswer = correctAnswers.some(
+			(answer) => answer.trim().toLowerCase() === userAnswer,
+		);
+
+		responseObj.correct = didTheUserGetCorrectAnswer;
+		responseObj.response = userAnswer;
+
+		// Delete the original question message
+		await questionMessage.delete().catch(console.error);
 	});
+
+	collector.on('end', async (collected) => {
+		if (collected.size === 0) {
+			responseObj.response = null;
+			await questionMessage.delete().catch(console.error);
+		}
+	});
+
+	return new Promise((resolve) => {
+		collector.on('end', () => resolve(responseObj));
+	});
+
+	// (): Return the promise:
+	// return new Promise((resolve) => {
+	// 	collector.on('collect', message => {
+	// 		resolve({
+	// 			response: message.content,
+	// 			correct: correctAnswers.some(
+	// 				ans => message.content.toLowerCase().includes(ans.toLowerCase()),
+	// 			),
+	// 		});
+	// 	});
+
+	// 	collector.on('end', collected => {
+	// 		if (collected.size === 0) {
+	// 			resolve({ response: null, correct: false });
+	// 		}
+	// 	});
+	// });
 }
 
 module.exports = { awaitFreeResponse };
