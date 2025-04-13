@@ -37,8 +37,24 @@ const compTIAAPlusPeripheralsQuestions = require('./../../statics/quizContents/i
 
 const kantStephanKorner1955Questions = require('./../../statics/quizContents/books/kant_korner/kantKorner1955.json');
 
+const jlpt1Vocab = require('./../../statics/quizContents/language/japanese/jlptVocab/jlpt1_modified.json');
+const jlpt2Vocab = require('./../../statics/quizContents/language/japanese/jlptVocab/jlpt2_modified.json');
+const jlpt3Vocab = require('./../../statics/quizContents/language/japanese/jlptVocab/jlpt3_modified.json');
+const jlpt4Vocab = require('./../../statics/quizContents/language/japanese/jlptVocab/jlpt4_modified.json');
+const jlpt5Vocab = require('./../../statics/quizContents/language/japanese/jlptVocab/jlpt5_modified.json');
+
+const hsk1Vocab = require('./../../statics/quizContents/language/mandarin/hskVocab/hsk1.json');
+const hsk2Vocab = require('./../../statics/quizContents/language/mandarin/hskVocab/hsk2.json');
+const hsk3Vocab = require('./../../statics/quizContents/language/mandarin/hskVocab/hsk3.json');
+const hsk4Vocab = require('./../../statics/quizContents/language/mandarin/hskVocab/hsk4.json');
+const hsk5Vocab = require('./../../statics/quizContents/language/mandarin/hskVocab/hsk5.json');
+const hsk6Vocab = require('./../../statics/quizContents/language/mandarin/hskVocab/hsk6.json');
+
 // (X): We define the main function:
 function getRandomQuestion(topic, book = null) {
+
+	const topicData = topic.topic;
+	const suntopicData = topic.subtopic;
 
 	console.log(`> User selected topic: ${topic}`);
 	// (X.1): If the selected topic is 'philosophy'...
@@ -62,6 +78,37 @@ function getRandomQuestion(topic, book = null) {
 			// (3.3): Now, we choose a random problem from that data using the standard approach:
 			return kantStephanKorner1955Questions[Math.floor(Math.random() * kantStephanKorner1955Questions.length)];
 		}
+	}
+	else if (topic === 'japanese') {
+		const JLPTLevels = [jlpt1Vocab, jlpt2Vocab, jlpt3Vocab, jlpt4Vocab, jlpt5Vocab];
+
+		const potentiallyRequestedJLPTLevel = suntopicData;
+
+		let selectedJLPTLevel;
+
+		if (!potentiallyRequestedJLPTLevel) {
+
+			// (): Perform a random selectment of JLPT level:
+			selectedJLPTLevel = JLPTLevels[Math.floor(Math.random() * JLPTLevels.length)];
+		}
+		else if (potentiallyRequestedJLPTLevel < 1 || potentiallyRequestedJLPTLevel > 5) {
+			return false;
+		}
+		else if (potentiallyRequestedJLPTLevel > 0 && potentiallyRequestedJLPTLevel < 6) {
+
+			// (): Remark how the JLPT level supplies is just -1 from the programmatic index of the `JLPTLevels` array:
+			const indexOfJLPTLevel = potentiallyRequestedJLPTLevel - 1;
+
+			// (): Index the array accordingly to obtain the correct JLPT level:
+			selectedJLPTLevel = JLPTLevels[indexOfJLPTLevel];
+		}
+		else {
+			return false;
+		}
+
+		return selectedJLPTLevel[Math.floor(Math.random() * selectedJLPTLevel.length)];
+
+
 	}
 }
 
