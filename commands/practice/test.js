@@ -32,8 +32,8 @@ module.exports = {
 		.setName('test')
 		// https://discord.com/developers/docs/reference#locales
 		.setNameLocalizations({
-			'zh-CN': 'kaoshi',
-			'ja': 'shiken',
+			'zh-CN': '小考',
+			'ja': 'クイズ',
 		})
 		.setDescription('Test your knowledge.')
 		.addSubcommandGroup((group) =>
@@ -144,6 +144,9 @@ module.exports = {
 
 		const question = getRandomQuestion(chosenSubcommand, didUserSelectBookTitle);
 
+		// (): For the time being, we are not allowing multiple-choice things
+		// - the reason for this is because we need to supply additional data that describes
+		// - "possble choice", and that is really hard.
 		// const interfaceType = chooseInterface();
 		const interfaceType = 'free-response';
 
@@ -153,7 +156,7 @@ module.exports = {
 
 		const embed = new EmbedBuilder()
 			.setTitle(` ${chosenSubcommand} / Difficulty: ${question.content.difficulty}`)
-			.setDescription(`"${questionText}"`)
+			.setDescription(questionText)
 			.setFooter({
 				text: interfaceType === 'multiple-choice' ?
 					'Multiple-choice question; select an answer within 10 seconds.' :
@@ -221,7 +224,7 @@ module.exports = {
 				content: response.correct
 					? '✅ Correct!'
 					: response.response
-						? `❌ Incorrect. I was looking for **${possibleAnswers[0]}**.`
+						? `Your answer of *${response.response}* was incorrect. I was looking for **${possibleAnswers[0]}**.`
 						: `⏰ Time's up! The correct answer was **${possibleAnswers[0]}**.`,
 				components: [],
 				embeds: [],
