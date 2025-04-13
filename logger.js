@@ -15,14 +15,15 @@
  */
 
 
-// (1): Import libraries:
+// (): Import libraries:
 
-// (1.1): Import Winston
+// (2): Import Winston
 const winston = require('winston');
 
-// (1.2): Import Luxon for accurate DateTimes:
+// (3): Import Luxon for accurate DateTimes:
 const { DateTime } = require('luxon');
 
+// () Constructor:
 const winstonLogger = winston.createLogger({
 	level: 'info',
 	format: winston.format.combine(
@@ -43,8 +44,10 @@ const winstonLogger = winston.createLogger({
 
 module.exports = {
 	winstonLogger,
+	logInformation: (filePath, message) =>
+		winstonLogger.info(message, { filePath }),
+	logWarning: (filePath, message) =>
+		winstonLogger.warn(message, { filePath }),
 	logError: (filePath, message) =>
 		winstonLogger.error(message, { filePath }),
-	logInfo: (filePath, message) =>
-		winstonLogger.info(message, { filePath }),
 };

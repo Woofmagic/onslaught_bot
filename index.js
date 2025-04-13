@@ -41,6 +41,11 @@ const { Client, Collection, GatewayIntentBits, Partials, REST, Routes } = requir
 // (4): Obtain both the bot ID and the bot token from the configuration file:
 const { clientId, developmentServerId, token } = require('./config.json');
 
+// (4): Import the Winston Logger:
+const { logInformation, logError } = require('./logger');
+
+const filePath = path.basename(__filename);
+
 // (5): Declare the relevant Partials required to run the bot:
 const discordBotPartials = [
 	Partials.Message,
@@ -90,7 +95,7 @@ const foldersOfCommands = fs.readdirSync(pathToCommandsFolders);
 for (const commandFolder of foldersOfCommands) {
 
 	// (X): Print out what subfolder in commands/ we're iterating through:
-	console.log(`> Now registering commands in the subfolder ${commandFolder}`);
+	logInformation(filePath, `> Now registering commands in the subfolder ${commandFolder}`);
 
 	// (): Construct the path to each subfolder via commands/subcommands/
 	const commandsPath = path.join(pathToCommandsFolders, commandFolder);
@@ -102,7 +107,7 @@ for (const commandFolder of foldersOfCommands) {
 	for (const commandFile of commandFiles) {
 
 		// (): Log that we are registering a given subcommand:
-		console.log(`> Now registering command ${commandFile} in the subfolder ${commandFolder}`);
+		logInformation(filePath, `> Now registering command ${commandFile} in the subfolder ${commandFolder}`);
 
 		// (): Construct the path to the given subcommand:
 		const filePathToCommand = path.join(commandsPath, commandFile);
@@ -124,7 +129,7 @@ for (const commandFolder of foldersOfCommands) {
 		else {
 
 			// (): ... we log a warning about that:
-			console.log(`[WARNING] The command at ${filePathToCommand} is missing a required "data" or "execute" property.`);
+			logWarning(filePath, `[WARNING] The command at ${filePathToCommand} is missing a required "data" or "execute" property.`);
 		}
 	}
 }
