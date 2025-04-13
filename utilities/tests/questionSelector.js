@@ -43,12 +43,12 @@ const jlpt3Vocab = require('./../../statics/quizContents/language/japanese/jlptV
 const jlpt4Vocab = require('./../../statics/quizContents/language/japanese/jlptVocab/jlpt4_modified.json');
 const jlpt5Vocab = require('./../../statics/quizContents/language/japanese/jlptVocab/jlpt5_modified.json');
 
-const hsk1Vocab = require('./../../statics/quizContents/language/mandarin/hskVocab/hsk1.json');
-const hsk2Vocab = require('./../../statics/quizContents/language/mandarin/hskVocab/hsk2.json');
-const hsk3Vocab = require('./../../statics/quizContents/language/mandarin/hskVocab/hsk3.json');
-const hsk4Vocab = require('./../../statics/quizContents/language/mandarin/hskVocab/hsk4.json');
-const hsk5Vocab = require('./../../statics/quizContents/language/mandarin/hskVocab/hsk5.json');
-const hsk6Vocab = require('./../../statics/quizContents/language/mandarin/hskVocab/hsk6.json');
+const hsk1Vocab = require('./../../statics/quizContents/language/mandarin/hskVocab/hsk1_modified.json');
+const hsk2Vocab = require('./../../statics/quizContents/language/mandarin/hskVocab/hsk2_modified.json');
+const hsk3Vocab = require('./../../statics/quizContents/language/mandarin/hskVocab/hsk3_modified.json');
+const hsk4Vocab = require('./../../statics/quizContents/language/mandarin/hskVocab/hsk4_modified.json');
+const hsk5Vocab = require('./../../statics/quizContents/language/mandarin/hskVocab/hsk5_modified.json');
+const hsk6Vocab = require('./../../statics/quizContents/language/mandarin/hskVocab/hsk6_modified.json');
 
 // (X): We define the main function:
 function getRandomQuestion(topic, book = null) {
