@@ -53,7 +53,34 @@ module.exports = {
 		)
 		.addSubcommandGroup((group) =>
 			group
-				.setName('books')
+				.setName('language')
+				.setDescription('Practice your vocabulary.')
+				.addSubcommand((subcommand) =>
+					subcommand
+						.setName('mandarin')
+						.setDescription('Tests the user on Mandarin vocabulary that is required for the Hanyu Shuiping Kaoshi (HSK) exam.')
+						.addStringOption((option) =>
+							option
+								.setName('hsklevel')
+								.setDescription('Select a vocabulary word from HSK 1 to HSK 6.')
+								.setRequired(false),
+						),
+				)
+				.addSubcommand((subcommand) =>
+					subcommand
+						.setName('japanese')
+						.setDescription('Test the user on Japanese language vocabulary required for the JLPT exam.')
+						.addStringOption((option) =>
+							option
+								.setName('jlptlevel')
+								.setDescription('Select a question from JLPT 5 to JLPT 1.')
+								.setRequired(false),
+						),
+				),
+		)
+		.addSubcommandGroup((group) =>
+			group
+				.setName('literature')
 				.setDescription('Practice your knowledge of various written works.')
 				.addSubcommand((subcommand) =>
 					subcommand
@@ -72,11 +99,28 @@ module.exports = {
 		),
 	async execute(interaction) {
 
+		if (!interaction) return;
+		if (!interaction?.guild) return;
+		if (!interaction?.guild?.id) return;
+		if (!interaction?.isChatInputCommand()) return;
+
+		const guildID = interaction.guild.id;
+		const userID = interaction.user.id;
+
+		const mentionedUser = interaction.options.getUser('user');
+		const mentionedUserID = mentionedUser?.id;
+
 		const chosenSubcommand = interaction.options.getSubcommand();
 
 		const didUserSelectBookTitle = interaction.options.getString('booktitle');
 
-		if (chosenSubcommand === 'internet_technology') {
+		if (chosenSubcommand === 'mandarin') {
+			console.log('> User chose to practice mandarin!');
+		}
+		else if (chosenSubcommand === 'japanese') {
+			console.log('> User chose to practice japanese!');
+		}
+		else if (chosenSubcommand === 'internet_technology') {
 			console.log('> User chose to practice IT topics!');
 
 		}
@@ -100,7 +144,8 @@ module.exports = {
 
 		const question = getRandomQuestion(chosenSubcommand, didUserSelectBookTitle);
 
-		const interfaceType = chooseInterface();
+		// const interfaceType = chooseInterface();
+		const interfaceType = 'free-response';
 
 		const questionText = question.content.questionText;
 
@@ -176,8 +221,8 @@ module.exports = {
 				content: response.correct
 					? '✅ Correct!'
 					: response.response
-						? `❌ Incorrect. I was looking for **${possibleAnswers[0]}**`
-						: `⏰ Time's up! The correct answer was **${possibleAnswers[0]}**`,
+						? `❌ Incorrect. I was looking for **${possibleAnswers[0]}**.`
+						: `⏰ Time's up! The correct answer was **${possibleAnswers[0]}**.`,
 				components: [],
 				embeds: [],
 			});
